@@ -177,7 +177,22 @@ Evoking emotion: Chromatic mode can be used to evoke grief, loss, or sorrow.
 
 [Understand Chromatic Mode on Ableton PUSH - Course Excerpt](https://www.youtube.com/watch?v=gYER7ko668w&t=428s)
 
+## Melodic Parts
+
+Melodic parts are the notes that make up the tune, or melody, of a piece of music. The melody is often the most memorable part of a song. 
+
+Pitch: The notes that make up the melody
+Rhythm: The pattern of pitches in time
+Structure: The arrangement of notes, including intervals, scales, motifs, and phrasing
+Dynamics: How loud or soft the melody is played
+Texture: The density of the layers of sounds, melodies, and rhythms
+Timbre: The quality of the sound
+
+In this Ableton Push tutorial video you’ll learn how to transform and tweak sounds by adjusting the parameters or adding effects.
+
 [Sound design: melodic parts](https://youtu.be/sNUftRALnto)
+
+Learn how to step sequence notes and chords with the melodic step sequencer on Ableton Push.
 
 [Melodic Step Sequencer](https://youtu.be/kj03AHwm23M)
 
