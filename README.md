@@ -1,5 +1,5 @@
 # PUSH-2-Cheats
-A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all push 2 users.  I wanted to create a guide where I could have a ton of resources on every subject for the push in one location and this is what I came up with.
+A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all push 2 users.  I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with.
 
 
 
