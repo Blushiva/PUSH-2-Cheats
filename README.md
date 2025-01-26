@@ -29,6 +29,8 @@ A basic overview of video guides of quick tips and tricks to get you using Push 
 
 [My New 7 Hour Ableton Live & Push 2 Course](https://www.youtube.com/watch?v=vlp-KFBQ1wo)
 
+[Ableton Push 2 : Creating a Full Track from Scratch (Start to Finish)](https://www.youtube.com/watch?app=desktop&v=aoaQqqwyxdc&t=0s)
+
 
 
 ## How To Load Samples
