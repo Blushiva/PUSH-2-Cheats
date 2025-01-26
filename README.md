@@ -5,7 +5,7 @@ A learning guide for Push 2 Enthusiasts.
 
 A basic overview of video guides of quick tips and tricks to get you using Push 2 quickly.
 
-
+[PUSH 2 - LEARN IT IN 15 MIN](https://www.youtube.com/watch?v=I00_RCF8R2c)
 
 ## How To Load Samples
 
