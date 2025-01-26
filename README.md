@@ -28,7 +28,16 @@ Have a look at what you’ll find when you unbox your new Ableton Push for the f
 
 [Learn Push 2: Unboxing](https://www.youtube.com/watch?v=Lu4Y8hObjCs)
 
+General Overview
+
+In this tutorial you’ll get a complete overview of all features and functions of the new Ableton Push.
+
 [General overview](https://youtu.be/gSC5zRr4zfw)
+
+Step Sequencing Beats
+
+"Step sequencing beats" in Ableton means creating a drum beat by programming individual notes (or "steps") in a sequence, where each step represents a specific rhythmic division within a bar, allowing you to build a rhythm pattern by activating specific steps in a grid-like interface, usually using the pads on a controller like Ableton Push, to trigger different drum sounds one after another to form a beat. 
+Learn how to program beats using the step sequencer on Ableton Push.
 
 [Step sequencing beats](https://youtu.be/RFoI54IICTs)
 
