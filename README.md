@@ -13,6 +13,8 @@ Instructional videos
 
 [Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)
 
+# HOW TO ROUTE AUDIO AND MIDI
+
 [Learn Push 2: Routing audio and MIDI](https://www.youtube.com/watch?v=ODRWqF02PxA)
 
 # ADDING MIDI EFFECTS
