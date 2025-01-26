@@ -106,13 +106,77 @@ Different drum styles and techniques can be used to create a wide range of sound
 
 [4 Secret Tips To Next-Level Drums](https://www.productionmusiclive.com/blogs/news/4-secret-tips-to-perfect-drums)
 
+
 ## Melodies in Ableton
+
+A melody in a song acts as the "tune" or main musical line, defining the song's character, conveying emotions, and serving as the most memorable part that listeners typically recognize and hum along to; essentially, it's the sequence of notes that tells the musical story within a song. 
+
+A melody is what distinguishes one song from another, making it the most recognizable element.  By using different pitch patterns and rhythms, a melody can convey a wide range of emotions, from joy to sadness. 
+The melody dictates the order and duration of notes, forming the overall structure of the song.  A good melody is often considered "catchy" because it is easy to remember and sing along to. 
+
+A melody can be defined as a sequence of single notes that are musically pleasing to the listener. It's the part of a song which is most memorable and is often referred to as the tune.
+
+A melody is one of the basic elements of music. Melodies are the part of music that is above the chords and rhythm. They can come in many shapes and sizes, and can have lyrics or be instrumental. They can be played very high, or very low. We can hear them played by instruments like a violin, guitar, saxophone, trumpet, or sung by a voice. The most important thing to remember is that they are always only one pitch at a time. 
+
+Musical ideas can be hard to explain and are often defined by using complex Italian music terms, or using difficult music theory — but Melody may be the simplest and easiest musical concept musicians have. 
 
 [Play melodies](https://youtu.be/UqFxK9eoZYE)
 
 ## Chords In Ableton
 
+A chord in music is a group of notes that are played simultaneously to create harmony. Chords are built from intervals of notes, such as thirds and fifths. 
+Types of chords: 
+
+Triad: A chord made up of three notes: a root note, a third, and a fifth 
+
+7th chord: A chord made up of four notes, also known as a tetrad 
+
+Extended chord: A chord made up of five or more notes 
+
+Diminished chord: A chord made up of a root note, a minor third, and a diminished fifth 
+
+Augmented chord: A chord made up of a root note, a major third, and an augmented fifth 
+
+Chord qualities: 
+
+Consonant: A chord that implies repose
+
+Dissonant: A chord that implies resolution to another chord
+Uses of chords 
+
+Accompaniment: Chords provide the backdrop for melodies
+
+Songwriting: Chord progressions are often the starting point for writing songs
+Improvisation: Understanding chords helps musicians improvise
+
+Arrangement: Chords are important for arranging music for different instruments and ensembles
+
 [Play chords](https://youtu.be/WdwnkcTjOuQ)
+
+## CHROMATIC NOTE MODE
+
+Chromatic note mode is a mode on some musical instruments that allows the player to access all 12 notes of an octave. It can be used to create melodies, embellish other scales, or tune instruments. 
+
+How it works:
+
+The chromatic scale is made up of all the white and black keys on a piano. 
+Each note in the chromatic scale is a half step apart. 
+Sharps move up a half step, while flats move down a half step. 
+The chromatic scale doesn't have a tonal center, so it doesn't gravitate towards a particular tone. 
+
+When to use it:
+
+Leads: Chromatic mode can be used to create leads. 
+
+Classical impressionism: Chromatic mode can be used to create a classical impressionist sound. 
+
+Pitch bending: Chromatic mode can be used for pitch bending. 
+
+Tuning: Chromatic mode can be used to tune an instrument to any of the 12 pitches of the chromatic scale. 
+
+Embellishing other scales: Chromatic mode can be used to embellish the tones of major and minor scales.
+
+Evoking emotion: Chromatic mode can be used to evoke grief, loss, or sorrow. 
 
 [Chromatic Note Mode](https://youtu.be/2kfGNSN4r3g)
 
