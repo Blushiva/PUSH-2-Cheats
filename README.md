@@ -15,7 +15,7 @@ A basic overview of video guides of quick tips and tricks to get you using Push 
 
 [Top 5 things every Ableton Push 2 beginner should understand](https://www.youtube.com/watch?v=Vv5hA226s3I)
 
-[Ableton Push 2 Beginner Course Part 1 | Tour Of Push 2 Controller] (https://www.youtube.com/watch?v=J-BIlB8f--Y)
+[Ableton Push 2 Beginner Course Part 1 | Tour Of Push 2 Controller](https://www.youtube.com/watch?v=J-BIlB8f--Y)
 
 [] ()
 
