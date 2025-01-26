@@ -175,6 +175,8 @@ Evoking emotion: Chromatic mode can be used to evoke grief, loss, or sorrow.
 
 [Chromatic Note Mode](https://youtu.be/2kfGNSN4r3g)
 
+[Understand Chromatic Mode on Ableton PUSH - Course Excerpt](https://www.youtube.com/watch?v=gYER7ko668w&t=428s)
+
 [Sound design: melodic parts](https://youtu.be/sNUftRALnto)
 
 [Melodic Step Sequencer](https://youtu.be/kj03AHwm23M)
