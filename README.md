@@ -274,6 +274,215 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 #### WORKFLOWS
 
+[Learn Live: Editing clips in Arrangement View](https://www.youtube.com/watch?v=xdwZpIpN6ys)
+
+[Learn Live: Arrangement View automation](https://www.youtube.com/watch?v=DPBN34nQ_v4)
+
+[Learn Live: Automation vs. modulation](https://www.youtube.com/watch?v=hukVniFeCi8)
+
+[Learn Live: Clip automation](https://youtu.be/IdQYUk8w5jM)
+
+[Learn Live: Modulation in Session View](https://www.youtube.com/watch?v=fFLsYd2q_Ao)
+
+[Learn Live: Moving between Session and Arrangement Views](https://youtu.be/OaQpybm5Pcw)
+
+[Learn Live: Recording MIDI](https://youtu.be/4auPj7yQ3uY)
+
+[Learn Live: Capturing MIDI](https://youtu.be/aJg1UfePwTc)
+
+[Learn Live : Quantizing MIDI](https://youtu.be/3FlbtZawNTs)
+
+[Learn Live: Sequencing MIDI – part 1](https://youtu.be/1cFTonBejIQ)
+
+[Learn Live: Sequencing MIDI – part 2](https://youtu.be/Paq66RsgpIk)
+
+[Learn Live: Grouping tracks](https://youtu.be/rCEHZ8pTKc4)
+
+[Learn Live: Routing](https://youtu.be/wxGrjJh8SrI)
+
+[Learn Live: Panning](https://youtu.be/-g9qyHVSd_k)
+
+[Learn Live: Freezing](https://youtu.be/a-0gOTm6Qdk)
+
+[Learn Live: Comping](https://youtu.be/uSzDKw-GFIU)
+
+[Learn Live: Linked-Track Editing](https://youtu.be/UuRDpqBsmD0)
+
+[Learn Live: Warping clips](https://youtu.be/tlsRVC72hx4)
+
+[Learn Live: Warping in Simpler](https://youtu.be/1I59CN7NKIg)
+
+[Learn Live: MPE](https://youtu.be/qIl1ZY29fAM)
+
+[Learn Live: MPE Control](https://youtu.be/TW5zHEIAGPo)
+
+[Learn Live: Chance Tools](https://youtu.be/0Ycau1tCxBQ)
+
+[Learn Live: Keys and Scales](https://youtu.be/IY7a7dXVmWE)
+
+[Learn Live: Tempo Follower](https://youtu.be/b5FCXmjm5iY)
+
+[Learn Live: Racks Overview](https://youtu.be/oNEKxxjgdpc)
+
+[Learn Live: Racks in Depth](https://youtu.be/eeJJGUsvk_8)
+
+[Learn Live: Follow Actions](https://youtu.be/yoSx763s9IY)
+
+[Learn Live: Editing MIDI clips](https://youtu.be/_gDAcf0EUUY)
+
+[Learn Live: Multi-Clip Editing](https://youtu.be/lxDYmYaaIk0)
+
+[Learn Live: Exporting](https://youtu.be/JTtSihQ8QX0)
+
+[Learn Live: Automating Tempo Changes](https://youtu.be/iI06kTUtNDg)
+
+[Learn Live: MIDI mapping and key mapping](https://youtu.be/l0DM9JbkQBA)
+
+[Learn Live: Basic keyboard shortcuts](https://youtu.be/1hSPWWRIIbg)
+
+[Learn Live: Session View shortcuts](https://youtu.be/1Fm2vyDURhw)
+
+[Learn Live: Arrangement View shortcuts](https://youtu.be/WW_DnCnEggA)
+
+[Learn Live: Sidechaining audio](https://youtu.be/rbuTKgcteKo)
+
+[Learn Live: Using Ableton Link](https://youtu.be/_Jzz6GKdcFA)
+
+[Learn Live: Taking Note sketches further in Live](https://youtu.be/Kn0xHco5xJ0)
+
+[Learn Live 12: MIDI Transformations](https://youtu.be/E5rHIzm8sck)
+
+[Learn Live 12: MIDI Generators](https://youtu.be/Z9z1QFyVVCo)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 []()
 
 []()
