@@ -8,9 +8,21 @@ A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all p
 A basic overview of video guides of quick tips and tricks to get you using Push 2 quickly.
 
 [PUSH 2 - LEARN IT IN 15 MIN](https://www.youtube.com/watch?v=I00_RCF8R2c)
+
 [PUSH 2 - Learn It In 20 Minutes!](https://www.youtube.com/watch?v=ZqX03h4qig0)
-[]()
-[]()
+
+[Learn Push 2: Overview of features](https://www.youtube.com/watch?v=gSC5zRr4zfw)
+
+[Top 5 things every Ableton Push 2 beginner should understand](https://www.youtube.com/watch?v=Vv5hA226s3I)
+
+[Ableton Push 2 Beginner Course Part 1 | Tour Of Push 2 Controller] (https://www.youtube.com/watch?v=J-BIlB8f--Y)
+
+[] ()
+
+[] ()
+
+[] ()
+
 
 
 ## How To Load Samples
@@ -36,3 +48,7 @@ Instructional videos
 ## HOW CLIPS WORK ON PUSH 2
 
 [Learn Push 2: How Clips work on Push](https://www.youtube.com/watch?v=Sf_3HyrlqDo)
+
+##   RECORDING AUTOMATION
+
+[Learn Push 2: Recording automation] (https://www.youtube.com/watch?v=DdJabGICtzM)
