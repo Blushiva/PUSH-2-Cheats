@@ -167,15 +167,10 @@ The chromatic scale doesn't have a tonal center, so it doesn't gravitate towards
 When to use it:
 
 Leads: Chromatic mode can be used to create leads. 
-
 Classical impressionism: Chromatic mode can be used to create a classical impressionist sound. 
-
 Pitch bending: Chromatic mode can be used for pitch bending. 
-
 Tuning: Chromatic mode can be used to tune an instrument to any of the 12 pitches of the chromatic scale. 
-
 Embellishing other scales: Chromatic mode can be used to embellish the tones of major and minor scales.
-
 Evoking emotion: Chromatic mode can be used to evoke grief, loss, or sorrow. 
 
 [Chromatic Note Mode](https://youtu.be/2kfGNSN4r3g)
