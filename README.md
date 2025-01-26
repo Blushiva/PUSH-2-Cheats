@@ -178,48 +178,49 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 #### Interface
 
-[]()
+[SESSION VIEW](https://youtu.be/qv_N3plJYx4)
 
-[]()
+[ARRANGEMENT VIEW](https://youtu.be/riOD-fnyCsg)
 
-[]()
+[TRACKS](https://youtu.be/nFFYXMEG7NE)
 
-[]()
+[DETAIL VIEW](https://youtu.be/qCFsda-XTSg)
 
-[]()
+[LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
 
-[]()
+[TRANSPORT BAR AND FOLLOW BEHAVIOR](https://youtu.be/m84wUU8CQnY)
 
-[]()
+[SAVING PRESETS](https://youtu.be/Keafog2wB4E)
 
-[]()
+[FILE MANAGEMENT AND HELP VIEW](https://youtu.be/jCGZq752zso)
 
-[]()
+[GROOVE POOL](https://youtu.be/jvT8mNCKLDg)
 
-[]()
+[GROOVE POOL IN DEPTH](https://youtu.be/tVG8AOQGmNI)
 
-[]()
+[DUAL SCREEN MODE](https://youtu.be/bsMMhegTKH0)
 
-[]()
+[WHAT IS IN A PACK?](https://youtu.be/TKH93Dck_X4)
 
-[]()
+[LIVE'S USER INTERFACE](https://youtu.be/_XDkA_f8n08)
 
-[]()
+[LIVE'S BROWSER](https://youtu.be/KcmPBZTwq78)
 
 #### INSTRUMENTS AND EFFECTS
-[]()
 
-[]()
+[WAVETABLE: Overview](https://youtu.be/9wovKSfR66A)
 
-[]()
+[WAVETABLE: changing wavetables](https://youtu.be/TmFyhsQpIx4)
 
-[]()
+[WAVETABLE:osscillator Effect Modes](https://youtu.be/kzlwOZZ1STg)
 
-[]()
+[WAVETABLE: Modulation](https://youtu.be/IHgFpWYyaqQ)
 
-[]()
+[WAVETABLE: MPE](https://youtu.be/fGhI7rP74ww)
 
-[]()
+[WAVETABLE: Unison Modes](https://youtu.be/GTZuartMQGE)
+
+[WAVETABLE: Using your own Wavetables](https://youtu.be/UWjWu4e_-yI)
 
 []()
 
