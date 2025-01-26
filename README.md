@@ -354,15 +354,15 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [Learn Live 12: MIDI Generators](https://youtu.be/Z9z1QFyVVCo)
 
-[]()
+[Learn Live 12: MIDI Pitch and Time](https://youtu.be/GdBsL1X5AOI)
 
-[]()
+[Learn Live 12: Editing MIDI Notes](https://youtu.be/14biudaGwdM)
 
-[]()
+[Learn Live 12: Sound Similarity Search](https://youtu.be/TF6YD7CFnwY)
 
-[]()
+[Learn Live 12: Chance Tools and Probability](https://youtu.be/N_icb1Es-b8)
 
-[]()
+[Learn Live 12: Keys and Scales, Tuning Systems](https://youtu.be/tDR2AIUaHAE)
 
 []()
 
