@@ -28,13 +28,13 @@ Have a look at what you’ll find when you unbox your new Ableton Push for the f
 
 [Learn Push 2: Unboxing](https://www.youtube.com/watch?v=Lu4Y8hObjCs)
 
-General Overview
+## General Overview
 
 In this tutorial you’ll get a complete overview of all features and functions of the new Ableton Push.
 
 [General overview](https://youtu.be/gSC5zRr4zfw)
 
-Step Sequencing Beats
+## Step Sequencing Beats
 
 "Step sequencing beats" in Ableton means creating a drum beat by programming individual notes (or "steps") in a sequence, where each step represents a specific rhythmic division within a bar, allowing you to build a rhythm pattern by activating specific steps in a grid-like interface, usually using the pads on a controller like Ableton Push, to trigger different drum sounds one after another to form a beat. 
 Learn how to program beats using the step sequencer on Ableton Push.
@@ -74,6 +74,9 @@ Precise control: Fine-tune the timing and velocity of each step for detailed rhy
 
 [Step sequencing beats](https://youtu.be/RFoI54IICTs)
 
+## PLAYING DRUMS IN ABLETON
+
+Drums are the foundation of music.  Playing drums in ableton is a great way to make your track stand out.  
 [Playing drums](https://youtu.be/EwZriyteAlI)
 
 [Playing drums - advanced](https://youtu.be/Eo4rrmgFhXA)
@@ -82,7 +85,23 @@ Precise control: Fine-tune the timing and velocity of each step for detailed rhy
 
 [Sound design: drums](https://youtu.be/qg73SCviQKQ)
 
+[The Complete Guide To Drums In Ableton Live (With Easy Examples)](https://www.productionmusiclive.com/blogs/news/drums-in-ableton-guide?srsltid=AfmBOopz6hs4C-nbCsEeBF7xMJuZCl6Rg4DPJ0vBjWyhFdiipB_2AfM6)
+
+**Articles on creating masterful drums and beats:**
+
+[Guide: Humanizing MIDI Drums in Ableton (3 Essential Factors](https://www.productionmusiclive.com/blogs/news/humanizing-midi-drums)
+
+[How To Make A Powerful 808 Beat In Ableton Live](https://www.productionmusiclive.com/blogs/news/how-to-make-a-powerful-808-beat-in-ableton-live)
+
+[How To Make A Beat With Ableton](https://www.productionmusiclive.com/blogs/news/how-to-make-a-beat-with-ableton)
+
+[4 Secret Tips To Next-Level Drums](https://www.productionmusiclive.com/blogs/news/4-secret-tips-to-perfect-drums)
+
+## Melodies in Ableton
+
 [Play melodies](https://youtu.be/UqFxK9eoZYE)
+
+## Chords In Ableton
 
 [Play chords](https://youtu.be/WdwnkcTjOuQ)
 
