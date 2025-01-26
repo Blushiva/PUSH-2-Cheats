@@ -22,6 +22,10 @@ Get to know the different music-making elements Push 2 puts at your fingertips. 
 
 [Push 2 Learning](https://www.ableton.com/en/help/learn-push-2/)
 
+Push 2 Unboxing
+
+Have a look at what you’ll find when you unbox your new Ableton Push for the first time.
+
 [Learn Push 2: Unboxing](https://www.youtube.com/watch?v=Lu4Y8hObjCs)
 
 [General overview](https://youtu.be/gSC5zRr4zfw)
