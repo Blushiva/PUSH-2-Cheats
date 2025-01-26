@@ -55,16 +55,16 @@ You can also record a beat in real-time by pressing the pads in sequence, and th
 
 How to step sequence beats in Ableton:
 
-**Select a drum rack:**
+1. **Select a drum rack:**
 Load a drum rack in your MIDI track to access various drum sounds. 
 
-**Choose a step length:**
+2. **Choose a step length:**
 Set the desired step division (e.g., 16th notes) in the step sequencer settings. 
 
-**Trigger steps:**
+3. **Trigger steps:**
 Press the corresponding pads on your controller to activate the desired drum sounds on each step. 
 
-**Build a pattern:**
+4. **Build a pattern:**
 Repeat this process to create a complete rhythmic pattern across multiple steps. 
 
 **Benefits of step sequencing:** 
