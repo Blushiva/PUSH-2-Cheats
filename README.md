@@ -58,4 +58,4 @@ Instructional videos
 
 ##   RECORDING AUTOMATION
 
-[Learn Push 2: Recording automation] (https://www.youtube.com/watch?v=DdJabGICtzM)
+[Learn Push 2: Recording automation](https://www.youtube.com/watch?v=DdJabGICtzM)
