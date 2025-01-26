@@ -16,6 +16,10 @@ What everyone should read but no one does until they need specifics.  This is a 
 
 ## PUSH 2 LEARNING FROM ABLETON
 
+Push 2 Learning
+
+Get to know the different music-making elements Push 2 puts at your fingertips. Choose topics you’d like to learn or watch them in order – they’ll take you from setting up your Push 2 through to in-depth sampling techniques
+
 [Push 2 Learning](https://www.ableton.com/en/help/learn-push-2/)
 
 [Learn Push 2: Unboxing](https://www.youtube.com/watch?v=Lu4Y8hObjCs)
