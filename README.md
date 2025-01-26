@@ -1,6 +1,12 @@
 # PUSH-2-Cheats
 A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all push 2 users.  I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with.
 
+## THE MANUAL
+
+What everyone should read but no one does until they need specifics.  This is a handy guide into the Push 2.  I didn't realize the things this beautiful machine could do until I had been playing with it for 2 years.  It's when I started looking into using it as my main tool for live performance that I began to understand why people love this thing.  I also understand why people run away screaming from this toy.  There is so much to learn it's overwhelming.  I don't blame people for quitting.  Abelton as a program is vast and when you pair it with a controller that can open the universe, it takes a brave soul to not run away screaming.
+
+[Ableton Reference Manual](https://www.ableton.com/en/manual/using-push-2/)
+
 
 
 ## PUSH 2 LEARN IT QUICKLY
