@@ -176,7 +176,7 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [Computer Performance](https://youtu.be/0dXIa-1N4jI)
 
-#### Interface
+#### INTERFACE
 
 [SESSION VIEW](https://youtu.be/qv_N3plJYx4)
 
