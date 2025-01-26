@@ -18,6 +18,75 @@ What everyone should read but no one does until they need specifics.  This is a 
 
 [Push 2 Learning](https://www.ableton.com/en/help/learn-push-2/)
 
+[Learn Push 2: Unboxing](https://www.youtube.com/watch?v=Lu4Y8hObjCs)
+
+[General overview](https://youtu.be/gSC5zRr4zfw)
+
+[Step sequencing beats](https://youtu.be/RFoI54IICTs)
+
+[Playing drums](https://youtu.be/EwZriyteAlI)
+
+[Playing drums - advanced](https://youtu.be/Eo4rrmgFhXA)
+
+[Creating drum variations](https://youtu.be/1-e99KfTYQA)
+
+[Sound design: drums](https://youtu.be/qg73SCviQKQ)
+
+[Play melodies](https://youtu.be/UqFxK9eoZYE)
+
+[Play chords](https://youtu.be/WdwnkcTjOuQ)
+
+[Chromatic Note Mode](https://youtu.be/2kfGNSN4r3g)
+
+[Sound design: melodic parts](https://youtu.be/sNUftRALnto)
+
+[Melodic Step Sequencer](https://youtu.be/kj03AHwm23M)
+
+[Note Mode settings](https://youtu.be/G4AMycvuDJo)
+
+[32-Note Melodic Step Sequencer](https://youtu.be/GVilj3bChHY)
+
+[Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)
+
+[64-Pad Mode](https://youtu.be/gUdt3umIvL0)
+
+[Sampling: Classic Mode](https://youtu.be/kn57pE6yu1Y)
+
+[Sampling: One Shot Mode](https://youtu.be/CxLRd_4pXVQ)
+
+[Sampling: Slicing Mode](https://youtu.be/PZxizLQHKUg)
+
+[Sampling in depth: creative techniques](https://youtu.be/dwQVkA-PvUM)
+
+[Sampling in depth: warping](https://youtu.be/2gRyue0MkC0)
+
+[Session View](https://youtu.be/MpAimKnNTIE)
+
+[Session View - advanced](https://youtu.be/70qEVOfWD0E)
+
+[Mixing](https://youtu.be/gKKCwyUjplc)
+
+[Automation](https://youtu.be/DdJabGICtzM)
+
+[Sound design](https://youtu.be/YWTavM26SrM)
+
+[Clips](https://youtu.be/Sf_3HyrlqDo)
+
+[Clip View](https://youtu.be/bXOgrPg944M)
+
+[Recording audio](https://youtu.be/JjQeQgKURWY)
+
+[Routing](https://youtu.be/ODRWqF02PxA)
+
+[Sidechaining](https://youtu.be/XvaOKIMz7_Q)
+
+[Recording in the Arrangement View](https://youtu.be/CK5hQHoFMjI)
+
+[Navigate and Browse](https://youtu.be/PL9FhdhenCU)
+
+[Device visualizations](https://youtu.be/oi9uePsyJdY)
+
+
 
 ## MAX FOR LIVE
 
