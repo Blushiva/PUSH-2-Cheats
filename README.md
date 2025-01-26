@@ -19,9 +19,15 @@ A basic overview of video guides of quick tips and tricks to get you using Push 
 
 [How to use the Ableton push 2 for beginners - navigation and controls](https://www.youtube.com/watch?v=xPXG4aOoYlk)
 
-[]()
+[https://www.youtube.com/watch?v=BMSzQ6x1pto]()
 
-[]()
+[Getting started with Ableton Push: 5 Essential Tips](https://www.youtube.com/watch?v=BMSzQ6x1pto)
+
+[Ableton Push 2 Walkthrough](https://www.youtube.com/watch?v=m1FvVEhATYc)
+
+## ABELTON PUSH 2 FULL COURSES
+
+[My New 7 Hour Ableton Live & Push 2 Course](https://www.youtube.com/watch?v=vlp-KFBQ1wo)
 
 
 
