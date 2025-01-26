@@ -156,25 +156,27 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 #### SET UP
 
-[]()
+[Setting Up Audio Interface](https://youtu.be/D9tjzSctp_Q)
 
-[]()
+[Setting Up MIDI](https://youtu.be/CWOXblksDxE)
 
-[]()
+[Configuring Your Audio INs and OUTs](https://youtu.be/wENbeUNS-IA)
 
-[]()
+[Installing Packs](https://youtu.be/2VLrGqbYZ5w)
 
-[]()
+[Setting Your Preferences](https://youtu.be/TwQC9EU2BYE)
 
-[]()
+[Using Your Sounds and Samples](https://youtu.be/0t9M15n2iAA)
 
-[]()
+[Saving Projects](https://youtu.be/M6lIz4Fyc2w)
 
-[]()
+[Using Defaults](https://youtu.be/-RzrcrMruFY)
 
-[]()
+[Using 3rd Party Plug Ins](https://youtu.be/r8RmTlFvdPA)
 
-[]()
+[Computer Performance](https://youtu.be/0dXIa-1N4jI)
+
+#### Interface
 
 []()
 
