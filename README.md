@@ -86,13 +86,6 @@ What everyone should read but no one does until they need specifics.  This is a 
 
 [Device visualizations](https://youtu.be/oi9uePsyJdY)
 
-
-
-## MAX FOR LIVE
-
-[Learn Live: Max for Live](https://www.youtube.com/watch?v=aGrifWA5gq4&t=13s)
-
-
 ## PUSH 2 LEARN IT QUICKLY
 
 A basic overview of video guides of quick tips and tricks to get you using Push 2 quickly.
@@ -149,3 +142,21 @@ Instructional videos
 ##   RECORDING AUTOMATION
 
 [Learn Push 2: Recording automation](https://www.youtube.com/watch?v=DdJabGICtzM)
+
+=========================================================================================================
+=========================================================================================================
+
+# ABLETON LIVE
+
+This is the section that we learn Ableton Live and throw down some tricks and hints on how to use it.
+
+=========================================================================================================
+
+### LEARN LIVE
+
+
+
+## MAX FOR LIVE
+
+[Learn Live: Max for Live](https://www.youtube.com/watch?v=aGrifWA5gq4&t=13s)
+
