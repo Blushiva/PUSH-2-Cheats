@@ -1,7 +1,13 @@
 # PUSH-2-Cheats
 A learning guide for Push 2 Enthusiasts.
 
-# How To Load Samples
+## PUSH 2 LEARN IT QUICKLY
+
+A basic overview of video guides of quick tips and tricks to get you using Push 2 quickly.
+
+
+
+## How To Load Samples
 
 To load a MIDI file into Ableton Push 2, 
 
@@ -13,14 +19,14 @@ Instructional videos
 
 [Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)
 
-# HOW TO ROUTE AUDIO AND MIDI
+## HOW TO ROUTE AUDIO AND MIDI
 
 [Learn Push 2: Routing audio and MIDI](https://www.youtube.com/watch?v=ODRWqF02PxA)
 
-# ADDING MIDI EFFECTS
+## ADDING MIDI EFFECTS
 
 [Adding MIDI Effects | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=-fz3DAdb-F8)
 
-# HOW CLIPS WORK ON PUSH 2
+## HOW CLIPS WORK ON PUSH 2
 
 [Learn Push 2: How Clips work on Push](https://www.youtube.com/watch?v=Sf_3HyrlqDo)
