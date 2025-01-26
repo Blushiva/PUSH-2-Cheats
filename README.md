@@ -68,7 +68,6 @@ Press the corresponding pads on your controller to activate the desired drum sou
 Repeat this process to create a complete rhythmic pattern across multiple steps. 
 
 **Benefits of step sequencing:** 
-
 Intuitive rhythm creation: The visual grid makes it easy to visualize and manipulate rhythms. 
 Rapid prototyping: Quickly experiment with different beat variations by changing the active steps. 
 Precise control: Fine-tune the timing and velocity of each step for detailed rhythm creation. 
