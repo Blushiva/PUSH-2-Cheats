@@ -20,3 +20,7 @@ Instructional videos
 # ADDING MIDI EFFECTS
 
 [Adding MIDI Effects | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=-fz3DAdb-F8)
+
+# HOW CLIPS WORK ON PUSH 2
+
+[Learn Push 2: How Clips work on Push](https://www.youtube.com/watch?v=Sf_3HyrlqDo)
