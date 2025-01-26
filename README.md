@@ -222,43 +222,55 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [WAVETABLE: Using your own Wavetables](https://youtu.be/UWjWu4e_-yI)
 
-[]()
+[DRUM BUSS](https://youtu.be/_okKGKp5a9I)
 
-[]()
+[DELAY](https://youtu.be/Ss5yOq8nQK4)
 
-[]()
+[HYBRID REVERB](https://youtu.be/yLBIOiM97Vs)
 
-[]()
+[SPECTRAL RESONATOR](https://youtu.be/iXcN-0oaIKs)
 
-[]()
+[SPECTRAL TIME](https://youtu.be/EBuB6G9ik1A)
 
-[]()
+[ECHO: WALKTHROUGH](https://youtu.be/4LxhIE169x4)
 
-[]()
+[ECHO: Character Section](https://youtu.be/WJ16d_FpvEg)
 
-[]()
+[ECHO: Modulation Section](https://youtu.be/inMwdangbA0)
 
-[]()
+[Chorus-Ensamble](https://youtu.be/25Uiav5UA9c)
 
-[]()
+[Phaser-Flanger](https://youtu.be/bZjzOSqWn1s)
 
-[]()
+[Shifter](https://youtu.be/uqY8K8otbp0)
 
-[]()
+[Max for Live](https://youtu.be/aGrifWA5gq4)
 
-[]()
+[Redux](https://youtu.be/71A5FC272L0)
 
-[]()
+[Channel EQ](https://youtu.be/aAwpVte261Y)
 
-[]()
+[Pedal](https://youtu.be/6c1dZ2emnJo)
 
-[]()
+[PitchLoop 89](https://youtu.be/tgxG0KqZMy8)
 
-[]()
+[Bouncy Notes](https://youtu.be/C2hQ-WbKBhU)
 
-[]()
+[Tree Tone](https://youtu.be/_mk7qyzEcCQ)
 
-[]()
+[Emit](https://youtu.be/fuQ60fe0PIA)
+
+[Vector Delay](https://youtu.be/grNO5ylfgl0)
+
+[Vector FM](https://youtu.be/mAGQ0UPrVHc)
+
+[Vector Grain](https://youtu.be/rCUvwHNjF_I)
+
+[Roar](https://youtu.be/ETzf6O9-6us)
+
+[Meld](https://youtu.be/CBIOSA8NKz0)
+
+[Granulator 3](https://youtu.be/PqSFu6by6Kk)
 
 #### WORKFLOWS
 
