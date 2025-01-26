@@ -152,7 +152,69 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 ========================================================================================================
 
-### LEARN LIVE
+### THIS IS WHERE WE LEARN LIVE
+
+#### SET UP
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+#### NEW FEATURES OF LIVE 12
+
+[Roar](https://youtu.be/ETzf6O9-6us)
+
+[Meld](https://youtu.be/CBIOSA8NKz0)
+
+[Granulator 3](https://youtu.be/PqSFu6by6Kk)
+
+[Midi Transformations](https://youtu.be/E5rHIzm8sck)
+
+[Midi Generators](https://youtu.be/Z9z1QFyVVCo)
+
+[Midi Pitch and Time](https://youtu.be/GdBsL1X5AOI)
 
 
 
