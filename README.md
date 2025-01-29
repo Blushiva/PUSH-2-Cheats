@@ -195,6 +195,9 @@ In this Ableton Push tutorial video you’ll learn how to transform and tweak so
 
 [Sound design: melodic parts](https://youtu.be/sNUftRALnto)
 
+Get your hands on Ableton Live Push 2 and learn how to control audio effects on the controller
+[HOW TO PUSH 2 - Controlling Audio Effects in Ableton Live 11](https://www.youtube.com/watch?v=Bn9FUFPQBzg)
+
 Learn how to step sequence notes and chords with the melodic step sequencer on Ableton Push.
 
 [Melodic Step Sequencer](https://youtu.be/kj03AHwm23M)
