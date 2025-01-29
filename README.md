@@ -14,6 +14,10 @@ What everyone should read but no one does until they need specifics.  This is a 
 
 [Ableton Reference Manual](https://www.ableton.com/en/manual/using-push-2/)
 
+## KEYBOARD SHORTCUTS
+
+[Keyboard Shortcuts](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#live-keyboard-shortcuts)
+
 ## PUSH 2 LEARNING FROM ABLETON
 
 Push 2 Learning
