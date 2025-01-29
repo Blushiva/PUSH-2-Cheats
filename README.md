@@ -230,9 +230,21 @@ Step Length and Resolution: Adjust the step length and resolution using the dedi
 
 ### NOTEMODE SETTINGS
 
+Learn how to adjust settings for playing notes on Ableton Push.
+
+On a Push 2, the "Note Mode" settings allow you to control which notes are accessible on the pads, primarily by choosing between "In Key" mode (only playing notes within the current key) and "Chromatic" mode (playing all notes), and further customizing the layout of the pads by selecting a specific scale and interval structure using the "Scale" button, enabling you to easily play melodies within a chosen key or scale by simply pressing the corresponding pads on the grid. 
+
 [Note Mode settings](https://youtu.be/G4AMycvuDJo)
 
 # SAMPLING IN YOUR WORKFLOW
+
+## How To Load Samples
+
+To load a MIDI file into Ableton Push 2, 
+
+1. Navigate to the "Browse" mode on the Push 2 display, then use the browser to locate the desired MIDI file and select it to load it onto a MIDI track in your Ableton Live          session; (Select button is on the bottom right of Push 2)
+2. Use the top 4 arrow keys under the browse button to navigate the selection.
+3. You can also drag and drop MIDI files directly from your computer's file explorer into the Ableton Live session to load them. 
 
 [Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)
 
@@ -247,6 +259,11 @@ Step Length and Resolution: Adjust the step length and resolution using the dedi
 [Sampling in depth: creative techniques](https://youtu.be/dwQVkA-PvUM)
 
 [Sampling in depth: warping](https://youtu.be/2gRyue0MkC0)
+
+#### Instructional videos
+
+[Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)
+
 
 ## Session View
 
@@ -303,19 +320,6 @@ A basic overview of video guides of quick tips and tricks to get you using Push 
 
 [Ableton Push 2 : Creating a Full Track from Scratch (Start to Finish)](https://www.youtube.com/watch?app=desktop&v=aoaQqqwyxdc&t=0s)
 
-
-
-## How To Load Samples
-
-To load a MIDI file into Ableton Push 2, 
-
-1. Navigate to the "Browse" mode on the Push 2 display, then use the browser to locate the desired MIDI file and select it to load it onto a MIDI track in your Ableton Live          session; (Select button is on the bottom right of Push 2)
-2. Use the top 4 arrow keys under the browse button to navigate the selection.
-3. You can also drag and drop MIDI files directly from your computer's file explorer into the Ableton Live session to load them. 
-
-Instructional videos
-
-[Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)
 
 ## HOW TO ROUTE AUDIO AND MIDI
 
