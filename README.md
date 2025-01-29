@@ -1,13 +1,20 @@
 # PUSH 2: A vast wealth of compiled knowledge available on the web.
 
-A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all push 2 users.  
+A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all push 2 users and music producers.  This is meant to be a compiled resource guide. The material that this contains has been made by others.  
+
 ## USER STORY
 
-I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with.
+I have spent the last 5 years learning how to compose music in Abelton session while getting my production down and my sound clean.  It has been quite the learning experiance.   Arrangement view is easy and linear.  Session View is a whole other animal.  I have talked to other producers and they hate that Abelton confuses them they couldn't explain why they just hate it.  The more I talked to them the more I discovered that it was to much programming in Session View.  They just want to create and play. Then you have the producers who LOVE session view and the organization of its pieces.  I  LOVE SESSION VIEW as much as I love Arrangement View.  I am happy to report that I am beginnning understand how to compose in session view and make it so that I can play a live set in it if I get all the parts in order.  Thats great but what if I want to compose live and play my push like the instrument it was meant to be?  
+
+This is why I have compiled this source book.  I want to be able to use this as a reference and go back to my favorite sources and look info up in all one place.
+
+I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with. As I delve deeper into Abelton I will compile their manual to their videos so it makes this a much easier learning tool.  I will also be putting articale and videos not produced by Abelton but cover the same subject matter.  
+
+Learning should be fun and easy and hopefully this guide will take some of the work out of researching.
 
 ## KEYBOARD SHORTCUTS
 
-I hate that most manuals put the shortcuts at the end buried under tons of other information.  Keyboard shortcuts save us time and we can get back to producing.  This is why they are front and center.  
+I hate that most manuals put the shortcuts at the end buried under tons of other information.  Keyboard shortcuts save us time and we can get back to producing.  This is why they are front and center here.  
 
 [Keyboard Shortcuts](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#live-keyboard-shortcuts)
 
