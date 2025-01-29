@@ -122,6 +122,9 @@ Musical ideas can be hard to explain and are often defined by using complex Ital
 
 [Play melodies](https://youtu.be/UqFxK9eoZYE)
 
+[How to Write Chords & Melodies in Ableton Live 12 - Beginners Tutorial](https://www.youtube.com/watch?v=oU21nmTC63A)
+
+[Lesson 1: Melody Writing with MIDI](https://www.ableton.com/en/classroom/support/theory-hacks/lesson-1/)
 ## Chords In Ableton
 
 A chord in music is a group of notes that are played simultaneously to create harmony. Chords are built from intervals of notes, such as thirds and fifths. 
