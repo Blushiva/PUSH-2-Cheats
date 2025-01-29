@@ -196,15 +196,43 @@ In this Ableton Push tutorial video you’ll learn how to transform and tweak so
 [Sound design: melodic parts](https://youtu.be/sNUftRALnto)
 
 Get your hands on Ableton Live Push 2 and learn how to control audio effects on the controller
+
 [HOW TO PUSH 2 - Controlling Audio Effects in Ableton Live 11](https://www.youtube.com/watch?v=Bn9FUFPQBzg)
+
+
+# Melodic Step Sequencing with Ableton Push
 
 Learn how to step sequence notes and chords with the melodic step sequencer on Ableton Push.
 
+To step sequence notes and chords using the melodic step sequencer on Ableton Push, press the "Layout" button to access the melodic step sequencer mode, then simply press the pads corresponding to the desired notes on the grid, where each pad represents a step in the sequence; you can play single notes or chords by pressing multiple pads simultaneously depending on the scale you've selected. 
+
+Key points to remember:
+
+Accessing the Melodic Step Sequencer: Press the "Layout" button on Push to toggle between different modes, including the melodic step sequencer. 
+
+Playing Notes: Once in the melodic step sequencer, the pads will represent notes of a chosen scale, with the bottom row typically being the root notes and the top row an octave higher. 
+
+Creating Chords: To play a chord, press multiple pads within the same step simultaneously. 
+
+Navigating the Scale: Use the scale controls on Push to select the desired scale and root note. 
+
+Step Length and Resolution: Adjust the step length and resolution using the dedicated buttons on Push to control how long each note lasts within the sequence. 
+
+### Melodic step sequencing
+
 [Melodic Step Sequencer](https://youtu.be/kj03AHwm23M)
+
+[Melodic Step Sequencing with Ableton Push](https://www.macprovideo.com/article/ableton-live/melodic-step-sequencing-with-ableton-push)
+
+### 32 Note Sequencing
+
+[32-Note Melodic Step Sequencer](https://youtu.be/GVilj3bChHY)
+
+### NOTEMODE SETTINGS
 
 [Note Mode settings](https://youtu.be/G4AMycvuDJo)
 
-[32-Note Melodic Step Sequencer](https://youtu.be/GVilj3bChHY)
+# SAMPLING IN YOUR WORKFLOW
 
 [Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)
 
