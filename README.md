@@ -11,7 +11,7 @@ I wanted to create a guide where I could have a ton of resources on every subjec
 
 ## Settings and Managing Files in Abelton
 
-The Settings area is your best friend get to know and understand what each setting does and how you can personalize your production experiance.  
+The Settings area is your best friend get to know and understand what each setting does and how you can personalize your production experiance.  Settings can be found in the Options menu on Windows and in the Live menu on macOS. You can also open the Settings window using the shortcut Ctrl, (Win) / Cmd, (Mac).
 
 [Live's Settings](https://www.ableton.com/en/live-manual/12/first-steps/#lives-settings)
 
