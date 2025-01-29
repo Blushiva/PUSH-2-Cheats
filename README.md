@@ -38,6 +38,15 @@ In this tutorial you’ll get a complete overview of all features and functions 
 
 [Using Push 2](https://www.ableton.com/en/manual/using-push-2/)
 
+[Browsing and Loading Songs](https://www.ableton.com/en/live-manual/12/using-push-2/#browsing-and-loading-sounds)
+
+[Playing and Programming Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#playing-and-programming-beats)
+
+[Additional Recording Options](https://www.ableton.com/en/live-manual/12/using-push-2/#additional-recording-options)
+- 1. [Recoding with Repeat](https://www.ableton.com/en/live-manual/12/using-push-2/#recording-with-repeat)
+- 2. [Quantizing](https://www.ableton.com/en/live-manual/12/using-push-2/#quantizing)
+- 3. [Arrangement Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#arrangement-recording)
+
 ## Step Sequencing Beats
 
 "Step sequencing beats" in Ableton means creating a drum beat by programming individual notes (or "steps") in a sequence, where each step represents a specific rhythmic division within a bar, allowing you to build a rhythm pattern by activating specific steps in a grid-like interface, usually using the pads on a controller like Ableton Push, to trigger different drum sounds one after another to form a beat. 
