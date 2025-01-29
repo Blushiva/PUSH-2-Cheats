@@ -5,6 +5,10 @@ A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all p
 
 I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with.
 
+## KEYBOARD SHORTCUTS
+
+[Keyboard Shortcuts](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#live-keyboard-shortcuts)
+
 ## Table of Contents
 
 
@@ -14,9 +18,7 @@ What everyone should read but no one does until they need specifics.  This is a 
 
 [Ableton Reference Manual](https://www.ableton.com/en/manual/using-push-2/)
 
-## KEYBOARD SHORTCUTS
 
-[Keyboard Shortcuts](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#live-keyboard-shortcuts)
 
 ## PUSH 2 LEARNING FROM ABLETON
 
