@@ -248,6 +248,8 @@ Step Length and Resolution: Adjust the step length and resolution using the dedi
 
 [Sampling in depth: warping](https://youtu.be/2gRyue0MkC0)
 
+## Session View
+
 [Session View](https://youtu.be/MpAimKnNTIE)
 
 [Session View - advanced](https://youtu.be/70qEVOfWD0E)
