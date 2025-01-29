@@ -7,6 +7,8 @@ I wanted to create a guide where I could have a ton of resources on every subjec
 
 ## KEYBOARD SHORTCUTS
 
+I hate that most manuals put the shortcuts at the end buried under tons of other information.  Keyboard shortcuts save us time and we can get back to producing.  This is why they are front and center.  
+
 [Keyboard Shortcuts](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#live-keyboard-shortcuts)
 
 ## Settings and Managing Files in Abelton
