@@ -26,7 +26,7 @@ The Settings area is your best friend get to know and understand what each setti
 
 #### FILE MANAGEMENT
 
-This is very crucial but file management is often overlooked until it is to late and then you spend a week crying on your computer and praying to your chosen god or goddess that you didn't delete something crucial.  The sooner you learn this the less stress and more compossing you can do.
+This is very crucial but file management is often overlooked until it is to late and then you spend a week crying on your computer and praying to your chosen god or goddess that you didn't delete something crucial.  The sooner you learn this the less stress and more composing you can do.
 
 Various types of files are used in making music with Live, from those containing MIDI and audio, to more program-specific files such as Live Clips and Live Sets. This chapter will explain everything you need to know about working with each of these file types in Live.
 
