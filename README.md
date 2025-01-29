@@ -1,4 +1,4 @@
-# PUSH 2: A vast wealth of compiled knowledge available on the web.
+# Medicinall's Guide to PUSH 2: A vast wealth of compiled knowledge available on the web.
 
 A learning guide for Push 2 Enthusiasts. This is a comprehensive guide for all push 2 users and music producers.  This is meant to be a compiled resource guide. The material that this contains has been made by others.  
 
