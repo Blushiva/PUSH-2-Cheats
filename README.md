@@ -8,9 +8,9 @@ I have spent the last 5 years learning how to compose music in Abelton session w
 
 This is why I have compiled this source book.  I want to be able to use this as a reference and go back to my favorite sources and look info up in all one place.
 
-I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with. As I delve deeper into Abelton I will compile their manual to their videos so it makes this a much easier learning tool.  I will also be putting articale and videos not produced by Abelton but cover the same subject matter.  
+I wanted to create a guide where I could have a ton of resources on every subject for the Push 2 in one location and this is what I came up with. As I delve deeper into Abelton I will compile their manual to their videos so it makes this a much easier learning tool.  I will also be putting articles and videos not produced by Abelton but cover the same subject material.  
 
-Learning should be fun and easy and hopefully this guide will take some of the work out of researching.
+Learning should be fun and easy and hopefully this guide will take some of the work out of researching so you can learn faster.
 
 ## KEYBOARD SHORTCUTS
 
