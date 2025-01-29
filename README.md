@@ -518,9 +518,26 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [Learn Live 12: Keys and Scales, Tuning Systems](https://youtu.be/tDR2AIUaHAE)
 
-#Drum Patterns, Loops, and Legalities
+# Drum Patterns, Loops, and Legalities
 
 In most cases, if you use a drum pattern from another song that is easily recognizable and considered a unique part of the original composition, you would likely need to license it, as simply copying a distinct drum pattern could be considered copyright infringement, even if drum patterns alone aren't usually directly copyrightable; however, if you are using a very basic or common rhythm pattern, it might not be considered infringement. 
+
+Basic rhythms are not copyrightable:
+Common drum patterns like a simple backbeat or a four-on-the-floor groove are generally considered too generic to be protected by copyright, meaning you can likely use them without licensing. 
+
+Unique and distinctive patterns are:
+If a drum pattern is particularly recognizable and considered a key element of a song, like a famous drum fill or a complex rhythmic arrangement, using it without permission could be copyright infringement. 
+
+Sampling vs. playing:
+If you are directly sampling a drum loop from another recording, you would definitely need to obtain a license, even if the pattern itself is not unique. 
+
+####What to do if unsure:
+
+Consult a music lawyer:
+If you are unsure whether a specific drum pattern is considered copyrightable or if you want to be completely safe, it's best to consult with a lawyer specializing in music copyright. 
+
+Seek permission:
+If you decide to use a recognizable drum pattern, try to contact the original artist or copyright holder to get permission to use it. 
 
 
 [Don't Use These Kinds Of Loops (Frivolous Lawsuit Risk)](https://www.youtube.com/watch?v=t9rRuk4oQ9A)
