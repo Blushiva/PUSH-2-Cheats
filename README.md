@@ -531,7 +531,7 @@ If a drum pattern is particularly recognizable and considered a key element of a
 Sampling vs. playing:
 If you are directly sampling a drum loop from another recording, you would definitely need to obtain a license, even if the pattern itself is not unique. 
 
-####What to do if unsure:
+#### What to do if unsure:
 
 Consult a music lawyer:
 If you are unsure whether a specific drum pattern is considered copyrightable or if you want to be completely safe, it's best to consult with a lawyer specializing in music copyright. 
