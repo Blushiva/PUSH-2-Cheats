@@ -518,7 +518,7 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [Learn Live 12: Keys and Scales, Tuning Systems](https://youtu.be/tDR2AIUaHAE)
 
-# Drum Patterns, Loops, and Legalities
+# Drum Patterns, Loops, and Legalities COPYWRITING
 
 In most cases, if you use a drum pattern from another song that is easily recognizable and considered a unique part of the original composition, you would likely need to license it, as simply copying a distinct drum pattern could be considered copyright infringement, even if drum patterns alone aren't usually directly copyrightable; however, if you are using a very basic or common rhythm pattern, it might not be considered infringement. 
 
@@ -542,7 +542,7 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 
 [Don't Use These Kinds Of Loops (Frivolous Lawsuit Risk)](https://www.youtube.com/watch?v=t9rRuk4oQ9A)
 
-[]()
+[Can You Copyright a Drumbeat?](https://lawyerdrummer.com/2018/04/can-copyright-drumbeat/#:~:text=unfortunately%2C%20no.,law%20before%20the%20other%20two.)
 
 []()
 
