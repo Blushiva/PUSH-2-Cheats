@@ -234,6 +234,20 @@ Learn how to adjust settings for playing notes on Ableton Push.
 
 On a Push 2, the "Note Mode" settings allow you to control which notes are accessible on the pads, primarily by choosing between "In Key" mode (only playing notes within the current key) and "Chromatic" mode (playing all notes), and further customizing the layout of the pads by selecting a specific scale and interval structure using the "Scale" button, enabling you to easily play melodies within a chosen key or scale by simply pressing the corresponding pads on the grid. 
 
+Key points about Note Mode settings on Push 2:
+
+In Key vs. Chromatic:
+The primary setting is choosing between "In Key" (only notes from the current key are accessible) and "Chromatic" (all notes are playable). 
+
+Scale Selection:
+You can further customize the "In Key" mode by selecting a specific scale, which determines which notes within the key are available on the pads. 
+
+Scale Layout:
+The layout of the scale can be adjusted, allowing you to play intervals like thirds or fourths by moving across the pads. 
+
+Accessing Note Mode Settings:
+Usually, you can access these settings by pressing the "Scale" button on the Push 2 display, which will then allow you to change the key and scale using the encoders. 
+
 [Note Mode settings](https://youtu.be/G4AMycvuDJo)
 
 # SAMPLING IN YOUR WORKFLOW
