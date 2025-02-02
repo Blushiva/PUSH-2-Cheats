@@ -497,7 +497,7 @@ Automating gradual tempo changes in Ableton Live's arrangement view is pretty ea
 
 [How To Automate Smooth and Gradual Tempo Transitions In Ableton Live Session View](https://www.youtube.com/watch?v=1aexb_YtVR0)
 
-
+## LIVE'S MIXER
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
 
