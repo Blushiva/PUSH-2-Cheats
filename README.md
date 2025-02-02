@@ -474,6 +474,8 @@ Using a tempo track is one of my favorite hacks in Ableton Live. It allows you t
 
 To change the tempo in Ableton Live 12, you can adjust the tempo in a scene or automate tempo changes. 
 
+To automate session tempo changes in Ableton 12, navigate to the Session View, access the Master track, and then either click and drag the left edge of the track header to reveal the "Scene Tempo" control, or enable automation mode (by pressing "A" on your keyboard) to directly draw in tempo changes at specific points within your session using the "Song Tempo" parameter in the automation lane; you can adjust the tempo for each scene by clicking in the tempo field and entering a new BPM value. 
+
 Change the tempo in a scene: 
 - Click in the tempo field
 - Enter a BPM value between 20 and 999
@@ -487,7 +489,13 @@ Automate tempo changes:
 - Add break points or notes to change the tempo
 - You can also automate tempo changes in a specific clip using the Automate Tempo BPM device in Session View. 
 
+Learn how to change tempo in the Session and Arrangement Views in Ableton Live
+
 [Learn Live: Automating Tempo Changes](https://www.youtube.com/watch?v=iI06kTUtNDg)
+
+Automating gradual tempo changes in Ableton Live's arrangement view is pretty easy BUT what about in session view??? In this Ableton Live tutorial, I show you how to create automated tempo changes in Ableton Live's session view (on a Mac). Using this technique is useful for gradual and seamless transitions between tracks allowing you to maintain momentum in your live performances. No more stopping between songs or manual tempo changes. Keep the show rolling!
+[How To Automate Smooth and Gradual Tempo Transitions In Ableton Live Session View](https://www.youtube.com/watch?v=1aexb_YtVR0)
+
 
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
