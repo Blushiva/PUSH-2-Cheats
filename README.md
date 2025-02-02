@@ -451,6 +451,8 @@ In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a
 
 ### DO NOT JUST TYPE IN BPM THEY CHANGED IT IN ABELTON 12
 
+Since they changed how you can swith Time signature and BPM in scenes, I have left these videos here because they contain important knowledge even if the original fix no longer applies.
+
 [Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
 
 The directions in the manual for Abelton Live
