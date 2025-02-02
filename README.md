@@ -494,6 +494,7 @@ Learn how to change tempo in the Session and Arrangement Views in Ableton Live
 [Learn Live: Automating Tempo Changes](https://www.youtube.com/watch?v=iI06kTUtNDg)
 
 Automating gradual tempo changes in Ableton Live's arrangement view is pretty easy BUT what about in session view??? In this Ableton Live tutorial, I show you how to create automated tempo changes in Ableton Live's session view (on a Mac). Using this technique is useful for gradual and seamless transitions between tracks allowing you to maintain momentum in your live performances. No more stopping between songs or manual tempo changes. Keep the show rolling!
+
 [How To Automate Smooth and Gradual Tempo Transitions In Ableton Live Session View](https://www.youtube.com/watch?v=1aexb_YtVR0)
 
 
