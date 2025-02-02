@@ -438,11 +438,15 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 ## SCENE TEMPO & TIME SIGNATURE
 
+[7.2.1 Editing Scene Tempo and Time Signature Values](https://www.ableton.com/en/live-manual/12/session-view/#editing-scene-tempo-and-time-signature-values)
+
 To change the BPM within different scenes in Ableton, simply select the scene you want to modify, then rename it by typing the desired BPM value directly after the scene name, using the format "SceneName BPM" - when you trigger that scene, it will automatically play at the specified tempo; you can also access the tempo field directly in the Master track within the Session View to set the BPM for each scene individually. 
 
 Key points:
 Accessing the scene tempo field: Select the scene in the Session View, then either right-click and choose "Rename" or press "Command+R" (Mac) or "Control+R" (Windows) to access the renaming field. 
+
 Inputting the BPM: Type the desired BPM value directly after the scene name, followed by "BPM". 
+
 Example: To set a scene to play at 120 BPM, you would rename it to "Intro 120BPM
 
 In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a specific tempo (beats per minute) and time signature (how beats are divided within a bar) for each individual scene in your Session View, so when you launch a scene, the project automatically adjusts to that unique rhythmic setting; essentially allowing you to quickly change the feel of your music by switching between scenes with different tempos and time signatures. 
