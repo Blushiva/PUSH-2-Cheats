@@ -442,9 +442,18 @@ In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a
 
 [Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
 
+The directions in the manual for Abelton Live
+
 [Ableton Live Tutorials: Tempo and Time signature changes](https://www.youtube.com/watch?v=ANFX3akCl4Y)
 
 In this tutorial, Liam O'Mullane shows you how to swiftly deploy tempo and time signature changes into your Arrangement View. You'll also learn how to make the same changes in your Session View, and understand ways in which to make these changes on-the-fly during a live performance. Liam also shows you how to create polymeters, which have the potential to make your tracks more musically fascinating.
+
+[How to Automate Tempo and Time Signature Changes in Ableton Live's Arrangement View](https://www.youtube.com/watch?v=yLXOCqni0dU)
+
+[Ableton Tutorial: What To Do When Your Song Has Tempo Changes](https://www.youtube.com/watch?v=ALBioNnlJZ4)
+
+You know how to save a tempo track to a song in Ableton, but what about a song with tempo changes
+Using a tempo track is one of my favorite hacks in Ableton Live. It allows you to just drag your song into your set and the tempo comes with it. If you don’t know how to do that, watch this video
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
 
