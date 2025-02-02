@@ -438,6 +438,13 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 ## SCENE TEMPO & TIME SIGNATURE
 
+To change the BPM within different scenes in Ableton, simply select the scene you want to modify, then rename it by typing the desired BPM value directly after the scene name, using the format "SceneName BPM" - when you trigger that scene, it will automatically play at the specified tempo; you can also access the tempo field directly in the Master track within the Session View to set the BPM for each scene individually. 
+
+Key points:
+Accessing the scene tempo field: Select the scene in the Session View, then either right-click and choose "Rename" or press "Command+R" (Mac) or "Control+R" (Windows) to access the renaming field. 
+Inputting the BPM: Type the desired BPM value directly after the scene name, followed by "BPM". 
+Example: To set a scene to play at 120 BPM, you would rename it to "Intro 120BPM
+
 In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a specific tempo (beats per minute) and time signature (how beats are divided within a bar) for each individual scene in your Session View, so when you launch a scene, the project automatically adjusts to that unique rhythmic setting; essentially allowing you to quickly change the feel of your music by switching between scenes with different tempos and time signatures. 
 
 [Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
@@ -457,24 +464,7 @@ What if my song has a lot of tempo changes?”  In this tutorial, you’ll learn
 You know how to save a tempo track to a song in Ableton, but what about a song with tempo changes
 Using a tempo track is one of my favorite hacks in Ableton Live. It allows you to just drag your song into your set and the tempo comes with it. If you don’t know how to do that, watch this video
 
-[How Do You Change Tempo and Time Signature in Ableton Live's Session View?]()
-
-How to change tempo and time signature in Ableton Live's Session View, starting with a brief introduction to session view, clips and global quantization.  
-
-TIMESTAMPS:
-- 0:26 Disclaimer - ClyphX Pro mentioned but not elaborated on...yet!
-- 1:02 (Short Version for the Ableton Pros) Rename scene to XXX BPM ; X/Y Time Signature
-- 1:07 Arrangement View
-- 1:25 Session View / Clips Intro
-- 2:02 Global Quantization (One Bar)
-- 2:30 Scenes
-- 2:55 Renaming Scenes to Change Global Tempo, e.g. 100 BPM, beats per minute
-- 3:50 One example of when you may want to change global quantizaion
-- 4:16 Renaming Scenes to Change Global Time Signature, e.g. ¾
-- 4:46 New Clips Adopt the Global Time Signature
-- 5:08 Making Multiple Global Changes with one click, e.g. 110 BPM ; 5/4
-- 5:55 Add Notes / Identifiers to stay organized on stage / in the studio. 
-- 6:33 Final example, changing tempo and time signature simultaneously
+[Learn Live: Automating Tempo Changes](https://www.youtube.com/watch?v=iI06kTUtNDg)
 
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
