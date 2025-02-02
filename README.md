@@ -449,7 +449,7 @@ Dragging the left edge of the Main track’s title header reveals the Scene Temp
 
 In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a specific tempo (beats per minute) and time signature (how beats are divided within a bar) for each individual scene in your Session View, so when you launch a scene, the project automatically adjusts to that unique rhythmic setting; essentially allowing you to quickly change the feel of your music by switching between scenes with different tempos and time signatures. 
 
-### DO NOT JUST TYPE IN BPM THEY CHANGED IT 
+### DO NOT JUST TYPE IN BPM THEY CHANGED IT IN ABELTON 12
 
 [Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
 
@@ -650,6 +650,8 @@ Using a tempo track is one of my favorite hacks in Ableton Live. It allows you t
 [Learn Live 12: Keys and Scales, Tuning Systems](https://youtu.be/tDR2AIUaHAE)
 
 # Drum Patterns, Loops, and Legalities COPYWRITING
+
+### NONE OF THE FOLLOWING IS CONSIDERED LEAGAL ADVICE PLEASE SEE A LAWYER WITH QUESTIONS
 
 In most cases, if you use a drum pattern from another song that is easily recognizable and considered a unique part of the original composition, you would likely need to license it, as simply copying a distinct drum pattern could be considered copyright infringement, even if drum patterns alone aren't usually directly copyrightable; however, if you are using a very basic or common rhythm pattern, it might not be considered infringement. 
 
