@@ -470,6 +470,23 @@ What if my song has a lot of tempo changes?”  In this tutorial, you’ll learn
 You know how to save a tempo track to a song in Ableton, but what about a song with tempo changes
 Using a tempo track is one of my favorite hacks in Ableton Live. It allows you to just drag your song into your set and the tempo comes with it. If you don’t know how to do that, watch this video
 
+# AUTOMATING TEMPO CHANGES
+
+To change the tempo in Ableton Live 12, you can adjust the tempo in a scene or automate tempo changes. 
+
+Change the tempo in a scene: 
+- Click in the tempo field
+- Enter a BPM value between 20 and 999
+- Press Enter
+- Use the arrow keys or drag the cursor to adjust the tempo
+  
+Automate tempo changes: 
+- Right-click on the tempo box in Arrangement View
+- Select Show Automation
+- Open the automation lane on the master channel
+- Add break points or notes to change the tempo
+- You can also automate tempo changes in a specific clip using the Automate Tempo BPM device in Session View. 
+
 [Learn Live: Automating Tempo Changes](https://www.youtube.com/watch?v=iI06kTUtNDg)
 
 
