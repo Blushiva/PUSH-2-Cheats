@@ -651,7 +651,7 @@ Using a tempo track is one of my favorite hacks in Ableton Live. It allows you t
 
 # Drum Patterns, Loops, and Legalities COPYWRITING
 
-### NONE OF THE FOLLOWING IS CONSIDERED LEAGAL ADVICE PLEASE SEE A LAWYER WITH QUESTIONS
+### NONE OF THE FOLLOWING IS CONSIDERED LEGAL ADVICE PLEASE SEE A LAWYER SPECIALIZING IN MUSIC WITH QUESTIONS
 
 In most cases, if you use a drum pattern from another song that is easily recognizable and considered a unique part of the original composition, you would likely need to license it, as simply copying a distinct drum pattern could be considered copyright infringement, even if drum patterns alone aren't usually directly copyrightable; however, if you are using a very basic or common rhythm pattern, it might not be considered infringement. 
 
