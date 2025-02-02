@@ -440,16 +440,16 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [7.2.1 Editing Scene Tempo and Time Signature Values](https://www.ableton.com/en/live-manual/12/session-view/#editing-scene-tempo-and-time-signature-values)
 
-To change the BPM within different scenes in Ableton, simply select the scene you want to modify, then rename it by typing the desired BPM value directly after the scene name, using the format "SceneName BPM" - when you trigger that scene, it will automatically play at the specified tempo; you can also access the tempo field directly in the Master track within the Session View to set the BPM for each scene individually. 
+Dragging the left edge of the Main track’s title header reveals the Scene Tempo and Scene Time Signature controls, which allow you to assign a tempo and/or time signature to a selected scene. These controls are hidden by default. The project will automatically adjust to these parameters when the scene is launched. To change a scene’s tempo or time signature values:
 
-Key points:
-Accessing the scene tempo field: Select the scene in the Session View, then either right-click and choose "Rename" or press "Command+R" (Mac) or "Control+R" (Windows) to access the renaming field. 
+- Click and drag up or down in any of these fields.
 
-Inputting the BPM: Type the desired BPM value directly after the scene name, followed by "BPM". 
+- Click and type a number, then hit Enter.
 
-Example: To set a scene to play at 120 BPM, you would rename it to "Intro 120BPM
 
 In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a specific tempo (beats per minute) and time signature (how beats are divided within a bar) for each individual scene in your Session View, so when you launch a scene, the project automatically adjusts to that unique rhythmic setting; essentially allowing you to quickly change the feel of your music by switching between scenes with different tempos and time signatures. 
+
+### DO NOT JUST TYPE IN BPM THEY CHANGED IT 
 
 [Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
 
