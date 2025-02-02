@@ -438,7 +438,7 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 ## SCENE TEMPO & TIME SIGNATURE
 
-[7.2.1 Editing Scene Tempo and Time Signature Values](https://www.ableton.com/en/live-manual/12/session-view/#editing-scene-tempo-and-time-signature-values)
+[7.2.1 Editing Scene Tempo and Time Signature Values](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature)
 
 Dragging the left edge of the Main track’s title header reveals the Scene Tempo and Scene Time Signature controls, which allow you to assign a tempo and/or time signature to a selected scene. These controls are hidden by default. The project will automatically adjust to these parameters when the scene is launched. To change a scene’s tempo or time signature values:
 
