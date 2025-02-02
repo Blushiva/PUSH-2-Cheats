@@ -438,7 +438,13 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 ## SCENE TEMPO & TIME SIGNATURE
 
+In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a specific tempo (beats per minute) and time signature (how beats are divided within a bar) for each individual scene in your Session View, so when you launch a scene, the project automatically adjusts to that unique rhythmic setting; essentially allowing you to quickly change the feel of your music by switching between scenes with different tempos and time signatures. 
+
 [Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
+
+[Ableton Live Tutorials: Tempo and Time signature changes](https://www.youtube.com/watch?v=ANFX3akCl4Y)
+
+In this tutorial, Liam O'Mullane shows you how to swiftly deploy tempo and time signature changes into your Arrangement View. You'll also learn how to make the same changes in your Session View, and understand ways in which to make these changes on-the-fly during a live performance. Liam also shows you how to create polymeters, which have the potential to make your tracks more musically fascinating.
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
 
