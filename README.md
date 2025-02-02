@@ -436,6 +436,10 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [DETAIL VIEW](https://youtu.be/qCFsda-XTSg)
 
+## SCENE TEMPO & TIME SIGNATURE
+
+[Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
+
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
 
 [TRANSPORT BAR AND FOLLOW BEHAVIOR](https://youtu.be/m84wUU8CQnY)
