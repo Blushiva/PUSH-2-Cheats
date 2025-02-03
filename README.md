@@ -869,20 +869,73 @@ Tutorial on switching from 16 to 32 steps
 
 [Introduction ROLAND T8](https://www.youtube.com/watch?v=tv_oTBNzDjw)
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
+## MOOG DFAM
 
 
-[]()
+[DFAM USER'S MANUAL](https://api.moogmusic.com/sites/default/files/2018-04/DFAM_Manual.pdf)
 
-[]()
+[Moog DFAM percussion synthesizer tutorial Lesson 1: Overview and Basics](https://www.youtube.com/watch?v=hfvEy4rmwao)
+
+[The Moog DFAM synthesizer complete Deep Dive guide tutorial](https://www.youtube.com/watch?v=Y8u7Ffm2zrk)
+
+#### DEEP DIVE GUIDE
+
+Welcome to a deep dive guide tutorial about the Moog DFAM. A fantastic device packed with features and functions to explore. This is a deep dive about the main panel and patch panel, yes, one by on. All ins and outs. Everything is timecoded and in section, so if you are looking to learn some part you can look it up and learn it. Hope you like it :)
+
+timecodes:
+0:00 - Intro
+
+0:58 - VCOs
+
+08:54 - Hard Sync & FM
+
+12:34 -Filter
+
+16:17 - VCA
+
+18:35 - Sequencer
+
+21:44 - Pitch out & Noise in
+
+24:53 - Velocity out
+
+26:12 - VCF Mod & FM AMT
+
+29:52 - VCA CV in
+
+32:59 - Trigger Out & In
+
+36:45 - Velocity
+
+40:49 - VCO 1-2 OUT
+
+42::41 - VCO 1-2 CV IN
+
+45:28 - VCA/VCF/VCO DECAY
+
+47:54 - VCA/VCF/VCO EG OUT
+
+50:53 - EXT Audio & VCA OUT
+
+53:32 - TEMPO IN
+
+55:26 - RUN/STOP & ADV/CLOCK
+
+#### 3 Parts DFAM SERIES
+
+This video is designed to give a basic and thorough overview of the Moog DFAM (Drummer from another Mother). The DFAM is a complex, yet simple, percussive synth that can be very hard to get the hang of. This series breaks down the complexities of the DFAM into small and manageable chunks. By the end of the series, you'll have a strong understanding of each part of the DFAM and how it contributes to the overall sound as well as how it interacts with the other parts. Additionally, the videos will cover how to use the patchbay and give helpful pairing tips so you can build your own DFAM patches. 
+
+[Part 1 - Introduction and Overview - Complete DFAM Tutorial](https://www.youtube.com/watch?v=JJQoyqxCCmc)
+
+[Part 2 - Signal Path Overview - The Complete DFAM Tutorial](https://www.youtube.com/watch?v=QMTVqXUKn28)
+
+[Part 3 - Exploring The DFAM Walkthrough - Complete DFAM Tutorial](https://www.youtube.com/watch?v=nu1x3SrZVZE)
+
+
+#### BEYOND DFAM
+
+[Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)
+Advice on how to use your DFAM as more than just a percussive instrument.
 
 []()
 
