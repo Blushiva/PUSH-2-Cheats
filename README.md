@@ -873,6 +873,24 @@ Tutorial on switching from 16 to 32 steps
 ## MOOG DFAM
 ============
 
+The Moog DFAM, which stands for "Drummer From Another Mother", is a semi-modular analog percussion synthesizer designed to create unique percussive sounds and rhythms, considered a part of the Moog Mother-32 family; it features a hands-on approach with an 8-step analog sequencer, two oscillators, a noise generator, and a patchbay allowing for further sound exploration through patching, even though it can be used without extensive patching due to its semi-modular design. 
+
+Key points about the DFAM:
+
+- Percussion focus: Unlike a traditional drum machine, the DFAM is primarily designed for creating percussive sounds like drums, snares, claps, and even more experimental rhythms. 
+
+- Semi-modular: While it has a patchbay for connecting different modules internally, the DFAM can be used without extensive patching thanks to its pre-wired signal flow. 
+
+- Analog sound engine: The DFAM uses completely analog circuitry for a classic, warm sound. 
+
+- 8-step sequencer: The heart of the DFAM, this sequencer allows you to program pitch and velocity for each step, creating intricate rhythmic patterns. 
+
+- Oscillators and noise: The DFAM has two oscillators that can generate square and triangle waveforms, alongside a white noise generator for added texture. 
+
+- Patching capabilities: Although not strictly necessary for basic use, the patch points allow for advanced sound manipulation by connecting different parts of the synthesizer to create unique effects.
+
+DFAM® is the first addition to the Mother-32 family of synthesizers and presents an expressive hands-on approach to percussive pattern creation. It requires no patching, and absolutely no experience is needed for human-beings of any age to quickly begin synthesizing new and unique rhythmic compositions.
+
 [DFAM USER'S MANUAL](https://api.moogmusic.com/sites/default/files/2018-04/DFAM_Manual.pdf)
 
 [Moog DFAM percussion synthesizer tutorial Lesson 1: Overview and Basics](https://www.youtube.com/watch?v=hfvEy4rmwao)
