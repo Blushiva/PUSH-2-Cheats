@@ -988,7 +988,14 @@ The best feature is that there are 16 available sounds which can all be individu
 
 [Elektron Machinedrum SPS-1 MKII Overview and Demo](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
 
-[]()
+==============================================================================================
+
+# Casio Casiotone MT-46
+
+
+==============================================================================================
+
+[MT-46 Manual](https://www.scribd.com/document/781220960/Casio-MT-46-Manual)
 
 []()
 
