@@ -1037,9 +1037,19 @@ Use it in your laptop and in your productions for a cheap effect.  Get your head
 
 [Creating Ambient Drone Music with Korg Monotron Delay & Monotron Duo | Tutorial](https://www.youtube.com/watch?v=VvSh-UcRLzs)
 
+Sick example of using some simple synths to create full sets of beautiful music.
+
 [Sampling the Monotron Delay!](https://www.youtube.com/watch?v=6uhnkFZBEYY)
 
-[]()
+
+
+[In The Studio: Korg Monotron Duo; Monotron Delay](https://www.youtube.com/watch?v=dZEmnVtU1J8)
+
+## THE KORG VIDEO ON THIS BABY 
+
+The dual-oscillator Monotron Duo and the Monotron Delay with Space Echo are the latest additions to the Korg Monotron Series of pocket analog synthesizers. Each one has own special set of features, and our own James Sajeva is here to give a guided tour of all of the killer features of these exciting new Monotrons. With a ribbon-style keyboard, battery power, and a built-in speaker; these analog synthesizers serve up a big, big sound, anywhere you want to go. So tune in and take a walk in our analog wonderland. Thanks!
+
+[MONOTRONS](http://www.korg.com/monotrons)
 
 []()
 
