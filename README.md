@@ -1007,11 +1007,15 @@ HYSTERICAL VIDEO ALL ABOUT TAKING IT APART  This keyboard was found at Goodwill 
 
 =====================================================================
 
-# Korg Monotron
+# Korg Monotron Delay
 
 The Korg Monotron Delay produces a classic analog synth sound through a dual-waveform Low Frequency Oscillator using the same acclaimed analog filter VCF circuit as Korg's classic MS-10 and MS-20 semi modular synthesizers.
 
 Alongside the oscillator controls there are indispensable Space Delay controls ideal for swooping, cosmic sounds.
+
+I purchased this baby on a whim and love ALLTHE SPACE SOUNDS it makes.
+
+[monotron DELAY/Owner's Manual](https://www.korg.com/us/support/download/manual/0/116/1925/)
 
 [Beginner Synths // Korg Monotron Delay // Analogue Ribbon Synthesizer](https://www.youtube.com/watch?v=To6S4Ay--IA)
 
