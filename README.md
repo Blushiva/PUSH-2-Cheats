@@ -805,9 +805,25 @@ These videos take you through the basics of different drum machines, how to prog
 
 [How to Use Gated Reverb](https://www.youtube.com/watch?v=FhkbI2dAphU)
 
-[5 Reaper Features You Need to Know](https://www.youtube.com/watch?v=HhXHwPPFcKs)
+## Roland TR-6S
 
-Reaper is an alternative music and video editing software.  It does the same thing as Abelton and has elements of Final Cut Pro.
+One of my machines and Roland being one of my favorite manufactures of beep boop boop boop toys.  I need to figure out how to utilize this toy better and have put up articles and videos on how to play with this toy and make it a favorite. You can connect it to your computer and you can use it also as a midi device.  You can send all six channels seperately straight into your DAW.  What is not to love about this toy.  
+
+It gives me the drum sounds that I adore with the 606, 707, 808 and 909 drums. Also... FM sounds. Single LFO shared among the instruments.
+
+8 Banks 16 Patterns each.
+
+[Roland TR-6S Rhythm Performer Video Manual](https://www.youtube.com/watch?v=PQT-DoaZhKA)
+
+The video manual from Roland
+The TR-6S Video Manual provides a valuable resource for both new users and seasoned producers alike, covering the breadth of key features and functionality. We recommend viewing the parts in order but have also provided chapter links below for you to jump straight to what you need to know. For more specific TR-6S information make sure to download the owner’s manual. [TR-6S Owners Manual](https://www.roland.com/global/support/by_product/tr-6s/owners_manuals/)
+
+[ROLAND CLOUD ACADEMY](https://events.zoom.us/eo/AqS_P1v_FtA71IWi-AEk1zJr94hyh2Qt3A7R4o8n2JW_4GpGyCHC~AggLXsr32QYFjq8BlYLZ5I06Dg)
+
+[https://www.youtube.com/watch?v=lw1v8b7PHtc](https://www.youtube.com/watch?v=lw1v8b7PHtc)
+The Captain gives us a review and a basic snapshot of how to use this fun machine in his first year of use.
+
+
 
 []()
 
@@ -817,9 +833,7 @@ Reaper is an alternative music and video editing software.  It does the same thi
 
 []()
 
-[]()
-
-[]()
+## Roland T-8
 
 []()
 
