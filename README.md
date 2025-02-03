@@ -771,9 +771,11 @@ Here are some good production videos and ideas for tracks as well as drum machin
 
 This video discusses dotted 1/8th note patterns in chord progression, dotted 1/4 note patterns, along with dotted 1/8 and 1/4 note crossover ect...
 
+## Captain Pikant's Tutorials
 
+Drum Macine 101 takes you through the basics of different drum machines, how to program them and makes funny comments all while giving you a beautiful video.
 
-[]()
+[Drum Machine 101](https://youtube.com/playlist?list=PLN6bfDhoqzHV8QERJuNuQqyfOdhsL8oEU&si=RFKGVf1LOOKWo1zm)
 
 []()
 
