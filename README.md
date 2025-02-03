@@ -877,11 +877,19 @@ Tutorial on switching from 16 to 32 steps
 
 [Moog DFAM percussion synthesizer tutorial Lesson 1: Overview and Basics](https://www.youtube.com/watch?v=hfvEy4rmwao)
 
-[The Moog DFAM synthesizer complete Deep Dive guide tutorial](https://www.youtube.com/watch?v=Y8u7Ffm2zrk)
+#### DFAM THE COMPLETE TUTORIAL
+
+Not kidding Dude does 22 episodes on this machine.  Obviously he is in love with it.  I have't taken it out of the box and he has 22 videos on it.  Someone has gone way down the rabbit hole and I may just follow him into the madness that is the DFAM.  
+
+This video is designed to give a basic and thorough overview of the Moog DFAM (Drummer from another Mother). The DFAM is a complex, yet simple, percussive synth that can be very hard to get the hang of. This series breaks down the complexities of the DFAM into small and manageable chunks. By the end of the series, you'll have a strong understanding of each part of the DFAM and how it contributes to the overall sound as well as how it interacts with the other parts. Additionally, the videos will cover how to use the patchbay and give helpful pairing tips so you can build your own DFAM patches. 
+
+[Part 1 - Introduction and Overview - Complete DFAM Tutorial](https://www.youtube.com/watch?v=JJQoyqxCCmc&list=PLVNSPWhmb2bS07cOAoSQ10-9fQPL6Cjft)
 
 #### DEEP DIVE GUIDE
 
 Welcome to a deep dive guide tutorial about the Moog DFAM. A fantastic device packed with features and functions to explore. This is a deep dive about the main panel and patch panel, yes, one by on. All ins and outs. Everything is timecoded and in section, so if you are looking to learn some part you can look it up and learn it. Hope you like it :)
+
+[The Moog DFAM synthesizer complete Deep Dive guide tutorial](https://www.youtube.com/watch?v=Y8u7Ffm2zrk)
 
 timecodes:
 0:00 - Intro
@@ -932,11 +940,9 @@ This video is designed to give a basic and thorough overview of the Moog DFAM (D
 
 [Part 3 - Exploring The DFAM Walkthrough - Complete DFAM Tutorial](https://www.youtube.com/watch?v=nu1x3SrZVZE)
 
-
 #### BEYOND DFAM
 
-[Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)
-Advice on how to use your DFAM as more than just a percussive instrument.
+[Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)  Advice on how to use your DFAM as more than just a percussive instrument.
 
 []()
 
