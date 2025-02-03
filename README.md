@@ -811,7 +811,9 @@ These videos take you through the basics of different drum machines, how to prog
 
 ==============================================================================================
 
-## Roland TR-6S
+This section is all about the gear I have in my studio.  The synthesizers , Drum Machines and Mixers as well as assorted DJ gear.  Who has time for anything else, when you have so many toys to take up All of your free time.  
+
+# Roland TR-6S
 ================
 
 One of my machines and Roland being one of my favorite manufactures of beep boop boop boop toys.  I need to figure out how to utilize this toy better and have put up articles and videos on how to play with this toy and make it a favorite. You can connect it to your computer and you can use it also as a midi device.  You can send all six channels seperately straight into your DAW.  What is not to love about this toy.  
@@ -841,7 +843,7 @@ The Captain gives us a review and a basic snapshot of how to use this fun machin
 
 []()
 
-## Roland T-8
+# Roland T-8
 =============
 
 T-8 Beat Machine, a miniature rhythm factory loaded with legendary Roland TR drums plus bass from the inimitable TB-303. Craft on-the-fly acid jams or trap bangers with the intuitive 16-step sequencer, shape sounds with onboard controls, and flip and dice beats with hands-on tools that stimulate ideas and put the fun back into your flow.
@@ -870,7 +872,7 @@ Tutorial on switching from 16 to 32 steps
 
 [Introduction ROLAND T8](https://www.youtube.com/watch?v=tv_oTBNzDjw)
 
-## MOOG DFAM
+# MOOG DFAM
 ============
 
 The Moog DFAM, which stands for "Drummer From Another Mother", is a semi-modular analog percussion synthesizer designed to create unique percussive sounds and rhythms, considered a part of the Moog Mother-32 family; it features a hands-on approach with an 8-step analog sequencer, two oscillators, a noise generator, and a patchbay allowing for further sound exploration through patching, even though it can be used without extensive patching due to its semi-modular design. 
@@ -962,9 +964,29 @@ This video is designed to give a basic and thorough overview of the Moog DFAM (D
 
 [Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)  Advice on how to use your DFAM as more than just a percussive instrument.
 
-[]()
+========================================================================================
 
-[]()
+# ELEKTRON MACHINE DRUM SPS-1 MKII
+
+The Machinedrum SPS-1 is an advanced drum machine and drum synthesizer. It can synthesize wonderfully convincing analog sounds from the classic drum machines as well as crisp electronic and acoustic drum sounds, and they can all be tweaked and morphed into unique and dynamic new sounds! It has 39 drum sounds ready to be played or tweaked and customized by you! Its eight real-time control knobs offer total hands-on synthesis and control.
+
+At the core of the Machinedrum are four separate percussion instrument synthesizers. They include a TRX synth that emulates Roland's classic TR-series drum machines. An EFM synth that uses FM synthesis to create crispy percussion sounds. The E12 synth is a sample-playback synth using sounds from the E-mu SP1200 and Simmons electronic drum machines. The PI synth uses physical models of acoustic drums for realistic acoustic drums. Each of these synth engines give you excellent quality drum sounds and you can mix and match sounds from all of them among the 16-voice polyphonic drumkits. Your custom 'Kits' can be saved in any of the 64 memory locations. This will also store any custom tweaks you made to the individual drum sounds in each of your kits.
+
+Drum editing features include amplitude modulation, a 1-band EQ, multimode resonant filter, distortion, sample-rate reducer and effects (delay, reverb). All of these parameters are available on each drum sound independently for total control of each sound in your kit! There's also a compressor and 3-band EQ to process the overall mix. Stereo plus four assignable outputs give you plenty options where to send your sounds and the stereo inputs let you trigger drum sounds or process external sounds as a drum voice.
+
+The built-in sequencer offers two programming methods: Classic and Extended. Classic is a pretty limited mode. It works like the classic TR-series in which you assign a drum tone to a 'step' in the pattern using the 16 buttons along the bottom of the instrument. You can store your patterns but the 'Kit' associated with it and any tweaks you do are not stored. Extended mode is more in-depth and stores 'Kit' info with patterns. Extended mode has real and step (grid) time editing, supports odd time signatures, and patterns can have up to 32 steps. Also on-board is an Accent assignable to any step with 15 levels of intensity, and continuously variable swing and slide, assignable to the whole pattern or individual steps within the pattern.
+
+MIDI is fully implemented and can control the sequencer and synthesizer functions of the Machinedrum. Trigger sounds or entire patterns synced to MIDI clock. All edit parameters can be controlled by continuous MIDI controller numbers. This machine has it all, giving you total control and the flexibility to create your own unique drum sounds across a wide range of sonic percussion possibilities!
+
+The best feature is that there are 16 available sounds which can all be individually programmed and processed within the device. Furthermore, you can send out up to six outputs for further processing using external effects.
+
+[SPS -1 MKII MANUAL](https://www.strumentimusicali.net/manuali/ELEKTRON_SPS1UWMKII_ENG.pdf)
+
+#### Machine drum tutorials
+
+[Elektron Machinedrum SPS-1 MKII](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
+
+[Elektron Machinedrum SPS-1 MKII Overview and Demo](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
 
 []()
 
