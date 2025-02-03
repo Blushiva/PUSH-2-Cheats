@@ -695,7 +695,7 @@ This was a video produced in 2023.  They take you step by step and explain temp 
 
 
 ====================================================================================================================================
-===============================================================
+===============================
 
 # ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY
 
