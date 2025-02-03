@@ -877,7 +877,7 @@ Tutorial on switching from 16 to 32 steps
 [Introduction ROLAND T8](https://www.youtube.com/watch?v=tv_oTBNzDjw)
 
 # MOOG DFAM
-============
+==============================================================
 
 The Moog DFAM, which stands for "Drummer From Another Mother", is a semi-modular analog percussion synthesizer designed to create unique percussive sounds and rhythms, considered a part of the Moog Mother-32 family; it features a hands-on approach with an 8-step analog sequencer, two oscillators, a noise generator, and a patchbay allowing for further sound exploration through patching, even though it can be used without extensive patching due to its semi-modular design. 
 
@@ -969,7 +969,7 @@ This video is designed to give a basic and thorough overview of the Moog DFAM (D
 [Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)  Advice on how to use your DFAM as more than just a percussive instrument.
 
 # ELEKTRON MACHINE DRUM SPS-1 MKII
-=======================================
+==============================================================
 
 The Machinedrum SPS-1 is an advanced drum machine and drum synthesizer. It can synthesize wonderfully convincing analog sounds from the classic drum machines as well as crisp electronic and acoustic drum sounds, and they can all be tweaked and morphed into unique and dynamic new sounds! It has 39 drum sounds ready to be played or tweaked and customized by you! Its eight real-time control knobs offer total hands-on synthesis and control.
 
@@ -992,7 +992,7 @@ The best feature is that there are 16 available sounds which can all be individu
 [Elektron Machinedrum SPS-1 MKII Overview and Demo](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
 
 # Casio Casiotone MT-46
-=======================
+===========================================
 
 My first casio I recieved when I was just a lass.  I begged for a synth in 9th grade and woke up one Christmas morning to a Casio PT-1 29-Key Mini Synthesizer under my tree.  I wish I still had it but alas due to a house fire it ended up in a plastic puddle in my bedroom next to the vintage 1974 Stereo my mother had given me.  That along with over 1500 casette tapes that were ruined and an original bootlegged pressing of Madonna's Cosmic Climb was the end of my paper route supported legacy of music paraphenilia.
 
@@ -1008,7 +1008,8 @@ This Casiotone is an upgrade from my first Casio.  It is on loan to me from a fr
 HYSTERICAL VIDEO ALL ABOUT TAKING IT APART  This keyboard was found at Goodwill and has been in his possession for the last decade or so. In this riveting video, he takes it apart, waits 286 days, and then puts it back together, and now he hates everything. Enjoy!
 
 # Korg Monotron Delay
-=====================
+=============================================
+
 The Korg Monotron Delay produces a classic analog synth sound through a dual-waveform Low Frequency Oscillator using the same acclaimed analog filter VCF circuit as Korg's classic MS-10 and MS-20 semi modular synthesizers.
 
 Alongside the oscillator controls there are indispensable Space Delay controls ideal for swooping, cosmic sounds.
