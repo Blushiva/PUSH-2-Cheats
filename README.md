@@ -771,6 +771,8 @@ Here are some good production videos and ideas for tracks as well as drum machin
 
 This video discusses dotted 1/8th note patterns in chord progression, dotted 1/4 note patterns, along with dotted 1/8 and 1/4 note crossover ect...
 
+
+
 []()
 
 []()
