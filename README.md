@@ -1027,8 +1027,6 @@ The dual-oscillator Monotron Duo and the Monotron Delay with Space Echo are the 
 
 [Monotron Delay Makes Any Jam a Fun One!](https://www.youtube.com/watch?v=VXKWNRT4q7A)
 
-Monotron Delay Makes Any Jam a Fun One!
-
 Lately, I've been having a hard time putting my Korg Monotron Delay down. It's just so insanely accessible, offering only a few controls, but morphing and twisting ANY incoming audio into a barely recognizable mishmash of supremely spacy sound! Today I decided we'd simply run a few OP-Z samples through the Delay, and see what happens! Enjoy the video :)
 
 [Beginner Synths // Korg Monotron Delay // Analogue Ribbon Synthesizer](https://www.youtube.com/watch?v=To6S4Ay--IA)
@@ -1053,7 +1051,7 @@ Sick example of using some simple synths to create full sets of beautiful music.
 
 [Sampling the Monotron Delay!](https://www.youtube.com/watch?v=6uhnkFZBEYY)
 
-
+Just that... a sampling video using the Monotron Delay
 
 
 
