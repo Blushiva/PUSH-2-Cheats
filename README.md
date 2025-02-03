@@ -675,6 +675,28 @@ This was a video produced in 2023.  They take you step by step and explain temp 
 
 [Learn Live 12: Keys and Scales, Tuning Systems](https://youtu.be/tDR2AIUaHAE)
 
+#### NEW FEATURES OF LIVE 12
+
+[Roar](https://youtu.be/ETzf6O9-6us)
+
+[Meld](https://youtu.be/CBIOSA8NKz0)
+
+[Granulator 3](https://youtu.be/PqSFu6by6Kk)
+
+[Midi Transformations](https://youtu.be/E5rHIzm8sck)
+
+[Midi Generators](https://youtu.be/Z9z1QFyVVCo)
+
+[Midi Pitch and Time](https://youtu.be/GdBsL1X5AOI)
+
+## MAX FOR LIVE
+
+[Learn Live: Max for Live](https://www.youtube.com/watch?v=aGrifWA5gq4&t=13s)
+
+
+====================================================================================================================================
+====================================================================================================================================
+
 # ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY
 
 ## Drum Patterns, Loops, and Legalities COPYWRITING
@@ -740,6 +762,7 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 []()
 
 []()
+
 ## PRODUCTION AND THEORY
 
 Here are some good production videos and ideas for tracks as well as drum machines and music theory.
@@ -913,23 +936,4 @@ This video discusses dotted 1/8th note patterns in chord progression along with 
 
 []()
 
-#### NEW FEATURES OF LIVE 12
-
-[Roar](https://youtu.be/ETzf6O9-6us)
-
-[Meld](https://youtu.be/CBIOSA8NKz0)
-
-[Granulator 3](https://youtu.be/PqSFu6by6Kk)
-
-[Midi Transformations](https://youtu.be/E5rHIzm8sck)
-
-[Midi Generators](https://youtu.be/Z9z1QFyVVCo)
-
-[Midi Pitch and Time](https://youtu.be/GdBsL1X5AOI)
-
-
-
-## MAX FOR LIVE
-
-[Learn Live: Max for Live](https://www.youtube.com/watch?v=aGrifWA5gq4&t=13s)
 
