@@ -1013,7 +1013,9 @@ The Korg Monotron Delay produces a classic analog synth sound through a dual-wav
 
 Alongside the oscillator controls there are indispensable Space Delay controls ideal for swooping, cosmic sounds.
 
-I purchased this baby on a whim and love ALLTHE SPACE SOUNDS it makes.
+The Korg Monotron Delay is a remarkable budget delay effect, costing only around $50 and featuring all-analog circuitry. The Lo-Fi distortion it provides heavily resembles the sound of 4 track cassette decks and reminds me just how incredible this tool is.
+
+I purchased this baby on a whim for $35 and love ALL THE SPACE SOUNDS it makes.
 
 [monotron DELAY/Owner's Manual](https://www.korg.com/us/support/download/manual/0/116/1925/)
 
@@ -1021,15 +1023,21 @@ I purchased this baby on a whim and love ALLTHE SPACE SOUNDS it makes.
 
 In the second video of my beginner synths series I will be taking a look at the Korg Monotron Delay.  An excellent battery powered pocket-sized analogue synthesizer and delay unit!
 
-[]()
+[Plugging Various DIY Instruments into the KORG Monotron Delay](https://www.youtube.com/watch?v=do0IUjuNC5g)
 
-[]()
+I recently had an idea... I gathered up a smattering of my DIY projects and decided to plug them into the KORG Monotron Delay to see what I would get. This video is the result. 
 
-[]()
+[Running My Entire Track Through the Monotron Amazing // The Best LoFi Delay Crunch For $50](https://www.youtube.com/watch?v=oqjctglY0LA)
 
-[]()
+I've been using mine for over a decade and in this video, I share my three favorite ways of using it in the studio: creating textures, using it as an external analog effect unit with a send and return setup, and using it as a master bus crunch. 
 
-[]()
+[Tips On Using The Korg Monotron In Your Productions](https://www.youtube.com/watch?v=N9Kk04kDZSw)
+
+Use it in your laptop and in your productions for a cheap effect.  Get your head around it.
+
+[Creating Ambient Drone Music with Korg Monotron Delay & Monotron Duo | Tutorial](https://www.youtube.com/watch?v=VvSh-UcRLzs)
+
+[Sampling the Monotron Delay!](https://www.youtube.com/watch?v=6uhnkFZBEYY)
 
 []()
 
