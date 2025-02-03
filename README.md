@@ -694,8 +694,7 @@ This was a video produced in 2023.  They take you step by step and explain temp 
 [Learn Live: Max for Live](https://www.youtube.com/watch?v=aGrifWA5gq4&t=13s)
 
 
-====================================================================================================================================
-===============================
+=============================================================================================================
 
 # ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY
 
