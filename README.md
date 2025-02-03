@@ -821,11 +821,12 @@ The TR-6S Video Manual provides a valuable resource for both new users and seaso
 [ROLAND CLOUD ACADEMY](https://events.zoom.us/eo/AqS_P1v_FtA71IWi-AEk1zJr94hyh2Qt3A7R4o8n2JW_4GpGyCHC~AggLXsr32QYFjq8BlYLZ5I06Dg)
 
 [https://www.youtube.com/watch?v=lw1v8b7PHtc](https://www.youtube.com/watch?v=lw1v8b7PHtc)
+
 The Captain gives us a review and a basic snapshot of how to use this fun machine in his first year of use.
 
 
 
-[]()
+
 
 []()
 
@@ -835,11 +836,31 @@ The Captain gives us a review and a basic snapshot of how to use this fun machin
 
 ## Roland T-8
 
-[]()
+T-8 Beat Machine, a miniature rhythm factory loaded with legendary Roland TR drums plus bass from the inimitable TB-303. Craft on-the-fly acid jams or trap bangers with the intuitive 16-step sequencer, shape sounds with onboard controls, and flip and dice beats with hands-on tools that stimulate ideas and put the fun back into your flow.
 
-[]()
+Build beats with the boom, pop, and sizzle of sounds from the TR-808, TR-909, and TR-606 drum machines, paired with the shapeshifting low end of the dynamic TB-303 Bass Line. The T-8 exudes classic Roland character, thanks to the same Analog Circuit Behavior (ACB) tech found in the TR-8S, TB-3, and other high-end AIRA gear.
 
-[]()
+[Roland T-8 Manual](https://www.roland.com/global/support/by_product/t-8/owners_manuals/)
+
+### ROLAND T-8 Tutorials
+
+[Roland AIRA Compact T-8 Beat Machine](https://www.youtube.com/watch?v=_iXy4tK2lC4)
+
+Roland T-8 Tutorial. In this video I demonstrate the T8's Drum Sounds, Bass Sounds, FX, How to Sequence Beats with the T-8, How to Record Live into the T-8, How to apply Ratchets and Accents. Also Set Step Length, Clear Patterns, Change Tempo, and the three different ways to make basslines with the Roland T-8.
+
+[Roland T8 Tutorial | How to Use Roland Aira Compact T8](https://www.youtube.com/watch?v=tBI6n8el57w)
+
+Straight-forward tutorial on essential functions of the Roland Aira Compact T8.
+
+[AIRA Compact T8 Tutorial: Saving your work in your T8](https://www.youtube.com/watch?v=q4jiQVQX15Q)
+
+How to save your work on the T-8.
+
+[AIRA Compact T8 Tutorial: How to change from 32 to 16 steps](https://www.youtube.com/watch?v=AWjVYhIJOqc)
+
+Tutorial on switching from 16 to 32 steps 
+
+[Introduction ROLAND T8](https://www.youtube.com/watch?v=tv_oTBNzDjw)
 
 []()
 
