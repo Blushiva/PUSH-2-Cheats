@@ -769,7 +769,7 @@ Here are some good production videos and ideas for tracks as well as drum machin
 
 [5 Pattern Grooves Every Producer Should Know](https://www.youtube.com/watch?v=jvrgRvmnTC0)
 
-This video discusses dotted 1/8th note patterns in chord progression along with Dotthed 1/4 note patterns along with dotted 1/8 and 1/4 note crossover ect...
+This video discusses dotted 1/8th note patterns in chord progression, dotted 1/4 note patterns, along with dotted 1/8 and 1/4 note crossover ect...
 
 []()
 
