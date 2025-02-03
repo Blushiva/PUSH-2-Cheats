@@ -805,14 +805,14 @@ These videos take you through the basics of different drum machines, how to prog
 
 [How to Use Gated Reverb](https://www.youtube.com/watch?v=FhkbI2dAphU)
 
-========================================================================================================================================================
-========================================================================================================================================================
+=============================================================================================
 
 # MY TOYS AND HOW TO USE THEM
 
-========================================================================================================================================================
+==============================================================================================
 
 ## Roland TR-6S
+================
 
 One of my machines and Roland being one of my favorite manufactures of beep boop boop boop toys.  I need to figure out how to utilize this toy better and have put up articles and videos on how to play with this toy and make it a favorite. You can connect it to your computer and you can use it also as a midi device.  You can send all six channels seperately straight into your DAW.  What is not to love about this toy.  
 
@@ -842,6 +842,7 @@ The Captain gives us a review and a basic snapshot of how to use this fun machin
 []()
 
 ## Roland T-8
+=============
 
 T-8 Beat Machine, a miniature rhythm factory loaded with legendary Roland TR drums plus bass from the inimitable TB-303. Craft on-the-fly acid jams or trap bangers with the intuitive 16-step sequencer, shape sounds with onboard controls, and flip and dice beats with hands-on tools that stimulate ideas and put the fun back into your flow.
 
@@ -870,7 +871,7 @@ Tutorial on switching from 16 to 32 steps
 [Introduction ROLAND T8](https://www.youtube.com/watch?v=tv_oTBNzDjw)
 
 ## MOOG DFAM
-
+============
 
 [DFAM USER'S MANUAL](https://api.moogmusic.com/sites/default/files/2018-04/DFAM_Manual.pdf)
 
