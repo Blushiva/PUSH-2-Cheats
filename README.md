@@ -829,13 +829,17 @@ The TR-6S Video Manual provides a valuable resource for both new users and seaso
 
 [ROLAND CLOUD ACADEMY](https://events.zoom.us/eo/AqS_P1v_FtA71IWi-AEk1zJr94hyh2Qt3A7R4o8n2JW_4GpGyCHC~AggLXsr32QYFjq8BlYLZ5I06Dg)
 
+#### TR-6S Tutorials
+
 [https://www.youtube.com/watch?v=lw1v8b7PHtc](https://www.youtube.com/watch?v=lw1v8b7PHtc)
 
 The Captain gives us a review and a basic snapshot of how to use this fun machine in his first year of use.
 
+[]()
 
+[]()
 
-
+[]()
 
 []()
 
@@ -964,10 +968,8 @@ This video is designed to give a basic and thorough overview of the Moog DFAM (D
 
 [Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)  Advice on how to use your DFAM as more than just a percussive instrument.
 
-========================================================================================
-
 # ELEKTRON MACHINE DRUM SPS-1 MKII
-
+==================================
 The Machinedrum SPS-1 is an advanced drum machine and drum synthesizer. It can synthesize wonderfully convincing analog sounds from the classic drum machines as well as crisp electronic and acoustic drum sounds, and they can all be tweaked and morphed into unique and dynamic new sounds! It has 39 drum sounds ready to be played or tweaked and customized by you! Its eight real-time control knobs offer total hands-on synthesis and control.
 
 At the core of the Machinedrum are four separate percussion instrument synthesizers. They include a TRX synth that emulates Roland's classic TR-series drum machines. An EFM synth that uses FM synthesis to create crispy percussion sounds. The E12 synth is a sample-playback synth using sounds from the E-mu SP1200 and Simmons electronic drum machines. The PI synth uses physical models of acoustic drums for realistic acoustic drums. Each of these synth engines give you excellent quality drum sounds and you can mix and match sounds from all of them among the 16-voice polyphonic drumkits. Your custom 'Kits' can be saved in any of the 64 memory locations. This will also store any custom tweaks you made to the individual drum sounds in each of your kits.
@@ -991,6 +993,7 @@ The best feature is that there are 16 available sounds which can all be individu
 ================================================================
 
 # Casio Casiotone MT-46
+=======================
 
 My first casio I recieved when I was just a lass.  I begged for a synth in 9th grade and woke up one Christmas morning to a Casio PT-1 29-Key Mini Synthesizer under my tree.  I wish I still had it but alas due to a house fire it ended up in a plastic puddle in my bedroom next to the vintage 1974 Stereo my mother had given me.  That along with over 1500 casette tapes that were ruined and an original bootlegged pressing of Madonna's Cosmic Climb was the end of my paper route supported legacy of music paraphenilia.
 
@@ -1005,10 +1008,8 @@ This Casiotone is an upgrade from my first Casio.  It is on loan to me from a fr
 
 HYSTERICAL VIDEO ALL ABOUT TAKING IT APART  This keyboard was found at Goodwill and has been in his possession for the last decade or so. In this riveting video, he takes it apart, waits 286 days, and then puts it back together, and now he hates everything. Enjoy!
 
-=====================================================================
-
 # Korg Monotron Delay
-
+=====================
 The Korg Monotron Delay produces a classic analog synth sound through a dual-waveform Low Frequency Oscillator using the same acclaimed analog filter VCF circuit as Korg's classic MS-10 and MS-20 semi modular synthesizers.
 
 Alongside the oscillator controls there are indispensable Space Delay controls ideal for swooping, cosmic sounds.
