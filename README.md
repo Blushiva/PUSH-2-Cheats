@@ -1017,7 +1017,19 @@ The Korg Monotron Delay is a remarkable budget delay effect, costing only around
 
 I purchased this baby on a whim for $35 and love ALL THE SPACE SOUNDS it makes.
 
+## THE KORG VIDEO ON THIS BABY 
+
+[In The Studio: Korg Monotron Duo; Monotron Delay](https://www.youtube.com/watch?v=dZEmnVtU1J8)
+
+The dual-oscillator Monotron Duo and the Monotron Delay with Space Echo are the latest additions to the Korg Monotron Series of pocket analog synthesizers. Each one has own special set of features, and our own James Sajeva is here to give a guided tour of all of the killer features of these exciting new Monotrons. With a ribbon-style keyboard, battery power, and a built-in speaker; these analog synthesizers serve up a big, big sound, anywhere you want to go. So tune in and take a walk in our analog wonderland. Thanks! [MONOTRONS](http://www.korg.com/monotrons)
+
 [monotron DELAY/Owner's Manual](https://www.korg.com/us/support/download/manual/0/116/1925/)
+
+[Monotron Delay Makes Any Jam a Fun One!](https://www.youtube.com/watch?v=VXKWNRT4q7A)
+
+Monotron Delay Makes Any Jam a Fun One!
+
+Lately, I've been having a hard time putting my Korg Monotron Delay down. It's just so insanely accessible, offering only a few controls, but morphing and twisting ANY incoming audio into a barely recognizable mishmash of supremely spacy sound! Today I decided we'd simply run a few OP-Z samples through the Delay, and see what happens! Enjoy the video :)
 
 [Beginner Synths // Korg Monotron Delay // Analogue Ribbon Synthesizer](https://www.youtube.com/watch?v=To6S4Ay--IA)
 
@@ -1045,13 +1057,6 @@ Sick example of using some simple synths to create full sets of beautiful music.
 
 
 
-## THE KORG VIDEO ON THIS BABY 
-
-[In The Studio: Korg Monotron Duo; Monotron Delay](https://www.youtube.com/watch?v=dZEmnVtU1J8)
-
-The dual-oscillator Monotron Duo and the Monotron Delay with Space Echo are the latest additions to the Korg Monotron Series of pocket analog synthesizers. Each one has own special set of features, and our own James Sajeva is here to give a guided tour of all of the killer features of these exciting new Monotrons. With a ribbon-style keyboard, battery power, and a built-in speaker; these analog synthesizers serve up a big, big sound, anywhere you want to go. So tune in and take a walk in our analog wonderland. Thanks!
-
-[MONOTRONS](http://www.korg.com/monotrons)
 
 []()
 
