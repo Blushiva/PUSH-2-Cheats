@@ -697,7 +697,7 @@ This was a video produced in 2023.  They take you step by step and explain temp 
 ========================================================================================================
 
 # ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY
-
+=======================================================================================================
 ## Drum Patterns, Loops, and Legalities COPYWRITING
 
 ### NONE OF THE FOLLOWING IS CONSIDERED LEGAL ADVICE PLEASE SEE A LAWYER SPECIALIZING IN MUSIC WITH QUESTIONS
