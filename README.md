@@ -969,7 +969,8 @@ This video is designed to give a basic and thorough overview of the Moog DFAM (D
 [Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)  Advice on how to use your DFAM as more than just a percussive instrument.
 
 # ELEKTRON MACHINE DRUM SPS-1 MKII
-==================================
+=======================================
+
 The Machinedrum SPS-1 is an advanced drum machine and drum synthesizer. It can synthesize wonderfully convincing analog sounds from the classic drum machines as well as crisp electronic and acoustic drum sounds, and they can all be tweaked and morphed into unique and dynamic new sounds! It has 39 drum sounds ready to be played or tweaked and customized by you! Its eight real-time control knobs offer total hands-on synthesis and control.
 
 At the core of the Machinedrum are four separate percussion instrument synthesizers. They include a TRX synth that emulates Roland's classic TR-series drum machines. An EFM synth that uses FM synthesis to create crispy percussion sounds. The E12 synth is a sample-playback synth using sounds from the E-mu SP1200 and Simmons electronic drum machines. The PI synth uses physical models of acoustic drums for realistic acoustic drums. Each of these synth engines give you excellent quality drum sounds and you can mix and match sounds from all of them among the 16-voice polyphonic drumkits. Your custom 'Kits' can be saved in any of the 64 memory locations. This will also store any custom tweaks you made to the individual drum sounds in each of your kits.
