@@ -899,7 +899,7 @@ DFAM® is the first addition to the Mother-32 family of synthesizers and present
 
 #### DFAM THE COMPLETE TUTORIAL
 
-Not kidding Dude does 22 episodes on this machine.  Obviously he is in love with it.  I have't taken it out of the box and he has 22 videos on it.  Someone has gone way down the rabbit hole and I may just follow him into the madness that is the DFAM.  
+Not kidding Dude does 22 episodes on this machine.  Obviously he is in love with it.  I have't taken it out of the box sine my friend split for tropical paradise and dropped it off at my house.  He has 22 videos on it.  Someone has gone way down the rabbit hole and I may just follow him into the madness that is the DFAM.  
 
 This video is designed to give a basic and thorough overview of the Moog DFAM (Drummer from another Mother). The DFAM is a complex, yet simple, percussive synth that can be very hard to get the hang of. This series breaks down the complexities of the DFAM into small and manageable chunks. By the end of the series, you'll have a strong understanding of each part of the DFAM and how it contributes to the overall sound as well as how it interacts with the other parts. Additionally, the videos will cover how to use the patchbay and give helpful pairing tips so you can build your own DFAM patches. 
 
@@ -988,16 +988,22 @@ The best feature is that there are 16 available sounds which can all be individu
 
 [Elektron Machinedrum SPS-1 MKII Overview and Demo](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
 
-==============================================================================================
+================================================================
 
 # Casio Casiotone MT-46
 
+My first casio I recieved when I was just a lass.  I begged for a synth in 9th grade and woke up one Christmas morning to a Casio PT-1 29-Key Mini Synthesizer under my tree.  I wish I still had it but alas due to a house fire it ended up in a plastic puddle in my bedroom next to the vintage 1974 Stereo my mother had given me.  That along with over 1500 casette tapes that were ruined and an original bootlegged pressing of Madonna's Cosmic Climb was the end of my paper route supported legacy of music paraphenilia.
 
-==============================================================================================
+The casio is quinessential 80's.  I don't remember the 80's without it.
+
+This Casiotone is an upgrade from my first Casio.  It is on loan to me from a friend.  I don't think the friend is coming back since they found a tropical paradise.  However I am really the winner because I get all the synth sounds from this glorious still working instrument.  
+
 
 [MT-46 Manual](https://www.scribd.com/document/781220960/Casio-MT-46-Manual)
 
-[]()
+[It took me 9 months to make this video: Casio Casiotone MT-46 Electronic Musical Instrument](https://www.youtube.com/watch?v=l5kdv_Us3zY)
+
+HYSTERICAL VIDEO ALL ABOUT TAKING IT APART  This keyboard was found at Goodwill and has been in his possession for the last decade or so. In this riveting video, he takes it apart, waits 286 days, and then puts it back together, and now he hates everything. Enjoy!
 
 []()
 
