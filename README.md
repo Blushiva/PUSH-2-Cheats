@@ -495,6 +495,10 @@ Automating gradual tempo changes in Ableton Live's arrangement view is pretty ea
 
 This was a video produced in 2023.  They take you step by step and explain temp transitions in Live session view [How to set up tempo transitions in Ableton Live Session View - Max for Live](https://www.youtube.com/watch?v=tTEnVUCFKZI)  
 
+[BEGINNERS GUIDE TO SWING AND GROOVE (ABLETON 12)](https://www.youtube.com/watch?v=6r6IiwJcEEE)
+
+As most of us don't play in a band these days and create all our songs in a DAW, everything has sounded more and more robotic. This can be good in certain styles of music, but not all the time. With these simple steps you can sound like your tracks have been played and recorded in live. 
+
 ## LIVE'S MIXER
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
