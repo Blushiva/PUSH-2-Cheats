@@ -773,31 +773,41 @@ This video discusses dotted 1/8th note patterns in chord progression, dotted 1/4
 
 ## Captain Pikant's Tutorials
 
-Drum Macine 101 takes you through the basics of different drum machines, how to program them and makes funny comments all while giving you a beautiful video.
+Cannot say enough about the production quality, it's educating and entertaining all while learning about music production, equipment, sound design, synth and drum machine reviews and explanations on how to use those expensive toys that may be collecting dust on your shelf.  
+
+### Drum Macine 101 
+
+These videos take you through the basics of different drum machines, how to program them and he makes funny comments all while giving you a beautiful video.
 
 [Drum Machine 101](https://youtube.com/playlist?list=PLN6bfDhoqzHV8QERJuNuQqyfOdhsL8oEU&si=RFKGVf1LOOKWo1zm)
 
-[]()
+### Captain Pikant's Audio Laboratory
 
-[]()
+[Anolog to Digital](https://www.youtube.com/watch?v=B3vihWLH9Sk)
 
-[]()
+[What's Panning](https://www.youtube.com/watch?v=dLIu4Ue82Lo)
 
-[]()
+[Reverb Explained](https://www.youtube.com/watch?v=0BzkgbNgkuU)
 
-[]()
+[Impulse Response on convulution reverb ect...](https://www.youtube.com/watch?v=d-1Zn1LvhB4)
 
-[]()
+[Compressor](https://www.youtube.com/watch?v=zc-of_7v2Ik)
 
-[]()
+[How to Use Automation](https://www.youtube.com/watch?v=dkmaQXGc3jQ)
 
-[]()
+[https://www.youtube.com/watch?v=ucMTmSp1WsY](https://www.youtube.com/watch?v=ucMTmSp1WsY)
 
-[]()
+[What Does Send FX Mean?](https://www.youtube.com/watch?v=9tucwBloiIU)
 
-[]()
+[What is Sidechaining?](https://www.youtube.com/watch?v=VliFpaOGY2A)
 
-[]()
+[Using a Noise Gate for Clear Audio](https://www.youtube.com/watch?v=n44ucyiTQNU)
+
+[How to Use Gated Reverb](https://www.youtube.com/watch?v=FhkbI2dAphU)
+
+[5 Reaper Features You Need to Know](https://www.youtube.com/watch?v=HhXHwPPFcKs)
+
+Reaper is an alternative music and video editing software.  It does the same thing as Abelton and has elements of Final Cut Pro.
 
 []()
 
