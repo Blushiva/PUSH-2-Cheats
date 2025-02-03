@@ -1005,7 +1005,17 @@ This Casiotone is an upgrade from my first Casio.  It is on loan to me from a fr
 
 HYSTERICAL VIDEO ALL ABOUT TAKING IT APART  This keyboard was found at Goodwill and has been in his possession for the last decade or so. In this riveting video, he takes it apart, waits 286 days, and then puts it back together, and now he hates everything. Enjoy!
 
-[]()
+=====================================================================
+
+# Korg Monotron
+
+The Korg Monotron Delay produces a classic analog synth sound through a dual-waveform Low Frequency Oscillator using the same acclaimed analog filter VCF circuit as Korg's classic MS-10 and MS-20 semi modular synthesizers.
+
+Alongside the oscillator controls there are indispensable Space Delay controls ideal for swooping, cosmic sounds.
+
+[Beginner Synths // Korg Monotron Delay // Analogue Ribbon Synthesizer](https://www.youtube.com/watch?v=To6S4Ay--IA)
+
+In the second video of my beginner synths series I will be taking a look at the Korg Monotron Delay.  An excellent battery powered pocket-sized analogue synthesizer and delay unit!
 
 []()
 
