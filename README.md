@@ -394,13 +394,13 @@ A basic overview of video guides of quick tips and tricks to get you using Push 
 [Learn Push 2: Recording automation](https://www.youtube.com/watch?v=DdJabGICtzM)
 
 ==================================================================================================
-==================================================================================================
+=====================================================================
 
 # ABLETON LIVE
 
 This is the section that we learn Ableton Live and throw down some tricks and hints on how to use it.
 
-========================================================================================================
+================================================================================
 
 ### THIS IS WHERE WE LEARN LIVE
 
@@ -805,11 +805,11 @@ These videos take you through the basics of different drum machines, how to prog
 
 [How to Use Gated Reverb](https://www.youtube.com/watch?v=FhkbI2dAphU)
 
-=============================================================================================
+========================================================
 
 # MY TOYS AND HOW TO USE THEM
 
-==============================================================================================
+========================================================
 
 This section is all about the gear I have in my studio.  The synthesizers , Drum Machines and Mixers as well as assorted DJ gear.  Who has time for anything else, when you have so many toys to take up All of your free time.  
 
@@ -989,8 +989,6 @@ The best feature is that there are 16 available sounds which can all be individu
 [Elektron Machinedrum SPS-1 MKII](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
 
 [Elektron Machinedrum SPS-1 MKII Overview and Demo](https://www.youtube.com/watch?v=ZJY6dLLT2RE)
-
-================================================================
 
 # Casio Casiotone MT-46
 =======================
