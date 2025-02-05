@@ -76,13 +76,9 @@ To create beats using Push 2, first make sure Note Mode is enabled
 - [LOOP SELECTOR](https://www.ableton.com/en/live-manual/12/using-push-2/#loop-selector)
 
 When the Loop Selector layout is enabled, the pads are divided into three sections, allowing you to simultaneously play, step sequence and adjust the length of your clip.
-
 - [16 Velocities Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#velocities-mode) Press the Layout button to switch to the 16 Velocities layout. In this mode, the bottom right 16 pads represent 16 different velocities for the selected Drum Rack pad. Tap one of the velocity pads to enter steps at that velocity.
-
 - [64 Pad Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#pad-mode) You can also use the entire 8x8 pad grid for real-time drum playing. This is useful when working with very large drum kits, such as those created by slicing. To switch to 64-pad mode, press the Layout button again.
-
-- [Loading Individual Drums](https://www.ableton.com/en/live-manual/12/using-push-2/#loading-individual-drums) Browse Mode can also be used to load or replace individual pads within a loaded Drum Rack. To switch between browsing Drum Racks and single pads, make sure you’re in Device Mode by pressing the Device button. This will show the devices on the track.
-  
+- [Loading Individual Drums](https://www.ableton.com/en/live-manual/12/using-push-2/#loading-individual-drums) Browse Mode can also be used to load or replace individual pads within a loaded Drum Rack. To switch between browsing Drum Racks and single pads, make sure you’re in Device Mode by pressing the Device button. This will show the devices on the track.  
 - [Step Sequencing Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#step-sequencing-beats) Tapping a pad selects it and also enables it for step sequencing.  To record notes with the step sequencer, tap the pads in the step sequencer controls to place notes in the clip where you want them. The clip will begin playing as soon as you tap a step. By default, each step sequencer pad corresponds to a 16th note, but you can change the step size via the Scene/Grid buttons.
 
 
