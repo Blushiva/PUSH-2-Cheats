@@ -540,6 +540,8 @@ In this video series we will be Mastering simpler in Ableton live 12. Simpler is
 
 Basics of dragging samples into simpler in the not session view.
 
+[Warping in Simpler](https://help.ableton.com/hc/en-us/articles/209072629-Warping-in-Simpler)
+
 ## TRANSPORT BAR
 
 [TRANSPORT BAR AND FOLLOW BEHAVIOR](https://youtu.be/m84wUU8CQnY)
