@@ -167,6 +167,7 @@ Musical ideas can be hard to explain and are often defined by using complex Ital
 [How to Write Chords & Melodies in Ableton Live 12 - Beginners Tutorial](https://www.youtube.com/watch?v=oU21nmTC63A)
 
 [Lesson 1: Melody Writing with MIDI](https://www.ableton.com/en/classroom/support/theory-hacks/lesson-1/)
+
 ## Chords In Ableton
 
 A chord in music is a group of notes that are played simultaneously to create harmony. Chords are built from intervals of notes, such as thirds and fifths. 
@@ -242,7 +243,7 @@ Get your hands on Ableton Live Push 2 and learn how to control audio effects on 
 [HOW TO PUSH 2 - Controlling Audio Effects in Ableton Live 11](https://www.youtube.com/watch?v=Bn9FUFPQBzg)
 
 
-# Melodic Step Sequencing with Ableton Push
+## Melodic Step Sequencing with Ableton Push
 
 Learn how to step sequence notes and chords with the melodic step sequencer on Ableton Push.
 
@@ -292,7 +293,7 @@ Usually, you can access these settings by pressing the "Scale" button on the Pus
 
 [Note Mode settings](https://youtu.be/G4AMycvuDJo)
 
-# SAMPLING IN YOUR WORKFLOW
+## SAMPLING IN YOUR WORKFLOW
 
 ## How To Load Samples
 
@@ -393,8 +394,8 @@ A basic overview of video guides of quick tips and tricks to get you using Push 
 
 [Learn Push 2: Recording automation](https://www.youtube.com/watch?v=DdJabGICtzM)
 
-==================================================================================================
-=====================================================================
+================================================================================
+
 
 # ABLETON LIVE
 
@@ -502,6 +503,37 @@ As most of us don't play in a band these days and create all our songs in a DAW,
 ## LIVE'S MIXER
 
 [LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
+
+## SIMPLER
+
+In Ableton Live, "Simpler" is a built-in sampler device that is considered a streamlined and user-friendly version of the more complex "Sampler" instrument, allowing producers to easily manipulate and play back single audio samples with basic controls, making it ideal for quick sample-based sound design and creating instruments from single sounds with minimal fuss; essentially, it's a simplified way to sample and play audio clips across a keyboard. 
+
+The Pareto principle, also known as the 80/20 rule, states that, for any given tool or technique, roughly 80% of the outcome comes from using just 20% of the available resources. Looking at the way many of us use Ableton Live, this 80/20 rule very likely applies to Simpler and Sampler; with most of us only ever scratching the surface of what these devices are capable of. This is fine of course if you’re happy with the musical results you’re getting, but what else could you do with that other 80%?
+
+Enter Evan Chandler, aka electro-boogie artist Slynk. His recent tutorial video showed off a whole bunch of techniques that explored the creative possibilities of using Live’s Vocoder not just for vocals. In a similar vein, Chandler’s new tutorial video dives deep into Simpler and Sampler to demonstrate some fun, under-the-radar tricks for slicing up samples, generating melodies and making your own bass synth (or donk machine). In addition, Slynk drops lots of pro tips on how to use Simpler and Sampler with filters, arpeggiators, LFOs, envelopes, and the mysterious ‘Zn Shift’ parameter.
+
+[Simpler and Sampler: Pro Tips and Techniques from Slynk](https://www.ableton.com/en/blog/simpler-and-sampler-pro-tips-and-techniques-slynk/)
+
+
+[Learn Simpler In 4 Min!!!](https://www.youtube.com/watch?v=rSI5fJN3A0A)
+
+Ableton Live simpler in just four minutes. If you wish to have a less hasty explanation of Simpler, check out this comprehensive tutorial below.
+
+[All about SIMPLER • Every Function Explained & Creative Tips • Ableton Live 10 Tutorial](https://www.youtube.com/watch?v=3AklIZPrz3A)
+
+All about SIMPLER the Sampler! I explain every function & show creative examples with this wonderful Ableton Live 10 stock instrument! This tutorial covers all of the Playback Modes (Classic, 1Shot & Slice), and what happens both in sample view and device view (Filters, LFO, Envelope(s) & Global controls). I also show how to convert your sliced sample to a drum rack and to a MIDI track. 
+
+[Basics for Simpler and Sampler in Ableton Live 12](https://www.youtube.com/watch?v=GejTkLYSzGU)
+
+[Ableton Live Simpler Tutorial - Pt. 1 Creating Instruments](https://www.youtube.com/watch?v=N_3ka5qOyn8)
+
+In this video series we will be Mastering simpler in Ableton live 12. Simpler is a sampler instrument used in Drum Rack but it can also be used outside of drum rack to create instruments and chop up samples. 
+
+[Ableton Live 12 Beginners Pt 2 Samples into Simpler (chopping & further manipulation of the sample)](https://www.youtube.com/watch?v=yCnqzuipNvI)
+
+Basics of dragging samples into simpler in the not session view.
+
+## TRANSPORT BAR
 
 [TRANSPORT BAR AND FOLLOW BEHAVIOR](https://youtu.be/m84wUU8CQnY)
 
