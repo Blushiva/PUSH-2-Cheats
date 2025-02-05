@@ -69,10 +69,20 @@ In this tutorial you’ll get a complete overview of all features and functions 
 
 [Playing and Programming Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#playing-and-programming-beats)
 
+- [LOOP SELECTOR](https://www.ableton.com/en/live-manual/12/using-push-2/#loop-selector)
+- [16 Velocities Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#velocities-mode)
+- [64 Pad Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#pad-mode)
+- [Loading Individual Drums](https://www.ableton.com/en/live-manual/12/using-push-2/#loading-individual-drums)
+- [Step Sequencing Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#step-sequencing-beats)
+- [Real Time Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#real-time-recording)
+- [Fixed Length Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#fixed-length-recording)
+
 [Additional Recording Options](https://www.ableton.com/en/live-manual/12/using-push-2/#additional-recording-options)
-- 1. [Recoding with Repeat](https://www.ableton.com/en/live-manual/12/using-push-2/#recording-with-repeat)
-- 2. [Quantizing](https://www.ableton.com/en/live-manual/12/using-push-2/#quantizing)
-- 3. [Arrangement Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#arrangement-recording)
+- [Recoding with Repeat](https://www.ableton.com/en/live-manual/12/using-push-2/#recording-with-repeat)
+- [Quantizing](https://www.ableton.com/en/live-manual/12/using-push-2/#quantizing)
+- [Arrangement Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#arrangement-recording)
+
+
 
 ## Step Sequencing Beats
 
