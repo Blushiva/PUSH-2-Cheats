@@ -336,7 +336,7 @@ To load a MIDI file into Ableton Push 2,
 
 #### Instructional videos
 
-[Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)
+[Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)  we'll look at how to create new midi tracks for software instruments on push 2.
 
 
 ## Session View
