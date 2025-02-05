@@ -14,7 +14,7 @@ Learning should be fun and easy and hopefully this guide will take some of the w
 
 ## KEYBOARD SHORTCUTS
 
-I hate that most manuals put the shortcuts at the end buried under tons of other information.  Keyboard shortcuts save us time and we can get back to producing.  This is why they are front and center here.  
+I hate that most manuals put the shortcuts at the end buried under tons of other information.  Keyboard shortcuts save us time and we can get back to producing.  This is why they are front and center here.  Note: these shortcuts are for Abeleton Live
 
 [Keyboard Shortcuts](https://www.ableton.com/en/live-manual/12/live-keyboard-shortcuts/#live-keyboard-shortcuts)
 
