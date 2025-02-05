@@ -322,7 +322,7 @@ To load a MIDI file into Ableton Push 2,
 
 [Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)  Push introduces three new modes of working with samples: classic mode, one-shot mode and slicing mode. In this Push sampling tutorial video we’ll have a look at how these modes work.
 
-[64-Pad Mode](https://youtu.be/gUdt3umIvL0)
+[64-Pad Mode](https://youtu.be/gUdt3umIvL0)  Learn to play and sequence drums using all 64 pads on Ableton Push.
 
 [Sampling: Classic Mode](https://youtu.be/kn57pE6yu1Y)
 
