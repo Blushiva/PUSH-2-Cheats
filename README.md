@@ -538,7 +538,7 @@ In this video series we will be Mastering simpler in Ableton live 12. Simpler is
 
 [Ableton Live 12 Beginners Pt 2 Samples into Simpler (chopping & further manipulation of the sample)](https://www.youtube.com/watch?v=yCnqzuipNvI)
 
-Basics of dragging samples into simpler in the not session view.
+Basics of dragging samples into simpler in the arrangement view.
 
 [Warping in Simpler](https://help.ableton.com/hc/en-us/articles/209072629-Warping-in-Simpler)
 
