@@ -373,7 +373,7 @@ In the Session Overview, the color coding is a little different:
 
 [Sidechaining](https://youtu.be/XvaOKIMz7_Q)
 
-[Recording in the Arrangement View](https://youtu.be/CK5hQHoFMjI)
+[Recording in the Arrangement View](https://youtu.be/CK5hQHoFMjI)  In this tutorial video we'll look at the functions you can perform from Ableton Push in the Arrangement View.
 
 [Navigate and Browse](https://youtu.be/PL9FhdhenCU)
 
