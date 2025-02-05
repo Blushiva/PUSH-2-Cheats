@@ -403,9 +403,9 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 ================================================================================
 
-### THIS IS WHERE WE LEARN LIVE
+# THIS IS WHERE WE LEARN LIVE
 
-#### SET UP
+# SET UP
 
 [Setting Up Audio Interface](https://youtu.be/D9tjzSctp_Q)
 
@@ -427,13 +427,20 @@ This is the section that we learn Ableton Live and throw down some tricks and hi
 
 [Computer Performance](https://youtu.be/0dXIa-1N4jI)
 
-#### INTERFACE
+# INTERFACE
 
+## Session View
 [SESSION VIEW](https://youtu.be/qv_N3plJYx4)
+
+## Arrangement View
 
 [ARRANGEMENT VIEW](https://youtu.be/riOD-fnyCsg)
 
+## Tracks
+
 [TRACKS](https://youtu.be/nFFYXMEG7NE)
+
+## Detail View
 
 [DETAIL VIEW](https://youtu.be/qCFsda-XTSg)
 
