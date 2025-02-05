@@ -91,7 +91,7 @@ When the Loop Selector layout is enabled, the pads are divided into three sectio
 - [Fixed Length Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#fixed-length-recording)
   Press the Fixed Length button to set the size of new clips to a predetermined length.
   
-[Additional Recording Options](https://www.ableton.com/en/live-manual/12/using-push-2/#additional-recording-options)
+[Additional Recording Options](https://www.ableton.com/en/live-manual/12/using-push-2/#additional-recording-options)  Here are a few other recording options that you should be aware of.
 - [Recoding with Repeat](https://www.ableton.com/en/live-manual/12/using-push-2/#recording-with-repeat)  With Push 2’s Repeat button enabled, you can hold down a pad to play or record a stream of continuous, rhythmically-even notes. This is useful for recording steady hi-hat patterns, for example. Varying your finger pressure on the pad will change the volume of the repeated notes.
 - [Quantizing](https://www.ableton.com/en/live-manual/12/using-push-2/#quantizing)  Pressing Push 2’s Quantize button will snap notes to the grid in the selected clip.
 - [Arrangement Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#arrangement-recording)  When Live’s Arrangement View is in focus in the software, pressing Record will toggle Arrangement Recording on and off. While Arrangement Recording is on, all of your actions on Push 2 are recorded into the Arrangement View
