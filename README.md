@@ -324,7 +324,7 @@ To load a MIDI file into Ableton Push 2,
 
 [64-Pad Mode](https://youtu.be/gUdt3umIvL0)  Learn to play and sequence drums using all 64 pads on Ableton Push.
 
-[Sampling: Classic Mode](https://youtu.be/kn57pE6yu1Y)
+[Sampling: Classic Mode](https://youtu.be/kn57pE6yu1Y)  In Classic Mode, the various sample position controls change which portion of the sample you play back. For example, if you load a drum break that contains silence at the beginning, you can start playback from after the silence. The Start control sets the absolute position in the sample from which playback could start, while the End control sets where playback could end [Classic Playback Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#classic-playback-mode)
 
 [Sampling: One Shot Mode](https://youtu.be/CxLRd_4pXVQ)
 
