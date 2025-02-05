@@ -320,7 +320,7 @@ To load a MIDI file into Ableton Push 2,
 2. Use the top 4 arrow keys under the browse button to navigate the selection.
 3. You can also drag and drop MIDI files directly from your computer's file explorer into the Ableton Live session to load them. 
 
-[Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)
+[Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)  Push introduces three new modes of working with samples: classic mode, one-shot mode and slicing mode. In this Push sampling tutorial video we’ll have a look at how these modes work.
 
 [64-Pad Mode](https://youtu.be/gUdt3umIvL0)
 
