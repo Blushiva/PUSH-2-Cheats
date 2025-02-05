@@ -145,7 +145,7 @@ A drummer can significantly influence the mood of a song by adjusting the tempo,
 Different drum styles and techniques can be used to create a wide range of sounds and textures, adapting to various musical genres. 
 
 
-[Playing drums](https://youtu.be/EwZriyteAlI)
+[Playing drums](https://youtu.be/EwZriyteAlI)  Learn how to play and record drums using the pads on Ableton Push.
 
 [Playing drums - advanced](https://youtu.be/Eo4rrmgFhXA)
 
