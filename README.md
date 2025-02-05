@@ -542,51 +542,29 @@ Basics of dragging samples into simpler in the arrangement view.
 
 [Warping in Simpler](https://help.ableton.com/hc/en-us/articles/209072629-Warping-in-Simpler)
 
-[How to Warp and Quantize in Ableton Live with Simpler](https://youtu.be/1I59CN7NKIg)
-
 Simpler is capable of Warping samples, which changes the pitch of a sample without affecting its speed or conversely changing the speed of a sample without affecting its pitch.
 
 A few limitations in the Simpler Warping engine can lead to unexpected results - here's a brief run-through.
 
-CPU issues with Complex/Pro
-
-Complex and Pro Warp modes can often provide the best sound when warping Clips, especially when aiming for a natural sounding transposition/time stretching.
-
-Due to very high CPU requirements, it is advisable to use these sparingly and only whenever no other Warp mode seems adequate.
-
-Playing several notes on Simpler when Complex or Pro are in use might cause the audio engine to drop out.
+- CPU issues with Complex/Pro Complex and Pro Warp modes can often provide the best sound when warping Clips, especially when aiming for a natural sounding transposition/time stretching.  Due to very high CPU requirements, it is advisable to use these sparingly and only whenever no other Warp mode seems adequate.
+- Playing several notes on Simpler when Complex or Pro are in use might cause the audio engine to drop out.
 Drop outs can also occur when using these Warp modes with high transposition values or high stretch factors ( e.g. using the "x2" button).
 Triggering the same note/pad very quickly (e.g. via Push repeat button) can also quickly cause drop outs.
 Finally, very short loops will most likely introduce drop outs with the above mentioned Warp modes.
 How to improve things
-
-Ideally, only one track at a time should use Complex/Pro in a set: freezing the track, when possible, would be a good solution in order to free up CPU resources before moving on to use Complex on a different Simpler instance.
-
-Freezing a track is a good way to save CPU resources.
-
-Keeping the voice count low is also a good way to avoid drop outs.
-
-Setting the device poliphony to 1 will force Simpler to never use more than one voice.
-
-Setting the device polyphony to 1 will force Simpler to never use more than one voice.
-
-Also note that when in Slicing mode, clicks might occur at slice start/end. In this case, the problem is easily solved by adjusting the fade in/fade out controls in Simpler's Envelope section.
-
-Fade In and Fade Out controls help you removing clicks at the beginning and at slice end / start.
-
-Finally, it is not recommended to use Complex or Pro in Drum Racks. If you need to time stretch drum samples, it is advisable to use the other available Warp modes.
-
-Loop crossfade
-
-No Loop Crossfade is available when Warp is active on Simpler. This is in order to keep a low voice count, which might otherwise introduce performance issues.
-
-Warp settings updated on a per-note basis
-
-Tweaks for Warp settings (e.g. Grain Size and Flux when Texture is in use) are only updated each time a new note is pressed.
-
-Legato and glide in Beats mode
-
-The Beats Warp mode is not recommended when using Legato or Glide. In this mode, the pitch is only updated at each new transient, or time denomination, so no glissando effect will take place.
+- Ideally, only one track at a time should use Complex/Pro in a set: freezing the track, when possible, would be a good solution in order to free up CPU resources before moving on to use Complex on a different Simpler instance.
+- Freezing a track is a good way to save CPU resources.
+- Keeping the voice count low is also a good way to avoid drop outs.
+- Setting the device poliphony to 1 will force Simpler to never use more than one voice.
+- Setting the device polyphony to 1 will force Simpler to never use more than one voice.
+- Also note that when in Slicing mode, clicks might occur at slice start/end. In this case, the problem is easily solved by adjusting the fade in/fade out controls in Simpler's Envelope section.
+- Fade In and Fade Out controls help you removing clicks at the beginning and at slice end / start.
+- Finally, it is not recommended to use Complex or Pro in Drum Racks. If you need to time stretch drum samples, it is advisable to use the other available Warp modes.
+- Loop crossfade  No Loop Crossfade is available when Warp is active on Simpler. This is in order to keep a low voice count, which might otherwise introduce performance issues.
+- Warp settings updated on a per-note basis
+- Tweaks for Warp settings (e.g. Grain Size and Flux when Texture is in use) are only updated each time a new note is pressed.
+- Legato and glide in Beats mode
+- The Beats Warp mode is not recommended when using Legato or Glide. In this mode, the pitch is only updated at each new transient, or time denomination, so no glissando effect will take place.
 
 
 
