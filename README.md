@@ -341,6 +341,18 @@ To load a MIDI file into Ableton Push 2,
 
 ## Session View
 
+Push 2’s Session Overview lets you navigate through large Live Sets quickly without looking at your computer screen.
+
+Holding the Layout button gives you momentary access to Session Overview, where the pad grid zooms out to reveal an overview of your Session View. You can also lock the Session Overview in place by holding Shift and pressing the Layout button. To unlock the Session Overview, press the Layout button again.
+
+In the Session Overview, each pad represents an eight-scene-by-eight-track block of clips, giving you a matrix of 64 scenes by 64 tracks. Hit a pad to focus on that section of the Session View. For example, pressing the pad in row three, column one will put the focus on scenes 17-24 and tracks 1-8. Furthermore, each scene launch button represents a block of 64 scenes (if they are available in your Set.)
+
+In the Session Overview, the color coding is a little different:
+
+- White: indicates the currently selected block of clips, which will be surrounded by the colored border in the software.
+- Green: there are clips playing in that block of clips (though that may not be the block of clips selected).
+- No color: there are no tracks or scenes in that range.
+
 [Session View](https://youtu.be/MpAimKnNTIE)
 
 [Session View - advanced](https://youtu.be/70qEVOfWD0E)
