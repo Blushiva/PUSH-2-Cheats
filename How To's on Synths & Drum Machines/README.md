@@ -5,7 +5,7 @@
 
 ========================================================
 
-This section is all about the gear I have in my studio.  The synthesizers , Drum Machines and Mixers as well as assorted DJ gear.  Who has time for anything else, when you have so many toys to take up All of your free time.  
+This section is all about the gear I have in my studio.  The synthesizers , Drum Machines and Mixers as well as assorted DJ gear.  Who has time for anything else, when you have so many toys to take up ALL of your free time.  
 
 # Roland TR-6S
 ================

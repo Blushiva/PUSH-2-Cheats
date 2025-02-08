@@ -1,0 +1,958 @@
+# Push 2, Tutorials, Manuals and extras
+
+[USING PUSH 2](https://www.ableton.com/en/live-manual/12/using-push-2/#using-push-2)
+
+## PUSH 2 LEARNING FROM ABLETON
+
+Push 2 Learning
+
+Get to know the different music-making elements Push 2 puts at your fingertips. Choose topics you’d like to learn or watch them in order – they’ll take you from setting up your Push 2 through to in-depth sampling techniques
+
+[Push 2 Learning](https://www.ableton.com/en/help/learn-push-2/)
+
+Push 2 Unboxing
+
+Have a look at what you’ll find when you unbox your new Ableton Push for the first time.
+
+[Learn Push 2: Unboxing](https://www.youtube.com/watch?v=Lu4Y8hObjCs)
+
+## General Overview
+
+In this tutorial you’ll get a complete overview of all features and functions of the new Ableton Push.
+
+[General overview](https://youtu.be/gSC5zRr4zfw)
+
+## USING THE PUSH 2
+
+[Using Push 2](https://www.ableton.com/en/manual/using-push-2/)
+
+[Browsing and Loading Songs](https://www.ableton.com/en/live-manual/12/using-push-2/#browsing-and-loading-sounds)
+
+You can browse and load sounds directly from Push 2, without needing to use Live’s browser. This is done in Push 2’s Browse Mode.
+
+[Playing and Programming Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#playing-and-programming-beats)
+
+To create beats using Push 2, first make sure Note Mode is enabled
+
+- [LOOP SELECTOR](https://www.ableton.com/en/live-manual/12/using-push-2/#loop-selector)  When the Loop Selector layout is enabled, the pads are divided into three sections, allowing you to simultaneously play, step sequence and adjust the length of your clip.
+- [16 Velocities Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#velocities-mode) Press the Layout button to switch to the 16 Velocities layout. In this mode, the bottom right 16 pads represent 16 different velocities for the selected Drum Rack pad. Tap one of the velocity pads to enter steps at that velocity.
+- [64 Pad Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#pad-mode) You can also use the entire 8x8 pad grid for real-time drum playing. This is useful when working with very large drum kits, such as those created by slicing. To switch to 64-pad mode, press the Layout button again.
+- [Loading Individual Drums](https://www.ableton.com/en/live-manual/12/using-push-2/#loading-individual-drums) Browse Mode can also be used to load or replace individual pads within a loaded Drum Rack. To switch between browsing Drum Racks and single pads, make sure you’re in Device Mode by pressing the Device button. This will show the devices on the track.  
+- [Step Sequencing Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#step-sequencing-beats) Tapping a pad selects it and also enables it for step sequencing.  To record notes with the step sequencer, tap the pads in the step sequencer controls to place notes in the clip where you want them. The clip will begin playing as soon as you tap a step. By default, each step sequencer pad corresponds to a 16th note, but you can change the step size via the Scene/Grid buttons.
+
+#### Recording
+
+- [Real Time Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#real-time-recording)  Drum patterns can also be recorded in real-time by playing the Drum Rack pads. Follow these steps to record in real-time
+  
+- [Fixed Length Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#fixed-length-recording)
+  Press the Fixed Length button to set the size of new clips to a predetermined length.
+  
+[Additional Recording Options](https://www.ableton.com/en/live-manual/12/using-push-2/#additional-recording-options)  Here are a few other recording options that you should be aware of.
+- [Recoding with Repeat](https://www.ableton.com/en/live-manual/12/using-push-2/#recording-with-repeat)  With Push 2’s Repeat button enabled, you can hold down a pad to play or record a stream of continuous, rhythmically-even notes. This is useful for recording steady hi-hat patterns, for example. Varying your finger pressure on the pad will change the volume of the repeated notes.
+- [Quantizing](https://www.ableton.com/en/live-manual/12/using-push-2/#quantizing)  Pressing Push 2’s Quantize button will snap notes to the grid in the selected clip.
+- [Arrangement Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#arrangement-recording)  When Live’s Arrangement View is in focus in the software, pressing Record will toggle Arrangement Recording on and off. While Arrangement Recording is on, all of your actions on Push 2 are recorded into the Arrangement View
+
+
+
+## Step Sequencing Beats
+
+"Step sequencing beats" in Ableton means creating a drum beat by programming individual notes (or "steps") in a sequence, where each step represents a specific rhythmic division within a bar, allowing you to build a rhythm pattern by activating specific steps in a grid-like interface, usually using the pads on a controller like Ableton Push, to trigger different drum sounds one after another to form a beat. 
+Learn how to program beats using the step sequencer on Ableton Push.
+
+- Key points about step sequencing beats in Ableton:
+  
+Grid-based interface:
+The step sequencer displays a grid where each column represents a "step" and can be programmed with a note to trigger a sound. 
+
+Customizable step length:
+You can adjust the length of each step to create different rhythmic patterns, like 16th notes, 8th notes, triplets, etc. 
+
+Drum Rack integration:
+Most commonly used with a Drum Rack, which allows you to easily select different drum sounds on each step. 
+
+Live recording:
+You can also record a beat in real-time by pressing the pads in sequence, and the software will quantize the notes to the selected step length. 
+
+How to step sequence beats in Ableton:
+
+1. **Select a drum rack:**
+Load a drum rack in your MIDI track to access various drum sounds. 
+
+2. **Choose a step length:**
+Set the desired step division (e.g., 16th notes) in the step sequencer settings. 
+
+3. **Trigger steps:**
+Press the corresponding pads on your controller to activate the desired drum sounds on each step. 
+
+4. **Build a pattern:**
+Repeat this process to create a complete rhythmic pattern across multiple steps. 
+
+**Benefits of step sequencing:** 
+Intuitive rhythm creation: The visual grid makes it easy to visualize and manipulate rhythms. 
+Rapid prototyping: Quickly experiment with different beat variations by changing the active steps. 
+Precise control: Fine-tune the timing and velocity of each step for detailed rhythm creation. 
+
+[Step sequencing beats](https://youtu.be/RFoI54IICTs)
+
+## PLAYING DRUMS IN ABLETON
+
+Drums are the foundation of music.  Playing drums in ableton is a great way to make your track stand out. 
+Drums are considered one of the most important instruments in music because they provide the rhythmic foundation, setting the tempo and driving the energy of a song, essentially acting as the "timekeeper" that keeps all other instruments in sync and allows for dynamic shifts in intensity and emotion within a piece; without drums, music can often feel lackluster and unfocused. 
+
+Drums are primarily responsible for creating the rhythmic pulse that listeners naturally move to, providing a clear sense of time and structure within a song. 
+
+A drummer can significantly influence the mood of a song by adjusting the tempo, dynamics, and patterns, adding energy, excitement, or a sense of calm depending on the situation. 
+
+Different drum styles and techniques can be used to create a wide range of sounds and textures, adapting to various musical genres. 
+
+
+[Playing drums](https://youtu.be/EwZriyteAlI)  Learn how to play and record drums using the pads on Ableton Push.
+
+[Playing drums - advanced](https://youtu.be/Eo4rrmgFhXA)
+
+[Creating drum variations](https://youtu.be/1-e99KfTYQA)
+
+[Sound design: drums](https://youtu.be/qg73SCviQKQ)
+
+[The Complete Guide To Drums In Ableton Live (With Easy Examples)](https://www.productionmusiclive.com/blogs/news/drums-in-ableton-guide?srsltid=AfmBOopz6hs4C-nbCsEeBF7xMJuZCl6Rg4DPJ0vBjWyhFdiipB_2AfM6)
+
+**Articles on creating masterful drums and beats:**
+
+[Guide: Humanizing MIDI Drums in Ableton (3 Essential Factors](https://www.productionmusiclive.com/blogs/news/humanizing-midi-drums)
+
+[How To Make A Powerful 808 Beat In Ableton Live](https://www.productionmusiclive.com/blogs/news/how-to-make-a-powerful-808-beat-in-ableton-live)
+
+[How To Make A Beat With Ableton](https://www.productionmusiclive.com/blogs/news/how-to-make-a-beat-with-ableton)
+
+[4 Secret Tips To Next-Level Drums](https://www.productionmusiclive.com/blogs/news/4-secret-tips-to-perfect-drums)
+
+
+## Melodies in Ableton
+
+A melody in a song acts as the "tune" or main musical line, defining the song's character, conveying emotions, and serving as the most memorable part that listeners typically recognize and hum along to; essentially, it's the sequence of notes that tells the musical story within a song. 
+
+A melody is what distinguishes one song from another, making it the most recognizable element.  By using different pitch patterns and rhythms, a melody can convey a wide range of emotions, from joy to sadness. 
+The melody dictates the order and duration of notes, forming the overall structure of the song.  A good melody is often considered "catchy" because it is easy to remember and sing along to. 
+
+A melody can be defined as a sequence of single notes that are musically pleasing to the listener. It's the part of a song which is most memorable and is often referred to as the tune.
+
+A melody is one of the basic elements of music. Melodies are the part of music that is above the chords and rhythm. They can come in many shapes and sizes, and can have lyrics or be instrumental. They can be played very high, or very low. We can hear them played by instruments like a violin, guitar, saxophone, trumpet, or sung by a voice. The most important thing to remember is that they are always only one pitch at a time. 
+
+Musical ideas can be hard to explain and are often defined by using complex Italian music terms, or using difficult music theory — but Melody may be the simplest and easiest musical concept musicians have. 
+
+[Play melodies](https://youtu.be/UqFxK9eoZYE)
+
+[How to Write Chords & Melodies in Ableton Live 12 - Beginners Tutorial](https://www.youtube.com/watch?v=oU21nmTC63A)
+
+[Lesson 1: Melody Writing with MIDI](https://www.ableton.com/en/classroom/support/theory-hacks/lesson-1/)
+
+## Chords In Ableton
+
+A chord in music is a group of notes that are played simultaneously to create harmony. Chords are built from intervals of notes, such as thirds and fifths. 
+Types of chords: 
+
+Triad: A chord made up of three notes: a root note, a third, and a fifth 
+
+7th chord: A chord made up of four notes, also known as a tetrad 
+
+Extended chord: A chord made up of five or more notes 
+
+Diminished chord: A chord made up of a root note, a minor third, and a diminished fifth 
+
+Augmented chord: A chord made up of a root note, a major third, and an augmented fifth 
+
+Chord qualities: 
+
+Consonant: A chord that implies repose
+
+Dissonant: A chord that implies resolution to another chord
+Uses of chords 
+
+Accompaniment: Chords provide the backdrop for melodies
+
+Songwriting: Chord progressions are often the starting point for writing songs
+Improvisation: Understanding chords helps musicians improvise
+
+Arrangement: Chords are important for arranging music for different instruments and ensembles
+
+[Play chords](https://youtu.be/WdwnkcTjOuQ)
+
+## CHROMATIC NOTE MODE
+
+Chromatic note mode is a mode on some musical instruments that allows the player to access all 12 notes of an octave. It can be used to create melodies, embellish other scales, or tune instruments. 
+
+How it works:
+
+The chromatic scale is made up of all the white and black keys on a piano. 
+Each note in the chromatic scale is a half step apart. 
+Sharps move up a half step, while flats move down a half step. 
+The chromatic scale doesn't have a tonal center, so it doesn't gravitate towards a particular tone. 
+
+When to use it:
+
+Leads: Chromatic mode can be used to create leads. 
+Classical impressionism: Chromatic mode can be used to create a classical impressionist sound. 
+Pitch bending: Chromatic mode can be used for pitch bending. 
+Tuning: Chromatic mode can be used to tune an instrument to any of the 12 pitches of the chromatic scale. 
+Embellishing other scales: Chromatic mode can be used to embellish the tones of major and minor scales.
+Evoking emotion: Chromatic mode can be used to evoke grief, loss, or sorrow. 
+
+[Chromatic Note Mode](https://youtu.be/2kfGNSN4r3g)
+
+[Understand Chromatic Mode on Ableton PUSH - Course Excerpt](https://www.youtube.com/watch?v=gYER7ko668w&t=428s)
+
+## Melodic Parts
+
+Melodic parts are the notes that make up the tune, or melody, of a piece of music. The melody is often the most memorable part of a song. 
+
+Pitch: The notes that make up the melody
+Rhythm: The pattern of pitches in time
+Structure: The arrangement of notes, including intervals, scales, motifs, and phrasing
+Dynamics: How loud or soft the melody is played
+Texture: The density of the layers of sounds, melodies, and rhythms
+Timbre: The quality of the sound
+
+In this Ableton Push tutorial video you’ll learn how to transform and tweak sounds by adjusting the parameters or adding effects.
+
+[Sound design: melodic parts](https://youtu.be/sNUftRALnto)
+
+Get your hands on Ableton Live Push 2 and learn how to control audio effects on the controller
+
+[HOW TO PUSH 2 - Controlling Audio Effects in Ableton Live 11](https://www.youtube.com/watch?v=Bn9FUFPQBzg)
+
+
+## Melodic Step Sequencing with Ableton Push
+
+Learn how to step sequence notes and chords with the melodic step sequencer on Ableton Push.
+
+To step sequence notes and chords using the melodic step sequencer on Ableton Push, press the "Layout" button to access the melodic step sequencer mode, then simply press the pads corresponding to the desired notes on the grid, where each pad represents a step in the sequence; you can play single notes or chords by pressing multiple pads simultaneously depending on the scale you've selected. 
+
+Key points to remember:
+
+Accessing the Melodic Step Sequencer: Press the "Layout" button on Push to toggle between different modes, including the melodic step sequencer. 
+
+Playing Notes: Once in the melodic step sequencer, the pads will represent notes of a chosen scale, with the bottom row typically being the root notes and the top row an octave higher. 
+
+Creating Chords: To play a chord, press multiple pads within the same step simultaneously. 
+
+Navigating the Scale: Use the scale controls on Push to select the desired scale and root note. 
+
+Step Length and Resolution: Adjust the step length and resolution using the dedicated buttons on Push to control how long each note lasts within the sequence. 
+
+### Melodic step sequencing
+
+[Melodic Step Sequencer](https://youtu.be/kj03AHwm23M)
+
+[Melodic Step Sequencing with Ableton Push](https://www.macprovideo.com/article/ableton-live/melodic-step-sequencing-with-ableton-push)
+
+### 32 Note Sequencing
+
+[32-Note Melodic Step Sequencer](https://youtu.be/GVilj3bChHY)
+
+### NOTEMODE SETTINGS
+
+Learn how to adjust settings for playing notes on Ableton Push.
+
+On a Push 2, the "Note Mode" settings allow you to control which notes are accessible on the pads, primarily by choosing between "In Key" mode (only playing notes within the current key) and "Chromatic" mode (playing all notes), and further customizing the layout of the pads by selecting a specific scale and interval structure using the "Scale" button, enabling you to easily play melodies within a chosen key or scale by simply pressing the corresponding pads on the grid. 
+
+Key points about Note Mode settings on Push 2:
+
+In Key vs. Chromatic:
+The primary setting is choosing between "In Key" (only notes from the current key are accessible) and "Chromatic" (all notes are playable). 
+
+Scale Selection:
+You can further customize the "In Key" mode by selecting a specific scale, which determines which notes within the key are available on the pads. 
+
+Scale Layout:
+The layout of the scale can be adjusted, allowing you to play intervals like thirds or fourths by moving across the pads. 
+
+Accessing Note Mode Settings:
+Usually, you can access these settings by pressing the "Scale" button on the Push 2 display, which will then allow you to change the key and scale using the encoders. 
+
+[Note Mode settings](https://youtu.be/G4AMycvuDJo)
+
+## SAMPLING IN YOUR WORKFLOW
+
+## How To Load Samples
+
+To load a MIDI file into Ableton Push 2, 
+
+1. Navigate to the "Browse" mode on the Push 2 display, then use the browser to locate the desired MIDI file and select it to load it onto a MIDI track in your Ableton Live          session; (Select button is on the bottom right of Push 2)
+2. Use the top 4 arrow keys under the browse button to navigate the selection.
+3. You can also drag and drop MIDI files directly from your computer's file explorer into the Ableton Live session to load them. 
+
+[Sampling: Workflow: Overview](https://youtu.be/dK-JWFjgNK4)  Push introduces three new modes of working with samples: classic mode, one-shot mode and slicing mode. In this Push sampling tutorial video we’ll have a look at how these modes work.
+
+[64-Pad Mode](https://youtu.be/gUdt3umIvL0)  Learn to play and sequence drums using all 64 pads on Ableton Push.
+
+[Sampling: Classic Mode](https://youtu.be/kn57pE6yu1Y)  In Classic Mode, the various sample position controls change which portion of the sample you play back. For example, if you load a drum break that contains silence at the beginning, you can start playback from after the silence. The Start control sets the absolute position in the sample from which playback could start, while the End control sets where playback could end [Classic Playback Mode](https://www.ableton.com/en/live-manual/12/using-push-2/#classic-playback-mode)
+
+[Sampling: One Shot Mode](https://youtu.be/CxLRd_4pXVQ)
+
+[Sampling: Slicing Mode](https://youtu.be/PZxizLQHKUg)
+
+[Sampling in depth: creative techniques](https://youtu.be/dwQVkA-PvUM)
+
+[Sampling in depth: warping](https://youtu.be/2gRyue0MkC0)
+
+#### Instructional videos
+
+[Making New MIDI Tracks | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=85pWoAuh91U)  we'll look at how to create new midi tracks for software instruments on push 2.
+
+
+## Session View
+
+Push 2’s Session Overview lets you navigate through large Live Sets quickly without looking at your computer screen.
+
+Holding the Layout button gives you momentary access to Session Overview, where the pad grid zooms out to reveal an overview of your Session View. You can also lock the Session Overview in place by holding Shift and pressing the Layout button. To unlock the Session Overview, press the Layout button again.
+
+In the Session Overview, each pad represents an eight-scene-by-eight-track block of clips, giving you a matrix of 64 scenes by 64 tracks. Hit a pad to focus on that section of the Session View. For example, pressing the pad in row three, column one will put the focus on scenes 17-24 and tracks 1-8. Furthermore, each scene launch button represents a block of 64 scenes (if they are available in your Set.)
+
+In the Session Overview, the color coding is a little different:
+
+- White: indicates the currently selected block of clips, which will be surrounded by the colored border in the software.
+- Green: there are clips playing in that block of clips (though that may not be the block of clips selected).
+- No color: there are no tracks or scenes in that range.
+
+[Session View](https://youtu.be/MpAimKnNTIE)
+
+[Session View - advanced](https://youtu.be/70qEVOfWD0E)
+
+[Mixing](https://youtu.be/gKKCwyUjplc)
+
+[Automation](https://youtu.be/DdJabGICtzM)
+
+[Sound design](https://youtu.be/YWTavM26SrM)
+
+[Clips](https://youtu.be/Sf_3HyrlqDo)
+
+[Clip View](https://youtu.be/bXOgrPg944M)
+
+[Recording audio](https://youtu.be/JjQeQgKURWY)
+
+[Routing](https://youtu.be/ODRWqF02PxA)
+
+[Sidechaining](https://youtu.be/XvaOKIMz7_Q)
+
+[Recording in the Arrangement View](https://youtu.be/CK5hQHoFMjI)  In this tutorial video we'll look at the functions you can perform from Ableton Push in the Arrangement View.
+
+[Navigate and Browse](https://youtu.be/PL9FhdhenCU)
+
+[Device visualizations](https://youtu.be/oi9uePsyJdY)
+
+## PUSH 2 LEARN IT QUICKLY
+
+A basic overview of video guides of quick tips and tricks to get you using Push 2 quickly.
+
+[PUSH 2 - LEARN IT IN 15 MIN](https://www.youtube.com/watch?v=I00_RCF8R2c)
+
+[PUSH 2 - Learn It In 20 Minutes!](https://www.youtube.com/watch?v=ZqX03h4qig0)
+
+[Learn Push 2: Overview of features](https://www.youtube.com/watch?v=gSC5zRr4zfw)
+
+[Top 5 things every Ableton Push 2 beginner should understand](https://www.youtube.com/watch?v=Vv5hA226s3I)
+
+[Ableton Push 2 Beginner Course Part 1 | Tour Of Push 2 Controller](https://www.youtube.com/watch?v=J-BIlB8f--Y)
+
+[How to use the Ableton push 2 for beginners - navigation and controls](https://www.youtube.com/watch?v=xPXG4aOoYlk)
+
+
+[Getting started with Ableton Push: 5 Essential Tips](https://www.youtube.com/watch?v=BMSzQ6x1pto)
+
+[Ableton Push 2 Walkthrough](https://www.youtube.com/watch?v=m1FvVEhATYc)
+
+## ABELTON PUSH 2... THE FULL COURSES
+
+[My New 7 Hour Ableton Live & Push 2 Course](https://www.youtube.com/watch?v=vlp-KFBQ1wo)
+
+[Ableton Push 2 : Creating a Full Track from Scratch (Start to Finish)](https://www.youtube.com/watch?app=desktop&v=aoaQqqwyxdc&t=0s)
+
+
+## HOW TO ROUTE AUDIO AND MIDI
+
+[Learn Push 2: Routing audio and MIDI](https://www.youtube.com/watch?v=ODRWqF02PxA)
+
+## ADDING MIDI EFFECTS
+
+[Adding MIDI Effects | Push Play! | A Tr!ck A Day with dolltr!ck](https://www.youtube.com/watch?v=-fz3DAdb-F8)
+
+## HOW CLIPS WORK ON PUSH 2
+
+[Learn Push 2: How Clips work on Push](https://www.youtube.com/watch?v=Sf_3HyrlqDo)
+
+##   RECORDING AUTOMATION
+
+[Learn Push 2: Recording automation](https://www.youtube.com/watch?v=DdJabGICtzM)
+
+================================================================================
+
+
+# ABLETON LIVE
+
+This is the section that we learn Ableton Live and throw down some tricks and hints on how to use it.
+
+================================================================================
+
+# THIS IS WHERE WE LEARN LIVE
+
+# SET UP
+
+[Setting Up Audio Interface](https://youtu.be/D9tjzSctp_Q)
+
+[Setting Up MIDI](https://youtu.be/CWOXblksDxE)
+
+[Configuring Your Audio INs and OUTs](https://youtu.be/wENbeUNS-IA)
+
+[Installing Packs](https://youtu.be/2VLrGqbYZ5w)
+
+[Setting Your Preferences](https://youtu.be/TwQC9EU2BYE)
+
+[Using Your Sounds and Samples](https://youtu.be/0t9M15n2iAA)
+
+[Saving Projects](https://youtu.be/M6lIz4Fyc2w)
+
+[Using Defaults](https://youtu.be/-RzrcrMruFY)
+
+[Using 3rd Party Plug Ins](https://youtu.be/r8RmTlFvdPA)
+
+[Computer Performance](https://youtu.be/0dXIa-1N4jI)
+
+# INTERFACE
+
+## Session View
+[SESSION VIEW](https://youtu.be/qv_N3plJYx4)
+
+## Arrangement View
+
+[ARRANGEMENT VIEW](https://youtu.be/riOD-fnyCsg)
+
+## Tracks
+
+[TRACKS](https://youtu.be/nFFYXMEG7NE)
+
+## Detail View
+
+[DETAIL VIEW](https://youtu.be/qCFsda-XTSg)
+
+## SCENE TEMPO & TIME SIGNATURE
+
+[7.2.1 Editing Scene Tempo and Time Signature Values](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature)
+
+Dragging the left edge of the Main track’s title header reveals the Scene Tempo and Scene Time Signature controls, which allow you to assign a tempo and/or time signature to a selected scene. These controls are hidden by default. The project will automatically adjust to these parameters when the scene is launched. To change a scene’s tempo or time signature values:
+
+- Click and drag up or down in any of these fields.
+
+- Click and type a number, then hit Enter.
+
+
+In Ableton Live, "Scene Tempo and Time Signature" refers to the ability to set a specific tempo (beats per minute) and time signature (how beats are divided within a bar) for each individual scene in your Session View, so when you launch a scene, the project automatically adjusts to that unique rhythmic setting; essentially allowing you to quickly change the feel of your music by switching between scenes with different tempos and time signatures. 
+
+### DO NOT JUST TYPE IN BPM THEY CHANGED IT IN ABELTON 12
+
+Since they changed how you can swith Time signature and BPM in scenes, I have left these videos here because they contain important knowledge even if the original concept no longer applies to the more recent Abelton 12.
+
+[Scene Tempo and Time Signature](https://help.ableton.com/hc/en-us/articles/5595081962524-Scene-Tempo-and-Time-Signature#:~:text=These%20controls%20are%20hidden%20by,cursor%2C%20to%20adjust%20the%20tempo.)
+
+The directions in the manual for Abelton Live
+
+[Ableton Live Tutorials: Tempo and Time signature changes](https://www.youtube.com/watch?v=ANFX3akCl4Y)
+
+In this tutorial, Liam O'Mullane shows you how to swiftly deploy tempo and time signature changes into your Arrangement View. You'll also learn how to make the same changes in your Session View, and understand ways in which to make these changes on-the-fly during a live performance. Liam also shows you how to create polymeters, which have the potential to make your tracks more musically fascinating.
+
+[How to Automate Tempo and Time Signature Changes in Ableton Live's Arrangement View](https://www.youtube.com/watch?v=yLXOCqni0dU)
+
+What if my song has a lot of tempo changes?”  In this tutorial, you’ll learn what to do in that situation, and a trick I recently used to be able to have flexibility and change tempo live in the moment.
+
+[Ableton Tutorial: What To Do When Your Song Has Tempo Changes](https://www.youtube.com/watch?v=ALBioNnlJZ4)
+
+You know how to save a tempo track to a song in Ableton, but what about a song with tempo changes
+Using a tempo track is one of my favorite hacks in Ableton Live. It allows you to just drag your song into your set and the tempo comes with it. If you don’t know how to do that, watch this video
+
+## AUTOMATING TEMPO CHANGES
+
+To change the tempo in Ableton Live 12, you can adjust the tempo in a scene or automate tempo changes. 
+
+To automate session tempo changes in Ableton 12, navigate to the Session View, access the Master track, and then either click and drag the left edge of the track header to reveal the "Scene Tempo" control, or enable automation mode (by pressing "A" on your keyboard) to directly draw in tempo changes at specific points within your session using the "Song Tempo" parameter in the automation lane; you can adjust the tempo for each scene by clicking in the tempo field and entering a new BPM value. 
+
+Change the tempo in a scene: 
+- Click in the tempo field
+- Enter a BPM value between 20 and 999
+- Press Enter
+- Use the arrow keys or drag the cursor to adjust the tempo
+  
+Automate tempo changes: 
+- Right-click on the tempo box in Arrangement View
+- Select Show Automation
+- Open the automation lane on the master channel
+- Add break points or notes to change the tempo
+- You can also automate tempo changes in a specific clip using the Automate Tempo BPM device in Session View. 
+
+Learn how to change tempo in the Session and Arrangement Views in Ableton Live  [Learn Live: Automating Tempo Changes](https://www.youtube.com/watch?v=iI06kTUtNDg)
+
+Automating gradual tempo changes in Ableton Live's arrangement view is pretty easy BUT what about in session view??? In this Ableton Live tutorial, They show you how to create automated tempo changes in Ableton Live's session view (on a Mac). Using this technique is useful for gradual and seamless transitions between tracks allowing you to maintain momentum in your live performances. No more stopping between songs or manual tempo changes. Keep the show rolling!  [How To Automate Smooth and Gradual Tempo Transitions In Ableton Live Session View](https://www.youtube.com/watch?v=1aexb_YtVR0)
+
+This was a video produced in 2023.  They take you step by step and explain temp transitions in Live session view [How to set up tempo transitions in Ableton Live Session View - Max for Live](https://www.youtube.com/watch?v=tTEnVUCFKZI)  
+
+[BEGINNERS GUIDE TO SWING AND GROOVE (ABLETON 12)](https://www.youtube.com/watch?v=6r6IiwJcEEE)
+
+As most of us don't play in a band these days and create all our songs in a DAW, everything has sounded more and more robotic. This can be good in certain styles of music, but not all the time. With these simple steps you can sound like your tracks have been played and recorded in live. 
+
+## LIVE'S MIXER
+
+[LIVE'S MIXER](https://youtu.be/P1Y1FEcw2xQ)
+
+## SIMPLER
+
+In Ableton Live, "Simpler" is a built-in sampler device that is considered a streamlined and user-friendly version of the more complex "Sampler" instrument, allowing producers to easily manipulate and play back single audio samples with basic controls, making it ideal for quick sample-based sound design and creating instruments from single sounds with minimal fuss; essentially, it's a simplified way to sample and play audio clips across a keyboard. 
+
+The Pareto principle, also known as the 80/20 rule, states that, for any given tool or technique, roughly 80% of the outcome comes from using just 20% of the available resources. Looking at the way many of us use Ableton Live, this 80/20 rule very likely applies to Simpler and Sampler; with most of us only ever scratching the surface of what these devices are capable of. This is fine of course if you’re happy with the musical results you’re getting, but what else could you do with that other 80%?
+
+Enter Evan Chandler, aka electro-boogie artist Slynk. His recent tutorial video showed off a whole bunch of techniques that explored the creative possibilities of using Live’s Vocoder not just for vocals. In a similar vein, Chandler’s new tutorial video dives deep into Simpler and Sampler to demonstrate some fun, under-the-radar tricks for slicing up samples, generating melodies and making your own bass synth (or donk machine). In addition, Slynk drops lots of pro tips on how to use Simpler and Sampler with filters, arpeggiators, LFOs, envelopes, and the mysterious ‘Zn Shift’ parameter.
+
+[Simpler and Sampler: Pro Tips and Techniques from Slynk](https://www.ableton.com/en/blog/simpler-and-sampler-pro-tips-and-techniques-slynk/)
+
+
+[Learn Simpler In 4 Min!!!](https://www.youtube.com/watch?v=rSI5fJN3A0A)
+
+Ableton Live simpler in just four minutes. If you wish to have a less hasty explanation of Simpler, check out this comprehensive tutorial below.
+
+[All about SIMPLER • Every Function Explained & Creative Tips • Ableton Live 10 Tutorial](https://www.youtube.com/watch?v=3AklIZPrz3A)
+
+All about SIMPLER the Sampler! I explain every function & show creative examples with this wonderful Ableton Live 10 stock instrument! This tutorial covers all of the Playback Modes (Classic, 1Shot & Slice), and what happens both in sample view and device view (Filters, LFO, Envelope(s) & Global controls). I also show how to convert your sliced sample to a drum rack and to a MIDI track. 
+
+[Basics for Simpler and Sampler in Ableton Live 12](https://www.youtube.com/watch?v=GejTkLYSzGU)
+
+[Ableton Live Simpler Tutorial - Pt. 1 Creating Instruments](https://www.youtube.com/watch?v=N_3ka5qOyn8)
+
+In this video series we will be Mastering simpler in Ableton live 12. Simpler is a sampler instrument used in Drum Rack but it can also be used outside of drum rack to create instruments and chop up samples. 
+
+[Ableton Live 12 Beginners Pt 2 Samples into Simpler (chopping & further manipulation of the sample)](https://www.youtube.com/watch?v=yCnqzuipNvI)
+
+Basics of dragging samples into simpler in the arrangement view.
+
+[Warping in Simpler](https://help.ableton.com/hc/en-us/articles/209072629-Warping-in-Simpler)
+
+Simpler is capable of Warping samples, which changes the pitch of a sample without affecting its speed or conversely changing the speed of a sample without affecting its pitch.
+
+A few limitations in the Simpler Warping engine can lead to unexpected results - here's a brief run-through.
+
+- CPU issues with Complex/Pro Complex and Pro Warp modes can often provide the best sound when warping Clips, especially when aiming for a natural sounding transposition/time stretching.  Due to very high CPU requirements, it is advisable to use these sparingly and only whenever no other Warp mode seems adequate.
+- Playing several notes on Simpler when Complex or Pro are in use might cause the audio engine to drop out.
+Drop outs can also occur when using these Warp modes with high transposition values or high stretch factors ( e.g. using the "x2" button).
+Triggering the same note/pad very quickly (e.g. via Push repeat button) can also quickly cause drop outs.
+Finally, very short loops will most likely introduce drop outs with the above mentioned Warp modes.
+How to improve things
+- Ideally, only one track at a time should use Complex/Pro in a set: freezing the track, when possible, would be a good solution in order to free up CPU resources before moving on to use Complex on a different Simpler instance.
+- Freezing a track is a good way to save CPU resources.
+- Keeping the voice count low is also a good way to avoid drop outs.
+- Setting the device poliphony to 1 will force Simpler to never use more than one voice.
+- Setting the device polyphony to 1 will force Simpler to never use more than one voice.
+- Also note that when in Slicing mode, clicks might occur at slice start/end. In this case, the problem is easily solved by adjusting the fade in/fade out controls in Simpler's Envelope section.
+- Fade In and Fade Out controls help you removing clicks at the beginning and at slice end / start.
+- Finally, it is not recommended to use Complex or Pro in Drum Racks. If you need to time stretch drum samples, it is advisable to use the other available Warp modes.
+- Loop crossfade  No Loop Crossfade is available when Warp is active on Simpler. This is in order to keep a low voice count, which might otherwise introduce performance issues.
+- Warp settings updated on a per-note basis
+- Tweaks for Warp settings (e.g. Grain Size and Flux when Texture is in use) are only updated each time a new note is pressed.
+- Legato and glide in Beats mode
+- The Beats Warp mode is not recommended when using Legato or Glide. In this mode, the pitch is only updated at each new transient, or time denomination, so no glissando effect will take place.
+
+
+
+## TRANSPORT BAR
+
+[TRANSPORT BAR AND FOLLOW BEHAVIOR](https://youtu.be/m84wUU8CQnY)
+
+[SAVING PRESETS](https://youtu.be/Keafog2wB4E)
+
+[FILE MANAGEMENT AND HELP VIEW](https://youtu.be/jCGZq752zso)
+
+[GROOVE POOL](https://youtu.be/jvT8mNCKLDg)
+
+[GROOVE POOL IN DEPTH](https://youtu.be/tVG8AOQGmNI)
+
+[DUAL SCREEN MODE](https://youtu.be/bsMMhegTKH0)
+
+[WHAT IS IN A PACK?](https://youtu.be/TKH93Dck_X4)
+
+[LIVE'S USER INTERFACE](https://youtu.be/_XDkA_f8n08)
+
+[LIVE'S BROWSER](https://youtu.be/KcmPBZTwq78)
+
+#### INSTRUMENTS AND EFFECTS
+
+[WAVETABLE: Overview](https://youtu.be/9wovKSfR66A)
+
+[WAVETABLE: changing wavetables](https://youtu.be/TmFyhsQpIx4)
+
+[WAVETABLE:osscillator Effect Modes](https://youtu.be/kzlwOZZ1STg)
+
+[WAVETABLE: Modulation](https://youtu.be/IHgFpWYyaqQ)
+
+[WAVETABLE: MPE](https://youtu.be/fGhI7rP74ww)
+
+[WAVETABLE: Unison Modes](https://youtu.be/GTZuartMQGE)
+
+[WAVETABLE: Using your own Wavetables](https://youtu.be/UWjWu4e_-yI)
+
+[DRUM BUSS](https://youtu.be/_okKGKp5a9I)
+
+[DELAY](https://youtu.be/Ss5yOq8nQK4)
+
+[HYBRID REVERB](https://youtu.be/yLBIOiM97Vs)
+
+[SPECTRAL RESONATOR](https://youtu.be/iXcN-0oaIKs)
+
+[SPECTRAL TIME](https://youtu.be/EBuB6G9ik1A)
+
+[ECHO: WALKTHROUGH](https://youtu.be/4LxhIE169x4)
+
+[ECHO: Character Section](https://youtu.be/WJ16d_FpvEg)
+
+[ECHO: Modulation Section](https://youtu.be/inMwdangbA0)
+
+[Chorus-Ensamble](https://youtu.be/25Uiav5UA9c)
+
+[Phaser-Flanger](https://youtu.be/bZjzOSqWn1s)
+
+[Shifter](https://youtu.be/uqY8K8otbp0)
+
+[Max for Live](https://youtu.be/aGrifWA5gq4)
+
+[Redux](https://youtu.be/71A5FC272L0)
+
+[Channel EQ](https://youtu.be/aAwpVte261Y)
+
+[Pedal](https://youtu.be/6c1dZ2emnJo)
+
+[PitchLoop 89](https://youtu.be/tgxG0KqZMy8)
+
+[Bouncy Notes](https://youtu.be/C2hQ-WbKBhU)
+
+[Tree Tone](https://youtu.be/_mk7qyzEcCQ)
+
+[Emit](https://youtu.be/fuQ60fe0PIA)
+
+[Vector Delay](https://youtu.be/grNO5ylfgl0)
+
+[Vector FM](https://youtu.be/mAGQ0UPrVHc)
+
+[Vector Grain](https://youtu.be/rCUvwHNjF_I)
+
+[Roar](https://youtu.be/ETzf6O9-6us)
+
+[Meld](https://youtu.be/CBIOSA8NKz0)
+
+[Granulator 3](https://youtu.be/PqSFu6by6Kk)
+
+#### WORKFLOWS
+
+[Learn Live: Editing clips in Arrangement View](https://www.youtube.com/watch?v=xdwZpIpN6ys)
+
+[Learn Live: Arrangement View automation](https://www.youtube.com/watch?v=DPBN34nQ_v4)
+
+[Learn Live: Automation vs. modulation](https://www.youtube.com/watch?v=hukVniFeCi8)
+
+[Learn Live: Clip automation](https://youtu.be/IdQYUk8w5jM)
+
+[Learn Live: Modulation in Session View](https://www.youtube.com/watch?v=fFLsYd2q_Ao)
+
+[Learn Live: Moving between Session and Arrangement Views](https://youtu.be/OaQpybm5Pcw)
+
+[Learn Live: Recording MIDI](https://youtu.be/4auPj7yQ3uY)
+
+[Learn Live: Capturing MIDI](https://youtu.be/aJg1UfePwTc)
+
+[Learn Live : Quantizing MIDI](https://youtu.be/3FlbtZawNTs)
+
+[Learn Live: Sequencing MIDI – part 1](https://youtu.be/1cFTonBejIQ)
+
+[Learn Live: Sequencing MIDI – part 2](https://youtu.be/Paq66RsgpIk)
+
+[Learn Live: Grouping tracks](https://youtu.be/rCEHZ8pTKc4)
+
+[Learn Live: Routing](https://youtu.be/wxGrjJh8SrI)
+
+[Learn Live: Panning](https://youtu.be/-g9qyHVSd_k)
+
+[Learn Live: Freezing](https://youtu.be/a-0gOTm6Qdk)
+
+[Learn Live: Comping](https://youtu.be/uSzDKw-GFIU)
+
+[Learn Live: Linked-Track Editing](https://youtu.be/UuRDpqBsmD0)
+
+[Learn Live: Warping clips](https://youtu.be/tlsRVC72hx4)
+
+[Learn Live: Warping in Simpler](https://youtu.be/1I59CN7NKIg)
+
+[Learn Live: MPE](https://youtu.be/qIl1ZY29fAM)
+
+[Learn Live: MPE Control](https://youtu.be/TW5zHEIAGPo)
+
+[Learn Live: Chance Tools](https://youtu.be/0Ycau1tCxBQ)
+
+[Learn Live: Keys and Scales](https://youtu.be/IY7a7dXVmWE)
+
+[Learn Live: Tempo Follower](https://youtu.be/b5FCXmjm5iY)
+
+[Learn Live: Racks Overview](https://youtu.be/oNEKxxjgdpc)
+
+[Learn Live: Racks in Depth](https://youtu.be/eeJJGUsvk_8)
+
+[Learn Live: Follow Actions](https://youtu.be/yoSx763s9IY)
+
+[Learn Live: Editing MIDI clips](https://youtu.be/_gDAcf0EUUY)
+
+[Learn Live: Multi-Clip Editing](https://youtu.be/lxDYmYaaIk0)
+
+[Learn Live: Exporting](https://youtu.be/JTtSihQ8QX0)
+
+[Learn Live: Automating Tempo Changes](https://youtu.be/iI06kTUtNDg)
+
+[Learn Live: MIDI mapping and key mapping](https://youtu.be/l0DM9JbkQBA)
+
+[Learn Live: Basic keyboard shortcuts](https://youtu.be/1hSPWWRIIbg)
+
+[Learn Live: Session View shortcuts](https://youtu.be/1Fm2vyDURhw)
+
+[Learn Live: Arrangement View shortcuts](https://youtu.be/WW_DnCnEggA)
+
+[Learn Live: Sidechaining audio](https://youtu.be/rbuTKgcteKo)
+
+[Learn Live: Using Ableton Link](https://youtu.be/_Jzz6GKdcFA)
+
+[Learn Live: Taking Note sketches further in Live](https://youtu.be/Kn0xHco5xJ0)
+
+[Learn Live 12: MIDI Transformations](https://youtu.be/E5rHIzm8sck)
+
+[Learn Live 12: MIDI Generators](https://youtu.be/Z9z1QFyVVCo)
+
+[Learn Live 12: MIDI Pitch and Time](https://youtu.be/GdBsL1X5AOI)
+
+[Learn Live 12: Editing MIDI Notes](https://youtu.be/14biudaGwdM)
+
+[Learn Live 12: Sound Similarity Search](https://youtu.be/TF6YD7CFnwY)
+
+[Learn Live 12: Chance Tools and Probability](https://youtu.be/N_icb1Es-b8)
+
+[Learn Live 12: Keys and Scales, Tuning Systems](https://youtu.be/tDR2AIUaHAE)
+
+#### NEW FEATURES OF LIVE 12
+
+[Roar](https://youtu.be/ETzf6O9-6us)
+
+[Meld](https://youtu.be/CBIOSA8NKz0)
+
+[Granulator 3](https://youtu.be/PqSFu6by6Kk)
+
+[Midi Transformations](https://youtu.be/E5rHIzm8sck)
+
+[Midi Generators](https://youtu.be/Z9z1QFyVVCo)
+
+[Midi Pitch and Time](https://youtu.be/GdBsL1X5AOI)
+
+## MAX FOR LIVE
+
+[Learn Live: Max for Live](https://www.youtube.com/watch?v=aGrifWA5gq4&t=13s)
+
+
+========================================================================================================
+
+# ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY AND LEGALITIES 
+=======================================================================================================
+
+## Drum Patterns, Loops, and Legalities COPYWRITING
+
+### NONE OF THE FOLLOWING IS CONSIDERED LEGAL ADVICE PLEASE SEE A LAWYER SPECIALIZING IN MUSIC WITH QUESTIONS
+
+In most cases, if you use a drum pattern from another song that is easily recognizable and considered a unique part of the original composition, you would likely need to license it, as simply copying a distinct drum pattern could be considered copyright infringement, even if drum patterns alone aren't usually directly copyrightable; however, if you are using a very basic or common rhythm pattern, it might not be considered infringement. 
+
+Basic rhythms are not copyrightable:
+Common drum patterns like a simple backbeat or a four-on-the-floor groove are generally considered too generic to be protected by copyright, meaning you can likely use them without licensing. 
+
+Unique and distinctive patterns are:
+If a drum pattern is particularly recognizable and considered a key element of a song, like a famous drum fill or a complex rhythmic arrangement, using it without permission could be copyright infringement. 
+
+Sampling vs. playing:
+If you are directly sampling a drum loop from another recording, you would definitely need to obtain a license, even if the pattern itself is not unique. 
+
+#### What to do if unsure:
+
+Consult a music lawyer:
+If you are unsure whether a specific drum pattern is considered copyrightable or if you want to be completely safe, it's best to consult with a lawyer specializing in music copyright. 
+
+Seek permission:
+If you decide to use a recognizable drum pattern, try to contact the original artist or copyright holder to get permission to use it. 
+
+
+[Don't Use These Kinds Of Loops (Frivolous Lawsuit Risk)](https://www.youtube.com/watch?v=t9rRuk4oQ9A)
+
+[Can You Copyright a Drumbeat?](https://lawyerdrummer.com/2018/04/can-copyright-drumbeat/#:~:text=unfortunately%2C%20no.,law%20before%20the%20other%20two.)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+## PRODUCTION AND THEORY
+
+Here are some good production videos and ideas for tracks as well as drum machines and music theory.
+
+[5 Pattern Grooves Every Producer Should Know](https://www.youtube.com/watch?v=jvrgRvmnTC0)
+
+This video discusses dotted 1/8th note patterns in chord progression, dotted 1/4 note patterns, along with dotted 1/8 and 1/4 note crossover ect...
+
+## Captain Pikant's Tutorials
+
+Cannot say enough about the production quality, it's educating and entertaining all while learning about music production, equipment, sound design, synth and drum machine reviews and explanations on how to use those expensive toys that may be collecting dust on your shelf.  
+
+### Drum Macine 101 
+
+These videos take you through the basics of different drum machines, how to program them and he makes funny comments all while giving you a beautiful video.
+
+[Drum Machine 101](https://youtube.com/playlist?list=PLN6bfDhoqzHV8QERJuNuQqyfOdhsL8oEU&si=RFKGVf1LOOKWo1zm)
+
+### Captain Pikant's Audio Laboratory
+
+[Anolog to Digital](https://www.youtube.com/watch?v=B3vihWLH9Sk)
+
+[What's Panning](https://www.youtube.com/watch?v=dLIu4Ue82Lo)
+
+[Reverb Explained](https://www.youtube.com/watch?v=0BzkgbNgkuU)
+
+[Impulse Response on convulution reverb ect...](https://www.youtube.com/watch?v=d-1Zn1LvhB4)
+
+[Compressor](https://www.youtube.com/watch?v=zc-of_7v2Ik)
+
+[How to Use Automation](https://www.youtube.com/watch?v=dkmaQXGc3jQ)
+
+[https://www.youtube.com/watch?v=ucMTmSp1WsY](https://www.youtube.com/watch?v=ucMTmSp1WsY)
+
+[What Does Send FX Mean?](https://www.youtube.com/watch?v=9tucwBloiIU)
+
+[What is Sidechaining?](https://www.youtube.com/watch?v=VliFpaOGY2A)
+
+[Using a Noise Gate for Clear Audio](https://www.youtube.com/watch?v=n44ucyiTQNU)
+
+[How to Use Gated Reverb](https://www.youtube.com/watch?v=FhkbI2dAphU)
+
+
+
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+
