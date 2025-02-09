@@ -58,6 +58,8 @@ To create beats using Push 2, first make sure Note Mode is enabled
 
 ## Step Sequencing Beats
 
+- [Step Sequencing Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#step-sequencing-beats) Tapping a pad selects it and also enables it for step sequencing.  To record notes with the step sequencer, tap the pads in the step sequencer controls to place notes in the clip where you want them. The clip will begin playing as soon as you tap a step. By default, each step sequencer pad corresponds to a 16th note, but you can change the step size via the Scene/Grid buttons.
+  
 "Step sequencing beats" in Ableton means creating a drum beat by programming individual notes (or "steps") in a sequence, where each step represents a specific rhythmic division within a bar, allowing you to build a rhythm pattern by activating specific steps in a grid-like interface, usually using the pads on a controller like Ableton Push, to trigger different drum sounds one after another to form a beat. 
 Learn how to program beats using the step sequencer on Ableton Push.
 
