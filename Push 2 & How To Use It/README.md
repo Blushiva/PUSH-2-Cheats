@@ -18,7 +18,7 @@ Have a look at what you’ll find when you unbox your new Ableton Push for the f
 
 ## General Overview
 
-In this tutorial you’ll get a complete overview of all features and functions of the new Ableton Push.
+In this tutorial you’ll get a complete overview of all features and functions of the Ableton Push 2.
 
 [General overview](https://youtu.be/gSC5zRr4zfw)
 
