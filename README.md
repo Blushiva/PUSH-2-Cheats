@@ -25,10 +25,47 @@ Learning should be fun and easy and hopefully this guide will take some of the w
 ## Table of Contents
 
 [KEYBOARD SHORTCUTS](https://github.com/Blushiva/PUSH-2-Cheats?tab=readme-ov-file#keyboard-shortcuts)
+
 [FILE MANAGEMENT](https://github.com/Blushiva/PUSH-2-Cheats?tab=readme-ov-file#file-management)
+
 [THE MANUALS](https://github.com/Blushiva/PUSH-2-Cheats?tab=readme-ov-file#the-manual)
+
+[Push 2, Tutorials, Manuals and extras](https://github.com/Blushiva/PUSH-2-Cheats/tree/main/Push%202%20%26%20How%20To%20Use%20It#push-2-tutorials-manuals-and-extras)
+
+[ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY AND LEGALITIES](https://github.com/Blushiva/PUSH-2-Cheats/blob/main/Production/README.md#all-other-stuff-in-production-like-drum-machines-and-music-theory-and-legalities)
+
 []()
 []()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+
+
 
 ## KEYBOARD SHORTCUTS
 
