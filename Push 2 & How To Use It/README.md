@@ -24,7 +24,9 @@ In this tutorial you’ll get a complete overview of all features and functions 
 
 ## USING THE PUSH 2
 
-[Using Push 2](https://www.ableton.com/en/manual/using-push-2/)
+[Using Push 2](https://www.ableton.com/en/manual/using-push-2/)  
+
+Much of Push 2’s behavior depends on which mode it is in, as well as on which type of track is selected. To help you learn how to work with Push 2, this chapter will walk you through some of the fundamental workflows, and then will provide a reference of all of Push 2’s controls.
 
 [Browsing and Loading Songs](https://www.ableton.com/en/live-manual/12/using-push-2/#browsing-and-loading-sounds)
 
