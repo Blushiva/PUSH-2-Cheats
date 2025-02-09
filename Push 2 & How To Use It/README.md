@@ -1,8 +1,6 @@
 # Push 2, Tutorials, Manuals and extras
 
-[USING PUSH 2](https://www.ableton.com/en/live-manual/12/using-push-2/#using-push-2)
-
-[Push 2 Setup](https://www.ableton.com/en/live-manual/12/using-push-2/#setup)  After plugging in the included power supply and connecting the USB cable to your computer, turn Push 2 on via the power button in the back. From here, setting up the Push 2 hardware is mostly automatic. As long as Live is running, Push 2 will be automatically detected as soon as it is connected to a USB port on your computer.
+[USING PUSH 2 MANUAL](https://www.ableton.com/en/live-manual/12/using-push-2/#using-push-2)
 
 ## PUSH 2 LEARNING FROM ABLETON
 
