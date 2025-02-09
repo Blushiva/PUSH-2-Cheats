@@ -22,6 +22,14 @@ I wanted to create a guide where I could have a ton of resources on every subjec
 
 Learning should be fun and easy and hopefully this guide will take some of the work out of researching so you can learn faster.
 
+## Table of Contents
+
+[KEYBOARD SHORTCUTS](https://github.com/Blushiva/PUSH-2-Cheats?tab=readme-ov-file#keyboard-shortcuts)
+[FILE MANAGEMENT](https://github.com/Blushiva/PUSH-2-Cheats?tab=readme-ov-file#file-management)
+[THE MANUALS](https://github.com/Blushiva/PUSH-2-Cheats?tab=readme-ov-file#the-manual)
+[]()
+[]()
+
 ## KEYBOARD SHORTCUTS
 
 I hate that most manuals put the shortcuts at the end buried under tons of other information.  Keyboard shortcuts save us time and we can get back to producing.  This is why they are front and center here.  Note: these shortcuts are for Abeleton Live
@@ -41,9 +49,6 @@ This is very crucial but file management is often overlooked until it is to late
 Various types of files are used in making music with Live, from those containing MIDI and audio, to more program-specific files such as Live Clips and Live Sets. This chapter will explain everything you need to know about working with each of these file types in Live.
 
 [Managing Files and Sets](https://www.ableton.com/en/live-manual/12/managing-files-and-sets/#managing-files-and-sets)
-
-## Table of Contents
-
 
 ## THE MANUAL
 
