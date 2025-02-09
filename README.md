@@ -34,7 +34,8 @@ Learning should be fun and easy and hopefully this guide will take some of the w
 
 [ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY AND LEGALITIES](https://github.com/Blushiva/PUSH-2-Cheats/blob/main/Production/README.md#all-other-stuff-in-production-like-drum-machines-and-music-theory-and-legalities)
 
-[]()
+[TOYS AND HOW TO USE THEM](https://github.com/Blushiva/PUSH-2-Cheats/blob/main/How%20To's%20on%20Synths%20%26%20Drum%20Machines/README.md#my-toys-and-how-to-use-them)
+
 []()
 []()
 []()
