@@ -98,3 +98,6 @@ What everyone should read but no one does until they need specifics.  This is a 
 [Abelton Live 12 Manual](https://www.ableton.com/en/manual/welcome-to-live/)
 
 
+## Contributors
+
+Brandi Rasmussen
