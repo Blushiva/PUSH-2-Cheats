@@ -74,7 +74,6 @@ How to purchase their template:
 - [Purchase the Advanced Tracks Template:] (https://fs2s.link/advanced-template0
 
 [How to Build an Ableton Live Set in Less Than 5 Minutes [With a Timed Walkthrough]](https://www.youtube.com/watch?v=K23852UdL54) Watch to find out if I beat the timer! And learn how you can quickly build a set with Ableton Live. Plus I even set up all my audio routing.
-
 The set in this walkthrough includes:
 - 4 songs
 - Time signature changes
