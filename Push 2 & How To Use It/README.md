@@ -70,6 +70,10 @@ To create beats using Push 2, first make sure Note Mode is enabled
 
 [DJing with Ableton Live and Push 2](https://www.youtube.com/watch?v=UGmvDlZdLEE)  Hello! Coming up with another video of this cool idea that came up to me a few weeks back. I've seen DJs doing it and wanted to see how I can do it myself and actually try to set up a DJ set using Ableton instead of a DJ controller. 
 
+[Studio Sessions Part 1 - Serato DJ & Ableton Live - Push 2 Display Session2 by Sigabort](https://www.youtube.com/watch?v=JrDwCC_VB44)  In this first part of series of planned videos I start to introduce how I've built my live performance rig.
+
+With Serato DJ at it's heart, Ableton Live becomes the third deck, but if I'm going to take the performance out of my front room I want to do it with the minimum of equipment and set up.
+
 ## Step Sequencing Beats
 
 - [Step Sequencing Beats](https://www.ableton.com/en/live-manual/12/using-push-2/#step-sequencing-beats) Tapping a pad selects it and also enables it for step sequencing.  To record notes with the step sequencer, tap the pads in the step sequencer controls to place notes in the clip where you want them. The clip will begin playing as soon as you tap a step. By default, each step sequencer pad corresponds to a 16th note, but you can change the step size via the Scene/Grid buttons.
