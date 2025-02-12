@@ -67,10 +67,11 @@ To create beats using Push 2, first make sure Note Mode is enabled
 ## How to Create a Master set playing Live 
 
 [https://www.youtube.com/watch?v=T2bKa_WnnJA](https://www.youtube.com/watch?v=T2bKa_WnnJA)  If you plan on using Ableton Live on stage for stems, multitracks, or backing tracks, you'll want to load multiple songs into one Ableton Live Set for the best experience. To have access to all your songs from that set, and for the best transitions, you don't want to load indivual song files.  
-- How to purchase their template
-  [Download the free tracks template] (https://fs2s.link/tracks-template)
 
-[Purchase the Advanced Tracks Template] (https://fs2s.link/advanced-template0
+How to purchase their template:
+  - [Download the free tracks template:] (https://fs2s.link/tracks-template)
+
+- [Purchase the Advanced Tracks Template:] (https://fs2s.link/advanced-template0
 
 ## DJing with Push 2
 
