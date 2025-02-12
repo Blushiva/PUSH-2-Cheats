@@ -73,6 +73,14 @@ How to purchase their template:
 
 - [Purchase the Advanced Tracks Template:] (https://fs2s.link/advanced-template0
 
+[How to Build an Ableton Live Set in Less Than 5 Minutes [With a Timed Walkthrough]](https://www.youtube.com/watch?v=K23852UdL54) Watch to find out if I beat the timer! And learn how you can quickly build a set with Ableton Live. Plus I even set up all my audio routing.
+
+The set in this walkthrough includes:
+- 4 songs
+- Time signature changes
+- Different keys and tempos
+
+
 ## DJing with Push 2
 
 [DJ Step1 Push 2 Performance Walkthrough](https://www.youtube.com/watch?v=DavI6jKWPMs)  DJ Step1 explains her performance set-up consisting of Ableton Live and Push, Serato and a Pioneer battle mixer.
