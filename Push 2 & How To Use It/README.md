@@ -22,6 +22,16 @@ In this tutorial you’ll get a complete overview of all features and functions 
 
 [General overview](https://youtu.be/gSC5zRr4zfw)
 
+## Connecting your Audio from Push 2 to the sound system
+
+To hook up a Push 2 into a sound system, connect it directly to your computer via USB, then route the audio output from your computer's audio interface to your sound system; essentially, the Push 2 acts as a MIDI controller, sending control data to your computer which then produces sound through your chosen audio interface and into the speakers. 
+
+Key points to remember:
+- Direct connection: Plug the Push 2's USB cable into your computer. 
+- Audio interface: You'll need a separate audio interface connected to your computer to send the audio from your Ableton Live session to your sound system. 
+- Software setup: Within your DAW (like Ableton Live), configure the audio input and output settings to route the audio from your Push 2 through your chosen audio interface. 
+
+
 ## USING THE PUSH 2
 
 [Using Push 2](https://www.ableton.com/en/manual/using-push-2/)  
