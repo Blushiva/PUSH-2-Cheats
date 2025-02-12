@@ -64,6 +64,10 @@ To create beats using Push 2, first make sure Note Mode is enabled
 - [Quantizing](https://www.ableton.com/en/live-manual/12/using-push-2/#quantizing)  Pressing Push 2’s Quantize button will snap notes to the grid in the selected clip.
 - [Arrangement Recording](https://www.ableton.com/en/live-manual/12/using-push-2/#arrangement-recording)  When Live’s Arrangement View is in focus in the software, pressing Record will toggle Arrangement Recording on and off. While Arrangement Recording is on, all of your actions on Push 2 are recorded into the Arrangement View
 
+## How to Create a Master set playing Live 
+
+[https://www.youtube.com/watch?v=T2bKa_WnnJA](https://www.youtube.com/watch?v=T2bKa_WnnJA)  If you plan on using Ableton Live on stage for stems, multitracks, or backing tracks, you'll want to load multiple songs into one Ableton Live Set for the best experience. To have access to all your songs from that set, and for the best transitions, you don't want to load indivual song files.
+
 ## DJing with Push 2
 
 [DJ Step1 Push 2 Performance Walkthrough](https://www.youtube.com/watch?v=DavI6jKWPMs)  DJ Step1 explains her performance set-up consisting of Ableton Live and Push, Serato and a Pioneer battle mixer.
