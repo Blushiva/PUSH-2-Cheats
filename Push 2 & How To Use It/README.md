@@ -70,11 +70,25 @@ To create beats using Push 2, first make sure Note Mode is enabled
 
 [DJing with Ableton Live and Push 2](https://www.youtube.com/watch?v=UGmvDlZdLEE)  Hello! Coming up with another video of this cool idea that came up to me a few weeks back. I've seen DJs doing it and wanted to see how I can do it myself and actually try to set up a DJ set using Ableton instead of a DJ controller. 
 
+#### Rezzonator shows you Abelton DJ Set up
+
+In this series Rezzonator shows us how to set up Abelton and Push to DJ.  He is not a DJ he is a producer but wanted to give an informative series of videos to help us out.  
+
 [Studio Sessions Part 1 - Serato DJ & Ableton Live - Push 2 Display Session2 by Sigabort](https://www.youtube.com/watch?v=JrDwCC_VB44)  In this first part of series of planned videos I start to introduce how I've built my live performance rig.  With Serato DJ at it's heart, Ableton Live becomes the third deck, but if I'm going to take the performance out of my front room I want to do it with the minimum of equipment and set up.
 
 [Tutorial - DJing with Ableton Live and Push - Part 1 - Importing and Warping Songs](https://www.youtube.com/watch?v=ZWWAsumtx3k)  In this series of videos I look at how we can use Ableton Live to create and perform a DJ set.  In this part I look at importing and warping songs so they follow the master tempo of the project.
 
 [Tutorial - DJing with Ableton Live and Push - Part 2 - The Crossfader and Basic MIDI Mapping](https://youtu.be/niljtdqKrHw?si=QxagXKb9FwbK7R9M) In this series of videos I look at how we can use Ableton Live to create and perform a DJ set.  This video introduces the Crossfader and starts looking at how we can use Push in User mode to midi map controls
+
+[Tutorial - DJing with Ableton Live and Push Part 3 - Insert FX - EQ3, Kill Switches & Midi Mapping](https://www.youtube.com/watch?v=sB8CHsN0F_w)  In this series of videos I look at how we can use Ableton Live to create and perform a DJ set.  This one is all about using the EQ3 effect and how to map some of the controls to Ableton Push to create EQ 'kill switches'
+
+[Tutorial - DJing with Ableton Live and Push Part 4 - Send FX - Ping Pong Delay and Reverb](https://www.youtube.com/watch?v=G5vMWiJ1ItU) In this series of videos I look at how we can use Ableton Live to create and perform a DJ set. This one is all about using send fx and in particular the Ping Pong Delay and Reverb
+
+[Tutorial - DJing with Ableton Live and Push - Part 5 - Clip Envelope Automation](https://www.youtube.com/watch?v=MelleESPQ4M)  In this series of videos I look at how we can use Ableton Live to create and perform a DJ set. In this part I look at using clip envelope automation to automate fx
+
+[Tutorial - DJing with Ableton Live and Push - Part 6 - Clip Launch Properties](https://www.youtube.com/watch?v=6qQh_pNIKmQ) In this series of videos I look at how we can use Ableton Live to create and perform a DJ set. In this part I look at using clip launch properties
+
+[Tutorial - DJing with Ableton Live and Push - Part 7 - Crossfader Light Feedback Midi Mapping](https://www.youtube.com/watch?v=KKPsez0SuO0) In this series of videos I look at how we can use Ableton Live to create and perform a DJ set. In this part I look at using crossfader and MIDI mapping
 
 [How I Prepare an Ableton Live DJ Set](https://www.youtube.com/watch?v=ut-A0Qkf9qo)  This guy give a step by step and includes Beatport shopping.  He has a template to use with Abelton for his software.
 
