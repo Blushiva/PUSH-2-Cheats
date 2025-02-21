@@ -31,7 +31,8 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 
 [Can You Copyright a Drumbeat?](https://lawyerdrummer.com/2018/04/can-copyright-drumbeat/#:~:text=unfortunately%2C%20no.,law%20before%20the%20other%20two.)
 
-[]()
+## Equalizers
+[How to use an Equalizer](https://www.youtube.com/playlist?list=PLq7JInvOn27-OkEx-A0CHkt4W7pufpAbR)
 
 []()
 
