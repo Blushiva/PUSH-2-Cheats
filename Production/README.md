@@ -34,13 +34,13 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 ## Equalizers
 [How to use an Equalizer](https://www.youtube.com/playlist?list=PLq7JInvOn27-OkEx-A0CHkt4W7pufpAbR)
 
-[]()
+[How To Use EQ | Effects Series Ep 1](https://www.youtube.com/watch?v=haPftGbBv5A)
 
-[]()
+[How to EQ Bass to Sit Perfectly in the Mix](https://www.youtube.com/watch?v=GuCZplNeltM)
 
-[]()
+[EQ Masterclass - Every EQ Type Explained](https://www.youtube.com/watch?app=desktop&v=mk-bbzNkeJc&t=690s)
 
-[]()
+[How To Become a Master at EQ (in Only 15 Minutes)](https://www.youtube.com/watch?v=RIuqjFP2cHg)
 
 []()
 
