@@ -42,6 +42,8 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 
 [How To Become a Master at EQ (in Only 15 Minutes)](https://www.youtube.com/watch?v=RIuqjFP2cHg)
 
+## Compressors
+
 []()
 
 []()
