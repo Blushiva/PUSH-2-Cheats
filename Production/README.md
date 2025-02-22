@@ -61,6 +61,10 @@ ARTICLES ON EQing
 
 [EQ Explained the Basics](https://www.armadamusic.com/university/music-production-articles/eq-explained-the-basics)
 
+[EQ 101: What Is an Equalizer and How Can It Improve Sound Quality?](https://www.pcmag.com/how-to/eq-101-what-is-an-equalizer-and-how-can-it-improve-sound-quality)
+
+[Types of Equalizers and Their Applications](https://www.sonarworks.com/blog/learn/types-of-equalizers-and-their-applications)
+
 ## Compressors
 
 A compressor is a music production tool that reduces the difference between the loudest and quietest parts of an audio signal. This process is called compression. 
