@@ -32,6 +32,21 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 [Can You Copyright a Drumbeat?](https://lawyerdrummer.com/2018/04/can-copyright-drumbeat/#:~:text=unfortunately%2C%20no.,law%20before%20the%20other%20two.)
 
 ## Equalizers
+
+An equalizer (EQ) is a tool used in audio systems to adjust the volume of specific frequency ranges within a sound, allowing you to boost or cut certain frequencies to improve the overall sound quality by making elements like bass, midrange, and treble more prominent or subdued depending on your preference; essentially, it lets you "shape" the sound by manipulating different parts of the frequency spectrum. 
+
+Key points about equalizers:
+- Frequency bands:
+EQs are divided into different frequency bands, like low bass, midrange, and high treble, allowing you to target specific parts of the audio spectrum. 
+- Boosting and cutting:
+By adjusting the sliders or knobs on an EQ, you can increase (boost) the volume of a particular frequency range or decrease (cut) it to reduce its presence. 
+- Applications:
+Equalizers are commonly used in music production to fine-tune individual instruments or vocals, in live sound reinforcement to adjust room acoustics, and in car audio systems to customize the sound experience.
+
+What Is EQ Or Equalization?
+
+Equalization – or EQ – is one of the most well-known forms of audio processing in music production. With EQ, you can adjust the volume level of a frequency (or range of frequencies) within a sound, which in turn allows you to cure a sound – or sometimes even entire songs – of its imperfections. This is done by cutting unwanted frequencies and/or boosting others, all to balance out sounds so they work well with one another.
+
 [How to use an Equalizer](https://www.youtube.com/playlist?list=PLq7JInvOn27-OkEx-A0CHkt4W7pufpAbR)
 
 [How To Use EQ | Effects Series Ep 1](https://www.youtube.com/watch?v=haPftGbBv5A)
@@ -41,6 +56,10 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 [EQ Masterclass - Every EQ Type Explained](https://www.youtube.com/watch?app=desktop&v=mk-bbzNkeJc&t=690s)
 
 [How To Become a Master at EQ (in Only 15 Minutes)](https://www.youtube.com/watch?v=RIuqjFP2cHg)
+
+ARTICLES ON EQing
+
+[EQ Explained the Basics](https://www.armadamusic.com/university/music-production-articles/eq-explained-the-basics)
 
 ## Compressors
 
