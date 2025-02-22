@@ -65,6 +65,8 @@ ARTICLES ON EQing
 
 [Types of Equalizers and Their Applications](https://www.sonarworks.com/blog/learn/types-of-equalizers-and-their-applications)
 
+[Principles of equalization: how to EQ your mix](https://www.izotope.com/en/learn/principles-of-equalization.html?srsltid=AfmBOorY-KIZLdjv1l6ckYEx_yI9nc018hZkqiLLj5kTF3NlifaYqNkT)
+
 ## Compressors
 
 A compressor is a music production tool that reduces the difference between the loudest and quietest parts of an audio signal. This process is called compression. 
