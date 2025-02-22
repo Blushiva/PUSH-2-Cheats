@@ -44,9 +44,45 @@ If you decide to use a recognizable drum pattern, try to contact the original ar
 
 ## Compressors
 
-[]()
+A compressor is a music production tool that reduces the difference between the loudest and quietest parts of an audio signal. This process is called compression. 
 
-[]()
+How compressors are used: 
+- To make loud parts quieter, which helps maintain a consistent level
+- To add presence, thickness, and snap to a sound
+- To create a professional, finished sound
+- To even out dynamics in a track
+
+Types of compressors
+
+- VCA
+Voltage controlled amplifier compressors are known for their precise control and predictable sound 
+ 
+- FET
+Field effect transistor compressors are fast acting and are great for transient heavy material like drums, acoustic guitars, and bass guitars 
+
+Parallel compression 
+- A technique that blends a compressed signal with the original uncompressed sound
+- This technique is often used when mixing drums to achieve a balance between punch and sustain
+
+Other compressors:  
+- Chandler Limited TG12345
+- UREI LA-4
+- Pendulum Audio PL-2
+- Vertigo Sound VSC-2
+- FabFilter Pro-C 2
+- Softube CL 1B
+
+What is compression in music?
+
+Compression reduces the overall dynamic range of a piece of audio by detecting when it exceeds a specified level, and then attenuating it by a specified amount. Put simply, it narrows the difference between the loudest and softest parts of a track so that it’s more consistent in level.
+
+[Kick & Bass](https://www.youtube.com/watch?v=v9TBQ53KAyI)
+
+[How to become a Master at Compression in 10 minutes](https://www.youtube.com/watch?v=booRjPgtIS4)
+
+Articles on Compression:
+
+[What is Compression](https://splice.com/blog/what-is-compression/)
 
 []()
 
