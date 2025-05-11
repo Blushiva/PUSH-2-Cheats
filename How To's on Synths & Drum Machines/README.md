@@ -114,7 +114,7 @@ By following these steps, your Roland TR-8 should be successfully synchronized w
 
 This video demonstrates how to connect your Roland TR8-S to Ableton and Record:
 
-[Connect to Abelton](https://www.youtube.com/watch?v=eJ7nEFPUZDs&t=199s)
+[Connect to Abelton](https://www.youtube.com/watch?v=UE-Lo43VtrM)
 
 
 # MOOG DFAM
