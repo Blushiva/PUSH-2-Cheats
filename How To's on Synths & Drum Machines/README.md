@@ -113,6 +113,7 @@ USB MIDI Through: Ensure USB MIDI Through and Soft Through are ON.
 By following these steps, your Roland TR-8 should be successfully synchronized with Ableton Live, allowing you to use the TR-8 as a rhythmic accompaniment or sequencing device within your Ableton projects. 
 
 This video demonstrates how to connect your Roland TR8-S to Ableton and Record:
+
 [Connect to Abelton][https://www.youtube.com/watch?v=eJ7nEFPUZDs&t=199s]
 
 
