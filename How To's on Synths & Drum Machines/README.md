@@ -70,6 +70,52 @@ Tutorial on switching from 16 to 32 steps
 
 [Introduction ROLAND T8](https://www.youtube.com/watch?v=tv_oTBNzDjw)
 
+### Syncing Abelton to the T-8
+
+To sync your Roland TR-8 (or TR-8S) with Ableton Live, you'll need to configure both the TR-8 and Ableton to send and receive MIDI clock signals. This allows the TR-8's sequencer to be synchronized with the tempo of your Ableton project. 
+
+#### Here's a breakdown of the process:
+
+1. Connect the TR-8 to your computer:
+Use a USB cable to connect the TR-8 to your computer.
+
+3. Configure Ableton Live:
+Open Preferences: Go to Live > Preferences.
+MIDI Sync: Navigate to the MIDI Sync tab.
+TR-8 Sync: Ensure that OUTPUT: TR-8 SYNC is set to ON.
+Interface Sync: If the TR-8 is connected to an interface, turn on the corresponding SYNC output in the same section.
+
+5. Configure the TR-8:
+
+Utility Menu: Access the Utility menu by pressing the Utility button. 
+MIDI Settings: Select MIDI using the utility screen.
+
+Tempo Sync:
+
+Set Tempo Sync to AUTO. 
+Ensure Sync Out is ON. 
+Ensure Receive Start/Stop is ON. 
+
+Omni Mode: Keep Omni Mode on for the TR-8. 
+USB MIDI Through: Ensure USB MIDI Through and Soft Through are ON. 
+
+7. Optional: Set up the TR-8 as an audio interface in Ableton (for recording audio):
+   
+* Audio Setup: In Ableton's Preferences > Audio tab, set the Audio Input Device to TR-8.
+* Input Config: Enable mono inputs 3-14 under Input Config.
+* Track Setup: Create multiple audio tracks in Ableton and assign them to the TR-8's output channels, according to Roland's instructions.
+  
+9. Start playback in Ableton:
+    
+* The TR-8 should automatically sync to the tempo of your Ableton project.
+
+  
+By following these steps, your Roland TR-8 should be successfully synchronized with Ableton Live, allowing you to use the TR-8 as a rhythmic accompaniment or sequencing device within your Ableton projects. 
+
+This video demonstrates how to connect your Roland TR8-S to Ableton and Record:
+[Connect to Abelton][https://www.youtube.com/watch?v=eJ7nEFPUZDs&t=199s]
+
+
 # MOOG DFAM
 ==============================================================
 
