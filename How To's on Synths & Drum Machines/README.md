@@ -116,6 +116,8 @@ This video demonstrates how to connect your Roland TR8-S to Ableton and Record:
 
 [Connect to Abelton](https://www.youtube.com/watch?v=UE-Lo43VtrM)
 
+[TR-08 & Ableton Live - Configuring Multitrack Inputs - mac0S](https://www.youtube.com/watch?app=desktop&v=Y78A_ezAn3o)
+
 
 # MOOG DFAM
 ==============================================================
