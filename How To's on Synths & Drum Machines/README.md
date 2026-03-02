@@ -297,6 +297,7 @@ Sick example of using some simple synths to create full sets of beautiful music.
 
 Just that... a sampling video using the Monotron Delay
 
-=====================================================
 # Stylophone Theremin
 =====================================================
+
+[Stylophone Tutorials](https://stylophone.com/thereminhelp/?srsltid=AfmBOoqt1mUelMQO5d60MDLkF73_R4-lhcxVoCG6yIdaSU656lz0hIGU)
