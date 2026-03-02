@@ -302,5 +302,4 @@ Just that... a sampling video using the Monotron Delay
 
 [Stylophone Tutorials](https://stylophone.com/thereminhelp/?srsltid=AfmBOoqt1mUelMQO5d60MDLkF73_R4-lhcxVoCG6yIdaSU656lz0hIGU)
 
-
-THEREMIN TUTORIALS - Learn how to tune, use the mode switch, antenna, the slide and its features, trigger, modulation, delay and connectivity
+THEREMIN TUTORIALS Learn how to tune, use the mode switch, antenna, the slide and its features, trigger, modulation, delay and connectivity
