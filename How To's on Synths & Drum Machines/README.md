@@ -300,7 +300,7 @@ Just that... a sampling video using the Monotron Delay
 # Stylophone Theremin
 =====================================================
 
-[User Manual] (https://stylophone.com//wp-content/uploads/2021/07/STYLOPHONE-GEN-R-8-manual-final.pdf)
+[User Manual](https://stylophone.com//wp-content/uploads/2021/07/STYLOPHONE-GEN-R-8-manual-final.pdf)
 
 [Stylophone Tutorials](https://stylophone.com/thereminhelp/?srsltid=AfmBOoqt1mUelMQO5d60MDLkF73_R4-lhcxVoCG6yIdaSU656lz0hIGU)
 
