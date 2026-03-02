@@ -300,6 +300,8 @@ Just that... a sampling video using the Monotron Delay
 # Stylophone Theremin
 =====================================================
 
+[User Manual] (https://stylophone.com//wp-content/uploads/2021/07/STYLOPHONE-GEN-R-8-manual-final.pdf)
+
 [Stylophone Tutorials](https://stylophone.com/thereminhelp/?srsltid=AfmBOoqt1mUelMQO5d60MDLkF73_R4-lhcxVoCG6yIdaSU656lz0hIGU)
 
 THEREMIN TUTORIALS Learn how to tune, use the mode switch, antenna, the slide and its features, trigger, modulation, delay and connectivity
