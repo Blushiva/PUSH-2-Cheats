@@ -305,3 +305,26 @@ Just that... a sampling video using the Monotron Delay
 [Stylophone Tutorials](https://stylophone.com/thereminhelp/?srsltid=AfmBOoqt1mUelMQO5d60MDLkF73_R4-lhcxVoCG6yIdaSU656lz0hIGU)
 
 THEREMIN TUTORIALS Learn how to tune, use the mode switch, antenna, the slide and its features, trigger, modulation, delay and connectivity
+
+# Behringer Grind
+====================================================
+
+The Behringer GRIND is a hybrid, semi-modular desktop synthesizer that combines a versatile digital sound engine with a classic analog filter. Released as part of the "Producer Series," it is designed for creating a wide range of sounds, from deep, percussive basslines to complex, evolving soundscapes. 
+
+Key Features and Capabilities
+
+- Hybrid Engine: The core of the Grind is its digital oscillator, which is based on the Behringer Brains module (a clone of Mutable Instruments Plaits).
+- Oscillator Engines: It features 24 digital oscillator engines, including 15 from the Brains/Plaits module, offering synthesis types like wavetable, FM, virtual analog, and vocal modeling.
+- Analog Filter: Features a 24dB ladder filter with selectable high-pass and low-pass modes.
+- Modulation and Control: Includes a 32-step sequencer with 64 storage slots, an advanced arpeggiator, an LFO, and an ADS envelope.
+- Patchbay: A 22x12 I/O matrix allows for extensive routing and integration with other modular gear.
+- Poly Chain: The unit can be connected to other Behringer synthesizers for up to 16-voice polyphony. 
+
+Performance and Design
+
+- Architecture: It is a monophonic synthesizer.
+- Interface: Features 13 pads and 16 knobs for direct, real-time control.
+- Structure: Similar in form factor to the Behringer Crave and Edge.
+- Connectivity: Includes 5-pin DIN MIDI In/Out/Thru and USB MIDI. 
+
+
