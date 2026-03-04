@@ -309,6 +309,8 @@ THEREMIN TUTORIALS Learn how to tune, use the mode switch, antenna, the slide an
 # Behringer Grind
 ====================================================
 
+[Quick Start Guide](https://cdn.mediavalet.com/aunsw/musictribe/aIwMLywRYEq-MYTuNhAFCw/PVfdwp-saEO4nPiwoUKmRA/Original/QSG_BE_0718-ACI_GRIND_WW.pdf)
+
 The Behringer GRIND is a hybrid, semi-modular desktop synthesizer that combines a versatile digital sound engine with a classic analog filter. Released as part of the "Producer Series," it is designed for creating a wide range of sounds, from deep, percussive basslines to complex, evolving soundscapes. 
 
 Key Features and Capabilities
