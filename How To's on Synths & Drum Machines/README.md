@@ -211,6 +211,38 @@ This video is designed to give a basic and thorough overview of the Moog DFAM (D
 
 [Using Your DFAM Beyond Just Percussion | Tips & Tricks](https://www.youtube.com/watch?v=9r5VQdgmR40)  Advice on how to use your DFAM as more than just a percussive instrument.
 
+## DFAM PATCH IDEAS
+
+Here are patch ideas for the DFAM, categorized by technique and style:
+1. Internal Modulation & "Noise" Techniques
+Pitch to Noise Level (Snare/Hi-Hat Effect): Patch the VCO Pitch Out to the Noise Level Input. As the pitch increases on higher steps, the noise level rises, creating a sizzling snare or hi-hat effect.
+Velocity as Accent/Modulation: Use the Velocity Output to drive modulation inputs like VCF Mod or VCA Decay. This makes certain steps in the sequence tighter or more heavily filtered, adding dynamics to the rhythm.
+Trigger to VCF/VCA Trigger: Use a step's Trigger Output to feed into the VCF Mod or VCA Trigger inputs to create extra rhythmic bursts or "ghost notes" within a pattern.
+Self-Oscillation Drone: Turn up the Resonance on the VCF, set the VCF mode to BPF or LPF, and turn up the VCF decay to create a rhythmic, melodic drone. 
+
+2. Rhythmic & Sequencing Variations
+Clock Divider Modulation: Use a clock divider (from external modular or a synced device) to trigger the Adv/Clk Input or patch a divided clock into the Noise Level Input for rhythmic, sporadic noise bursts.
+External Sequence Control: Use an external sequencer (like a Korg SQ-1 or Eurorack sequencer) to drive the Adv/Clk Input. This allows for longer than 8-step patterns, polyrhythms, or randomizing the sequence.
+Step Skip: Patch a "Velocity" output of a specific step to the Run/Stop input to intentionally skip steps or reset the sequence, creating irregular time signatures. 
+
+3. Sound Design & Texture
+FM (Frequency Modulation) Drum: Patch an envelope or LFO to the FM Amount Input while keeping the Pitch locked, creating metallic or bell-like, evolving tones.
+External Audio Processing: Run an external sound source (like a drum machine or VCO) into the External Audio In and use the DFAM’s filter and envelopes to shape it.
+LFO VCF Modulation: Plug an LFO into the VCF Mod Input to create dramatic or subtle wah-wah effects, especially useful with a high resonance setting. 
+
+4. Specific "Patch Library" Ideas
+Dub Techno/Deep Bass: Focus on heavy VCF modulation, short decays, and using Velocity to control VCF decay, resulting in a dark, booming sound.
+Industrial/Harsh Noise: Utilize high resonance, FM, and patch Velocity to the VCF and VCA inputs for aggressive, distorted sounds.
+Ambient Drone: Slow down the clock, set all decays to maximum, and use a LFO to slowly modulate the VCF frequency.
+Tribal Drums: Use two oscillators, patch them into the Filter, and use the sequencer to create alternating tones, with noise added on specific steps. 
+
+Top Tips for Patching
+Use Attenuators: If a modulation is too extreme, use an attenuator (like a Moog CP-251 or Eurorack module) to tame the signal before it hits the destination.
+Daisy Chain Oscillators: You can mix the output of both oscillators together by patching them to the same input.
+Dummy Cable in VCF Mod: Placing a patch cable into the VCF mod input (without plugging the other end in) can create a unique, "dead" or muted filter sound, often used for industrial patches. 
+
+[Moog DFAM - Synchronization & Eurorack Integration Patch Examples](https://www.youtube.com/watch?v=kNtSTduM7fs#:~:text=Moog%20DFAM%20%2D%20Synchronization%20&%20Eurorack%20Integration,Quick%20creating%20semi%2Drandom%20Noises)
+
 ## ELEKTRON MACHINE DRUM SPS-1 MKII
 ==============================================================
 
@@ -226,7 +258,7 @@ MIDI is fully implemented and can control the sequencer and synthesizer function
 
 The best feature is that there are 16 available sounds which can all be individually programmed and processed within the device. Furthermore, you can send out up to six outputs for further processing using external effects.
 
-## DFAM PATCH IDEAS
+
 
 
 [SPS -1 MKII MANUAL](https://www.strumentimusicali.net/manuali/ELEKTRON_SPS1UWMKII_ENG.pdf)
