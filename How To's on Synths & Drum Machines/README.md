@@ -243,6 +243,14 @@ Dummy Cable in VCF Mod: Placing a patch cable into the VCF mod input (without pl
 
 [Moog DFAM - Synchronization & Eurorack Integration Patch Examples](https://www.youtube.com/watch?v=kNtSTduM7fs#:~:text=Moog%20DFAM%20%2D%20Synchronization%20&%20Eurorack%20Integration,Quick%20creating%20semi%2Drandom%20Noises)
 
+[Why your modular needs a Clock Divider - Patch-tips!](https://www.reddit.com/r/modular/comments/o2rb85/why_your_modular_needs_a_clock_divider_patchtips/#:~:text=Clock%20dividing%20is%20one%20of%20those%20tricks,tools%20for%20rhythmical%2C%20drone%20and%20generative%20patches.)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 
 ==============================================================
 ## ELEKTRON MACHINE DRUM SPS-1 MKII
