@@ -250,7 +250,10 @@ Dummy Cable in VCF Mod: Placing a patch cable into the VCF mod input (without pl
 [Patch From Scratch - Moog DFAM Ambient Drone](https://www.youtube.com/watch?v=5yg4CijplkA#:~:text=Patch%20From%20Scratch%20%2D%20Moog%20DFAM,This%20content%20isn't%20available.)
 
 [Batverb vs. Desmodus Versio](https://noiseengineering.us/blogs/loquelic-literitas-the-blog/batverb-vs-desmodus-versio/#:~:text=In%20Eurorack%2C%20modules%20don't%20have%20as%20wide,an%20unnecessary%20use%20of%20valuable%20panel%20space.)
-[]()
+
+## Patches
+[DFAM Patch - Annihilation - Heavy Industrial](https://www.youtube.com/watch?v=FBQgCCPYMFM)
+
 []()
 []()
 []()
