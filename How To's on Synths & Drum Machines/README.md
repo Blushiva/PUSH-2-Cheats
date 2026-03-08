@@ -226,6 +226,9 @@ MIDI is fully implemented and can control the sequencer and synthesizer function
 
 The best feature is that there are 16 available sounds which can all be individually programmed and processed within the device. Furthermore, you can send out up to six outputs for further processing using external effects.
 
+## DFAM PATCH IDEAS
+
+
 [SPS -1 MKII MANUAL](https://www.strumentimusicali.net/manuali/ELEKTRON_SPS1UWMKII_ENG.pdf)
 
 #### Machine drum tutorials
