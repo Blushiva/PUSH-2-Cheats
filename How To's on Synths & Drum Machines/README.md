@@ -243,6 +243,8 @@ Dummy Cable in VCF Mod: Placing a patch cable into the VCF mod input (without pl
 
 [Moog DFAM - Synchronization & Eurorack Integration Patch Examples](https://www.youtube.com/watch?v=kNtSTduM7fs#:~:text=Moog%20DFAM%20%2D%20Synchronization%20&%20Eurorack%20Integration,Quick%20creating%20semi%2Drandom%20Noises)
 
+
+==============================================================
 ## ELEKTRON MACHINE DRUM SPS-1 MKII
 ==============================================================
 
@@ -257,9 +259,6 @@ The built-in sequencer offers two programming methods: Classic and Extended. Cla
 MIDI is fully implemented and can control the sequencer and synthesizer functions of the Machinedrum. Trigger sounds or entire patterns synced to MIDI clock. All edit parameters can be controlled by continuous MIDI controller numbers. This machine has it all, giving you total control and the flexibility to create your own unique drum sounds across a wide range of sonic percussion possibilities!
 
 The best feature is that there are 16 available sounds which can all be individually programmed and processed within the device. Furthermore, you can send out up to six outputs for further processing using external effects.
-
-
-
 
 [SPS -1 MKII MANUAL](https://www.strumentimusicali.net/manuali/ELEKTRON_SPS1UWMKII_ENG.pdf)
 
