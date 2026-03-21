@@ -129,6 +129,8 @@ Music writer Harry Sword’s Monolithic Undertow took readers on a journey acros
 
 [Make a Generative & Evolving Drone Sound with Operator](https://www.ableton.com/en/blog/make-generative-evolving-drone-sound-operator/) Whether it's a lush pad or a single, low note, a droning or sustained sound can really flesh out a track - or make a piece, if you're working with a more minimal pallette. In a new tutorial from Computer Music, you can learn how to synthesize an evolving drone sound with paremeters that change over time, using Operator, modulation devices (like LFO) that come with Max for Live, and Live's MIDI effects. 
 
+[Easy Ambient drones in Ableton Live](https://www.aulart.com/blog/easy-ambient-drones-in-ableton-2/?srsltid=AfmBOor0zMue1jtp7Lk2KnWyV7Upvt0SOoXK64sd8-CeIpyc84R0EMXH)  An ambient evolving drone is a unique sound which can become a whole track, it can be used as a “sound-bed” supporting minimalist rhythms , or it can simply be a pleasant way to spend an afternoon.
+
 [Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.google.com/search?client=safari&rls=en&q=How+to+make+drone+in+abelton&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d7d553f1,vid:IcFEVozEgEw,st:0)
 
 [How to Make a Drone in Ableton Live](https://www.youtube.com/watch?v=l9Qq5Sj1-hE)
