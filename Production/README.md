@@ -1,6 +1,6 @@
 ========================================================================================================
 
-# ALL OTHER STUFF IN PRODUCTION LIKE DRUM MACHINES AND MUSIC THEORY AND LEGALITIES 
+# ALL OTHER STUFF IN PRODUCTION AND MUSIC THEORY LEGALITIES DRONE REVERB ECT...
 =======================================================================================================
 
 ## Drum Patterns, Loops, and Legalities COPYWRITING
