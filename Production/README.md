@@ -129,6 +129,8 @@ Articles on Compression:
 
 [Making Dark Cinematic Drone in Ableton Wavetable - Ableton Sound Design](https://www.youtube.com/watch?v=OAF_ZXzFHic)
 
+Get to know Ableton Wavetable and learn how to create a Long Dark Resonant drone that always evolves and changes. You only need to hold one key on your midi controller to achieve infinite Dark Cinematic Drone. 
+
 []()
 
 ## PRODUCTION AND THEORY
