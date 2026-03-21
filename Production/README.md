@@ -125,9 +125,9 @@ Articles on Compression:
 ## How to MAKE DRONE IN ABELTON
 [Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.google.com/search?client=safari&rls=en&q=How+to+make+drone+in+abelton&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d7d553f1,vid:IcFEVozEgEw,st:0)
 
-[]()
+[How to Make a Drone in Ableton Live](https://www.youtube.com/watch?v=l9Qq5Sj1-hE)
 
-[]()
+[Making Dark Cinematic Drone in Ableton Wavetable - Ableton Sound Design](https://www.youtube.com/watch?v=OAF_ZXzFHic)
 
 []()
 
