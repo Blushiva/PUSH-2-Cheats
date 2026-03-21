@@ -131,7 +131,7 @@ Music writer Harry Sword’s Monolithic Undertow took readers on a journey acros
 
 [Easy Ambient drones in Ableton Live](https://www.aulart.com/blog/easy-ambient-drones-in-ableton-2/?srsltid=AfmBOor0zMue1jtp7Lk2KnWyV7Upvt0SOoXK64sd8-CeIpyc84R0EMXH)  An ambient evolving drone is a unique sound which can become a whole track, it can be used as a “sound-bed” supporting minimalist rhythms , or it can simply be a pleasant way to spend an afternoon.
 
-[Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.youtube.com/watch?v=IcFEVozEgEw)
+[Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.youtube.com/watch?v=IcFEVozEgEw)  A fun technique to turn any sound (and I mean ANY sound, like even kick drums) into a cool atmospheric and ambient drone in some really simple steps. Enjoy! 
 
 [How to Make a Drone in Ableton Live](https://www.youtube.com/watch?v=l9Qq5Sj1-hE)  Drones are a great way to fill the empty space in songs. I use them all the time to make my songs sound more complete and polished. Knowing how to make drones is super beneficial that way you can tailor them to your song.
 
