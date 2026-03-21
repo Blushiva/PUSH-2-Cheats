@@ -123,6 +123,10 @@ Articles on Compression:
 
 []()
 ## How to MAKE DRONE IN ABELTON
+
+[Drone Lab: Creating Sustained Sounds in Live 11](https://www.ableton.com/en/blog/drone-lab-creating-sustained-sounds-in-live-11/)
+Music writer Harry Sword’s Monolithic Undertow took readers on a journey across the history and cultural context of drones in music and the world. In the book, he suggests that the human attraction to persistent noise begins in the womb. “Bodily sounds – the rushing of the blood, the beating of the heart, the gurgles of the digestive tract – are not merely perceptible to a foetus in utero, but heard, loud and clear.” This gestational soundscape can register as loud as 88 decibels, and might begin to explain why so many of us find serenity in drawn-out tones.
+
 [Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.google.com/search?client=safari&rls=en&q=How+to+make+drone+in+abelton&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d7d553f1,vid:IcFEVozEgEw,st:0)
 
 [How to Make a Drone in Ableton Live](https://www.youtube.com/watch?v=l9Qq5Sj1-hE)
