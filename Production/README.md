@@ -133,7 +133,7 @@ Music writer Harry Sword’s Monolithic Undertow took readers on a journey acros
 
 [Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.google.com/search?client=safari&rls=en&q=How+to+make+drone+in+abelton&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d7d553f1,vid:IcFEVozEgEw,st:0)
 
-[How to Make a Drone in Ableton Live](https://www.youtube.com/watch?v=l9Qq5Sj1-hE)
+[How to Make a Drone in Ableton Live](https://www.youtube.com/watch?v=l9Qq5Sj1-hE)  Drones are a great way to fill the empty space in songs. I use them all the time to make my songs sound more complete and polished. Knowing how to make drones is super beneficial that way you can tailor them to your song.
 
 [Making Dark Cinematic Drone in Ableton Wavetable - Ableton Sound Design](https://www.youtube.com/watch?v=OAF_ZXzFHic)
 Get to know Ableton Wavetable and learn how to create a Long Dark Resonant drone that always evolves and changes. You only need to hold one key on your midi controller to achieve infinite Dark Cinematic Drone. 
