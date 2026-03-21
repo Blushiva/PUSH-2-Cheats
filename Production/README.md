@@ -127,7 +127,7 @@ Articles on Compression:
 [Drone Lab: Creating Sustained Sounds in Live 11](https://www.ableton.com/en/blog/drone-lab-creating-sustained-sounds-in-live-11/)
 Music writer Harry Sword’s Monolithic Undertow took readers on a journey across the history and cultural context of drones in music and the world. In the book, he suggests that the human attraction to persistent noise begins in the womb. “Bodily sounds – the rushing of the blood, the beating of the heart, the gurgles of the digestive tract – are not merely perceptible to a foetus in utero, but heard, loud and clear.” This gestational soundscape can register as loud as 88 decibels, and might begin to explain why so many of us find serenity in drawn-out tones.
 
-[Make a Generative & Evolving Drone Sound with Operator](https://www.ableton.com/en/blog/make-generative-evolving-drone-sound-operator/)
+[Make a Generative & Evolving Drone Sound with Operator](https://www.ableton.com/en/blog/make-generative-evolving-drone-sound-operator/) Whether it's a lush pad or a single, low note, a droning or sustained sound can really flesh out a track - or make a piece, if you're working with a more minimal pallette. In a new tutorial from Computer Music, you can learn how to synthesize an evolving drone sound with paremeters that change over time, using Operator, modulation devices (like LFO) that come with Max for Live, and Live's MIDI effects. 
 
 [Turn ANY Sound Into An Ambient Drone in Ableton Live](https://www.google.com/search?client=safari&rls=en&q=How+to+make+drone+in+abelton&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d7d553f1,vid:IcFEVozEgEw,st:0)
 
