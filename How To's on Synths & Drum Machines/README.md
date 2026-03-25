@@ -1,7 +1,7 @@
 
 ========================================================
 
-# TOYS AND HOW TO USE THEM
+# MACHINES AND HOW TO USE THEM
 
 ========================================================
 
@@ -378,3 +378,23 @@ Performance and Design
 - Connectivity: Includes 5-pin DIN MIDI In/Out/Thru and USB MIDI. 
 
 [Behringer Grind 1 Overview and Sound Engines](https://www.youtube.com/watch?v=w6eTJDE7SMo)
+
+# DONNER B1
+====================================================
+
+Key Programming Steps:
+
+- Initialize/Clear Pattern: Ensure REC/EDIT is lit, then hold PLAY/STOP + CLEAR/REST for two seconds.
+- Step Editing: While in REC/EDIT, you can adjust OCT, GATE LENGTH, ACCENT, and RATCHET for specific steps to create rhythmic variations.
+- Slide/Rest: Create slides by activating the slide parameter, and add rests by ensuring a step has no note or using the CLEAR/REST button, which makes the step LED go out.
+- Pattern Chain (Song Mode): Double-press the Pattern button to enter Song Mode to chain up to 16 patterns for a total of 256 steps. 
+
+To program the Donner B1, enter Record/Edit mode by pressing the REC/EDIT button, then use the 26 haptic pads to input notes for each step. It defaults to 16th notes; hold OCT or GATE LENGTH + ⬆️/⬇️ to edit steps. Save patterns by pressing the SAVE button to store to user memory. 
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
