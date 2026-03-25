@@ -391,7 +391,11 @@ Key Programming Steps:
 
 To program the Donner B1, enter Record/Edit mode by pressing the REC/EDIT button, then use the 26 haptic pads to input notes for each step. It defaults to 16th notes; hold OCT or GATE LENGTH + ⬆️/⬇️ to edit steps. Save patterns by pressing the SAVE button to store to user memory. 
 
-[]()
+[Donner B1 | Review + Tutorial | Everything you need to know](https://www.youtube.com/watch?v=0kP5cWsM8Mk&t=633s)  This is our very honest review on the Donner B1 monophonic bass synthesizer. In this video we give you a tour of what it can do, but we also show its shortcomings and why it isn't a true 303 clone. But maybe that's not a bad thing?
+
+You can find the DonnerSynths software under
+[Essential B1 Donner Control](https://us.donnermusic.com/pages/download)(it's in the MIDI Keyboard section)
+
 []()
 []()
 []()
