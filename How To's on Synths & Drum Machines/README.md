@@ -398,8 +398,10 @@ To program the Donner B1, enter Record/Edit mode by pressing the REC/EDIT button
 You can find the DonnerSynths software under
 [Essential B1 Donner Control](https://us.donnermusic.com/pages/download)(it's in the MIDI Keyboard section)
 
-[]()
-[]()
+[Making a Dynamic Scifi Music with Donner B1 Synth (Review, walkthrough, composing)](https://www.youtube.com/watch?v=JOP_sYU-2eo&t=1052s) IMO One of the best tutorials out there.  Step by Step instructions on how to use this synth.  
+
+In this tutorial, She will first show you the functionalities of the Donner B1 Synthesizer, but if you just want to see how I compose music with a synth, you can skip to 15:30. You don’t need to use the exact same synthesizer; you can use any synthesizer you have. My goal is to show you how to utilize ANY SYNTH you have and incorporate its sound into your cinematic composition.
+
 []()
 []()
 []()
